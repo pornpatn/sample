@@ -11165,6 +11165,14 @@
 				{
 					"name": "日本語",
 					"locale": "ja"
+				},
+				{
+					"name": "Español",
+					"locale": "es"
+				},
+				{
+					"name": "ภาษาไทย",
+					"locale": "th"
 				}
 			],
 			"locale": {

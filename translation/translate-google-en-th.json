@@ -1,0 +1,1442 @@
+{
+  "500": {
+    "translatedText": "500",
+    "timestamp": 1541617469132
+  },
+  "600": {
+    "translatedText": "600",
+    "timestamp": 1541617469132
+  },
+  "700": {
+    "translatedText": "700",
+    "timestamp": 1541617469132
+  },
+  "Explore the city and its neighboring areas!  Plan your journey, find parking, enjoy city services, get the latest news, watch entertainment, and more!": {
+    "translatedText": "สำรวจเมืองและพื้นที่ใกล้เคียง! วางแผนการเดินทางค้นหาที่จอดรถเพลิดเพลินกับบริการของเมืองรับข่าวสารล่าสุดดูความบันเทิงและอื่น ๆ !",
+    "timestamp": 1541617468550
+  },
+  "mv": {
+    "translatedText": "mv",
+    "timestamp": 1541617468768
+  },
+  "Mission Viejo": {
+    "translatedText": "Mission Viejo",
+    "timestamp": 1541617468768
+  },
+  "true": {
+    "translatedText": "จริง",
+    "timestamp": 1541617468768
+  },
+  "mvStyle": {
+    "translatedText": "mvStyle",
+    "timestamp": 1541617468768
+  },
+  "Indian Pueblo Cultural Center": {
+    "translatedText": "ศูนย์วัฒนธรรมอินเดียนปวยโบ",
+    "timestamp": 1541617468768
+  },
+  "#3e97e9": {
+    "translatedText": "# 3e97e9",
+    "timestamp": 1541617468768
+  },
+  "#FFFFFF": {
+    "translatedText": "#FFFFFF",
+    "timestamp": 1541617468768
+  },
+  "#529c8d": {
+    "translatedText": "# 529c8d",
+    "timestamp": 1541617468768
+  },
+  "rgba(62,151,233, 0.3)": {
+    "translatedText": "rgba (62,151,233, 0.3)",
+    "timestamp": 1541617468768
+  },
+  "Loading...": {
+    "translatedText": "กำลังโหลด ...",
+    "timestamp": 1541617468768
+  },
+  "Please wait while the latest\ndata is downloaded\n\nThis may take a while and depends on the speed of your connection": {
+    "translatedText": "โปรดรอสักครู่ขณะที่ดาวน์โหลดข้อมูลล่าสุดอาจต้องใช้เวลาสักครู่และขึ้นอยู่กับความเร็วของการเชื่อมต่อของคุณ",
+    "timestamp": 1541617468768
+  },
+  "Just a little bit longer\n\nDownloading new events, restaurants, daily deals, and shopping opportunities": {
+    "translatedText": "เพียงนิดหน่อยอีกต่อไปดาวน์โหลดกิจกรรมใหม่ ๆ ร้านอาหารข้อเสนอพิเศษประจำวันและโอกาสในการช็อปปิ้ง",
+    "timestamp": 1541617468768
+  },
+  "Almost done downloading\nthe latest data\n\nDownload speed depends on\nthe time since you last synced": {
+    "translatedText": "เกือบจะดาวน์โหลดข้อมูลล่าสุดความเร็วในการดาวน์โหลดขึ้นอยู่กับเวลาที่คุณซิงค์ครั้งล่าสุด",
+    "timestamp": 1541617468768
+  },
+  "This is taking longer than expected\nand should be done soon\n\nDownload speed depends on\nthe speed of your connection\nand on the time since you last synced": {
+    "translatedText": "ใช้เวลานานกว่าที่คาดไว้และควรทำเร็ว ๆ นี้ความเร็วในการดาวน์โหลดขึ้นอยู่กับความเร็วของการเชื่อมต่อและเวลาที่คุณซิงค์ครั้งล่าสุด",
+    "timestamp": 1541617468768
+  },
+  "mvlifeapp@cityofmissionviejo.org": {
+    "translatedText": "mvlifeapp@cityofmissionviejo.org",
+    "timestamp": 1541617468768
+  },
+  "Bureau of Tourism Administrative Office\nMission Viejo.\nxxx-xxx-xxxx": {
+    "translatedText": "สำนักบริหารการท่องเที่ยว Mission Viejo xxx-xxx-xxxx",
+    "timestamp": 1541617468768
+  },
+  "Visit Mission Viejo Website": {
+    "translatedText": "เยี่ยมชมเว็บไซต์ Mission Viejo",
+    "timestamp": 1541617468768
+  },
+  "https://www.visitpalmsprings.com/": {
+    "translatedText": "https://www.visitpalmsprings.com/",
+    "timestamp": 1541617468768
+  },
+  "@media{../resources/viejo/cities/viejo/Assets/Icon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/viejo/Assets/Icon@?x.png}",
+    "timestamp": 1541617468768
+  },
+  "https://www.facebook.com/MissionViejoLife/": {
+    "translatedText": "https://www.facebook.com/MissionViejoLife/",
+    "timestamp": 1541617468768
+  },
+  "@media{../resources/viejo/cities/viejo/assets/info/FacebookIcon/FacebookIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/info/FacebookIcon/FacebookIcon@?x.png}",
+    "timestamp": 1541617468768
+  },
+  "https://twitter.com/MissionViejoCA/": {
+    "translatedText": "https://twitter.com/MissionViejoCA/",
+    "timestamp": 1541617468768
+  },
+  "@media{../resources/viejo/cities/viejo/assets/info/TwitterIcon/TwitterIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/info/TwitterIcon/TwitterIcon@?x.png}",
+    "timestamp": 1541617468768
+  },
+  "https://www.instagram.com/missionviejolife/": {
+    "translatedText": "https://www.instagram.com/missionviejolife/",
+    "timestamp": 1541617468768
+  },
+  "@media{../resources/viejo/cities/viejo/assets/info/InstagramIcon/InstagramIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/info/InstagramIcon/InstagramIcon@?x.png}",
+    "timestamp": 1541617468768
+  },
+  "https://youtube.com/user/MissionViejoCA/": {
+    "translatedText": "https://youtube.com/user/MissionViejoCA/",
+    "timestamp": 1541617468768
+  },
+  "@media{../resources/viejo/cities/viejo/assets/info/Youtube/ic_youtube@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/info/Youtube/ic_youtube@?x.png}",
+    "timestamp": 1541617468768
+  },
+  "@media{../resources/viejo/cities/viejo/assets/navbar/logo/InfoLogo-1@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/navbar/logo/InfoLogo-1@?x.png}",
+    "timestamp": 1541617468768
+  },
+  "@media{../resources/viejo/cities/viejo/assets/navbar/NavBarBG/NavBarBG@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/navbar/NavBarBG/NavBarBG@?x.png}",
+    "timestamp": 1541617468768
+  },
+  "@media{../resources/viejo/cities/viejo/assets/navbar/infoIcon/InfoIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/navbar/infoIcon/InfoIcon@?x.png}",
+    "timestamp": 1541617468768
+  },
+  "@media{../resources/viejo/cities/viejo/assets/navbar/searchIcon/SearchIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/navbar/searchIcon/SearchIcon@?x.png}",
+    "timestamp": 1541617468768
+  },
+  "@media{../resources/viejo/cities/viejo/assets/navbar/weatherIcon/WeatherIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/navbar/weatherIcon/WeatherIcon@?x.png}",
+    "timestamp": 1541617468768
+  },
+  "Shopping & Dining": {
+    "translatedText": "ช้อปปิ้งและรับประทานอาหาร",
+    "timestamp": 1541617468768
+  },
+  "Things to Do": {
+    "translatedText": "สิ่งที่ต้องทำ",
+    "timestamp": 1541617468768
+  },
+  "Events": {
+    "translatedText": "เหตุการณ์ที่เกิดขึ้น",
+    "timestamp": 1541617468768
+  },
+  "News & Sports": {
+    "translatedText": "ข่าวสารและกีฬา",
+    "timestamp": 1541617468768
+  },
+  "Report Issues": {
+    "translatedText": "รายงานปัญหา",
+    "timestamp": 1541617468768
+  },
+  "sdk": {
+    "translatedText": "SDK",
+    "timestamp": 1541617468768
+  },
+  "@media{../app/assets/weather/weather_default_bg@?x.png}": {
+    "translatedText": "@media {../ app/assets/weather/weather_default_bg@?x.png}",
+    "timestamp": 1541617468768
+  },
+  "Welcome": {
+    "translatedText": "ยินดีต้อนรับ",
+    "timestamp": 1541617468768
+  },
+  "Location": {
+    "translatedText": "ที่ตั้ง",
+    "timestamp": 1541617468768
+  },
+  "Settings": {
+    "translatedText": "การตั้งค่า",
+    "timestamp": 1541617468768
+  },
+  "Bookmarks": {
+    "translatedText": "ที่คั่น",
+    "timestamp": 1541617468768
+  },
+  "Augmented Reality": {
+    "translatedText": "ความเป็นจริงที่เพิ่มขึ้น",
+    "timestamp": 1541617468768
+  },
+  "The MV Life app provides you with rich, interactive information about City of Mission Viejo such as shopping and dining, things to do, places to visit, community news and the ability to report issues and stay in communication with the City. ": {
+    "translatedText": "แอปพลิเคชัน MV Life จะให้ข้อมูลเกี่ยวกับ City of Mission Viejo ที่หลากหลายเกี่ยวกับการช้อปปิ้งและรับประทานอาหารสิ่งต่างๆน่าสนใจสถานที่ท่องเที่ยวข่าวสารของชุมชนและความสามารถในการรายงานปัญหาต่างๆและอยู่ในการติดต่อสื่อสารกับเมือง",
+    "timestamp": 1541617468768
+  },
+  "From “Settings,” choose “Auto-Locate” to see what’s offered nearby. You can also select “Choose Location” to explore a specific area of Mission Viejo.": {
+    "translatedText": "จาก \"การตั้งค่า\" ให้เลือก \"ค้นหาอัตโนมัติ\" เพื่อดูว่ามีอะไรอยู่ใกล้เคียงบ้าง นอกจากนี้คุณยังสามารถเลือก \"เลือกตำแหน่ง\" เพื่อสำรวจพื้นที่เฉพาะของ Mission Viejo",
+    "timestamp": 1541617468768
+  },
+  "From “Settings,” select “Sync” to get the most up-to-date app data and information. We recommend you do this over a Wi-Fi connection. Under settings you can also select your preferred distance units.": {
+    "translatedText": "จาก \"การตั้งค่า\" เลือก \"ซิงค์\" เพื่อรับข้อมูลและข้อมูลแอปที่ทันสมัยที่สุด ขอแนะนำให้คุณดำเนินการนี้ผ่านการเชื่อมต่อ Wi-Fi ภายใต้การตั้งค่าคุณสามารถเลือกหน่วยทางไกลที่คุณต้องการ",
+    "timestamp": 1541617468768
+  },
+  "Bookmark your favorite shops, restaurants, parks, trails, and other locations for quick access in the future. ": {
+    "translatedText": "ทำเครื่องหมายที่ร้านค้าร้านอาหารสวนสาธารณะเส้นทางเดินสายและสถานที่อื่น ๆ เพื่อการเข้าถึงที่รวดเร็วในอนาคต",
+    "timestamp": 1541617468768
+  },
+  "This feature allows you to see the location and distance to nearby points of interest overlaid on the real world using your phone’s camera. ": {
+    "translatedText": "คุณลักษณะนี้ช่วยให้คุณสามารถดูตำแหน่งและระยะทางไปยังจุดที่น่าสนใจในบริเวณใกล้เคียงที่ถูกซ้อนทับในโลกแห่งความเป็นจริงโดยใช้กล้องถ่ายรูปในโทรศัพท์ของคุณ",
+    "timestamp": 1541617468768
+  },
+  "#2e6583": {
+    "translatedText": "# 2e6583",
+    "timestamp": 1541617468768
+  },
+  "white": {
+    "translatedText": "ขาว",
+    "timestamp": 1541617468768
+  },
+  "light-content": {
+    "translatedText": "แสงเนื้อหา",
+    "timestamp": 1541617468768
+  },
+  "home": {
+    "translatedText": "บ้าน",
+    "timestamp": 1541617468768
+  },
+  "@media{../app/assets/tripPlanner/GetAroundIconInactive/GetAroundIconInactive@?x.png}": {
+    "translatedText": "@media {../ app/assets/tripPlanner/GetAroundIconInactive/GetAroundIconInactive@?x.png}",
+    "timestamp": 1541617468768
+  },
+  "home.TripPlanner": {
+    "translatedText": "home.TripPlanner",
+    "timestamp": 1541617468768
+  },
+  "Get Around": {
+    "translatedText": "ไปรอบ ๆ",
+    "timestamp": 1541617468768
+  },
+  "Trip Planner": {
+    "translatedText": "วางแผนการเดินทาง",
+    "timestamp": 1541617468768
+  },
+  "addToRecent": {
+    "translatedText": "addToRecent",
+    "timestamp": 1541617468768
+  },
+  "1 Arrowhead Dr, Kansas City, MO 64129, USA": {
+    "translatedText": "1 Arrowhead Dr, Kansas City, MO 64129, USA",
+    "timestamp": 1541617468768
+  },
+  "30 W Pershing Rd, Kansas City, MO 64129, USA": {
+    "translatedText": "30 W Pershing Rd, Kansas City, MO 64129 สหรัฐอเมริกา",
+    "timestamp": 1541617468768
+  },
+  "recentLocations": {
+    "translatedText": "recentLocations",
+    "timestamp": 1541617468768
+  },
+  "500 Northwest Richards Road, Kansas City, MO 64116, USA": {
+    "translatedText": "500 ถนน Northwest Richards, Kansas City, MO 64116, USA",
+    "timestamp": 1541617468768
+  },
+  "2475 Grand Blvd, Kansas City, MO 64108, USA": {
+    "translatedText": "2475 Grand Blvd, Kansas City, MO 64108, USA",
+    "timestamp": 1541617468768
+  },
+  "transit": {
+    "translatedText": "การขนส่ง",
+    "timestamp": 1541617468768
+  },
+  "Transit": {
+    "translatedText": "การขนส่ง",
+    "timestamp": 1541617468768
+  },
+  "Transit Trip Departures": {
+    "translatedText": "การเดินทางออกจากระบบขนส่งมวลชน",
+    "timestamp": 1541617468768
+  },
+  "transit.AgencyContainer": {
+    "translatedText": "transit.AgencyContainer",
+    "timestamp": 1541617468768
+  },
+  "Menu": {
+    "translatedText": "เมนู",
+    "timestamp": 1541617468768
+  },
+  "@media{../app/assets/tab_menu@?x.png}": {
+    "translatedText": "@media {../ app/assets/tab_menu@?x.png}",
+    "timestamp": 1541617468768
+  },
+  "Palm Springs": {
+    "translatedText": "ปาล์มสปริง",
+    "timestamp": 1541617469039
+  },
+  "ps": {
+    "translatedText": "PS",
+    "timestamp": 1541617469039
+  },
+  "mvTutorial": {
+    "translatedText": "mvTutorial",
+    "timestamp": 1541617469039
+  },
+  "login": {
+    "translatedText": "เข้าสู่ระบบ",
+    "timestamp": 1541617469039
+  },
+  "psStyle": {
+    "translatedText": "psStyle",
+    "timestamp": 1541617469039
+  },
+  "#f6844e": {
+    "translatedText": "# f6844e",
+    "timestamp": 1541617469039
+  },
+  "#ffffff": {
+    "translatedText": "#ffffff",
+    "timestamp": 1541617469039
+  },
+  "rgba(246,132,78, 0.3)": {
+    "translatedText": "rgba (246,132,78, 0.3)",
+    "timestamp": 1541617469039
+  },
+  "Stay": {
+    "translatedText": "พักอยู่",
+    "timestamp": 1541617469039
+  },
+  "hotel": {
+    "translatedText": "โรงแรม",
+    "timestamp": 1541617469039
+  },
+  "psAssets": {
+    "translatedText": "psAssets",
+    "timestamp": 1541617469039
+  },
+  "asset": {
+    "translatedText": "สินทรัพย์",
+    "timestamp": 1541617469039
+  },
+  ".classification": {
+    "translatedText": ".การจัดหมวดหมู่",
+    "timestamp": 1541617469039
+  },
+  "Dining": {
+    "translatedText": "อาหารและเครื่องดื่ม",
+    "timestamp": 1541617469039
+  },
+  "restaurant": {
+    "translatedText": "ร้านอาหาร",
+    "timestamp": 1541617469039
+  },
+  "Dine": {
+    "translatedText": "รับประทานอาหาร",
+    "timestamp": 1541617469039
+  },
+  "Shopping": {
+    "translatedText": "ช้อปปิ้ง",
+    "timestamp": 1541617469039
+  },
+  "shop": {
+    "translatedText": "ร้านขายของ",
+    "timestamp": 1541617469039
+  },
+  "Shop": {
+    "translatedText": "ร้านขายของ",
+    "timestamp": 1541617469039
+  },
+  "Play": {
+    "translatedText": "เล่น",
+    "timestamp": 1541617469039
+  },
+  "play": {
+    "translatedText": "เล่น",
+    "timestamp": 1541617469039
+  },
+  "event": {
+    "translatedText": "เหตุการณ์",
+    "timestamp": 1541617469039
+  },
+  "psEvents": {
+    "translatedText": "psEvents",
+    "timestamp": 1541617469039
+  },
+  "Wedding": {
+    "translatedText": "งานแต่งงาน",
+    "timestamp": 1541617469039
+  },
+  "wedding": {
+    "translatedText": "งานแต่งงาน",
+    "timestamp": 1541617469039
+  },
+  "Wedding Venue": {
+    "translatedText": "สถานที่จัดงานแต่งงาน",
+    "timestamp": 1541617469039
+  },
+  "Services": {
+    "translatedText": "บริการ",
+    "timestamp": 1541617469039
+  },
+  "services": {
+    "translatedText": "บริการ",
+    "timestamp": 1541617469039
+  },
+  "Visitor Services": {
+    "translatedText": "บริการผู้เข้าชม",
+    "timestamp": 1541617469039
+  },
+  "All": {
+    "translatedText": "ทั้งหมด",
+    "timestamp": 1541617469039
+  },
+  "all": {
+    "translatedText": "ทั้งหมด",
+    "timestamp": 1541617469039
+  },
+  "Amenities": {
+    "translatedText": "สิ่งอำนวยความสะดวก",
+    "timestamp": 1541617469039
+  },
+  "subcategory": {
+    "translatedText": "ประเภทย่อย",
+    "timestamp": 1541617469039
+  },
+  "setting": {
+    "translatedText": "การตั้งค่า",
+    "timestamp": 1541617469039
+  },
+  "@mediaPath{../resources/viejo/cities/palmsprings/Assets/settings/about?i18n.html}": {
+    "translatedText": "@mediaPath {../ ทรัพยากร / Viejo / เมือง / ปาล์มสปริงส์ / สินทรัพย์ / การตั้งค่า / เกี่ยวกับ? i18n.html}",
+    "timestamp": 1541617469039
+  },
+  "@mediaPath{../resources/viejo/cities/palmsprings/Assets/settings/privacy.html}": {
+    "translatedText": "@mediaPath {../ ทรัพยากร / Viejo / เมือง / ปาล์มสปริงส์ / สินทรัพย์ / การตั้งค่า / บุคคล}",
+    "timestamp": 1541617469039
+  },
+  "@mediaPath{../resources/viejo/cities/palmsprings/Assets/settings/disclaimer.html}": {
+    "translatedText": "@mediaPath {../ ทรัพยากร / Viejo / เมือง / ปาล์มสปริงส์ / สินทรัพย์ / การตั้งค่า / disclaimer.html}",
+    "timestamp": 1541617469039
+  },
+  "@mediaPath{../resources/viejo/cities/palmsprings/Assets/settings/faq.html}": {
+    "translatedText": "@mediaPath {../ ทรัพยากร / Viejo / เมือง / ปาล์มสปริงส์ / สินทรัพย์ / การตั้งค่า / faq.html}",
+    "timestamp": 1541617469039
+  },
+  "@mediaPath{../resources/viejo/cities/palmsprings/Assets/settings/terms.html}": {
+    "translatedText": "@mediaPath {../ ทรัพยากร / Viejo / เมือง / ปาล์มสปริงส์ / สินทรัพย์ / การตั้งค่า / terms.html}",
+    "timestamp": 1541617469039
+  },
+  "Bureau of Tourism Administrative Office\n277 N. Avenida Caballeros, Palm Springs.\n760-322-8415": {
+    "translatedText": "สำนักการท่องเที่ยว 277 N. Avenida Caballeros, Palm Springs 760-322-8415",
+    "timestamp": 1541617469039
+  },
+  "Visit Palm Springs Website": {
+    "translatedText": "เยี่ยมชมเว็บไซต์ปาล์มสปริงส์",
+    "timestamp": 1541617469039
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Icon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Icon@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "https://www.facebook.com/VisitPalmSprings/": {
+    "translatedText": "https://www.facebook.com/VisitPalmSprings/",
+    "timestamp": 1541617469039
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Info/FacebookIcon/FacebookIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Info/FacebookIcon/FacebookIcon@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "https://twitter.com/palmspringsca/": {
+    "translatedText": "https://twitter.com/palmspringsca/",
+    "timestamp": 1541617469039
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Info/TwitterIcon/TwitterIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Info/TwitterIcon/TwitterIcon@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "https://instagram.com/visitpalmsprings/": {
+    "translatedText": "https://instagram.com/visitpalmsprings/",
+    "timestamp": 1541617469039
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Info/InstagramIcon/InstagramIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Info/InstagramIcon/InstagramIcon@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "https://www.youtube.com/user/visitpalmsprings/": {
+    "translatedText": "https://www.youtube.com/user/visitpalmsprings/",
+    "timestamp": 1541617469039
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Info/Youtube/ic_youtube@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Info/Youtube/ic_youtube@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Info/info_logo@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Info/info_logo@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "stay": {
+    "translatedText": "พักอยู่",
+    "timestamp": 1541617469039
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeStayCell/HomeStayCell@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeStayCell/HomeStayCell@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "@formula{if(platform('OS') == \"ios\",\"Stay\",\" Stay\")}": {
+    "translatedText": "@formula {if (platform ('OS') == \"ios\", \"Stay\", \"Stay\")}",
+    "timestamp": 1541617469039
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeAttractionsCell/HomeAttractionsCell@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeAttractionsCell/HomeAttractionsCell@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "nearby": {
+    "translatedText": "ใกล้เคียง",
+    "timestamp": 1541617469039
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeNearbyCell/HomeNearbyCell@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeNearbyCell/HomeNearbyCell@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "Nearby": {
+    "translatedText": "ใกล้เคียง",
+    "timestamp": 1541617469039
+  },
+  "shopping": {
+    "translatedText": "ช้อปปิ้ง",
+    "timestamp": 1541617469039
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeShoppingCell/HomeShoppingCell@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeShoppingCell/HomeShoppingCell@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "dining": {
+    "translatedText": "การรับประทานอาหาร",
+    "timestamp": 1541617469039
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeDiningCell/HomeDiningCell@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeDiningCell/HomeDiningCell@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "events": {
+    "translatedText": "เหตุการณ์ที่เกิดขึ้น",
+    "timestamp": 1541617469039
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeEventsCell/HomeEventsCell@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeEventsCell/HomeEventsCell@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "deals": {
+    "translatedText": "ข้อเสนอ",
+    "timestamp": 1541617469039
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeDealsCell/HomeDealsCell@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeDealsCell/HomeDealsCell@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "Deals": {
+    "translatedText": "ข้อเสนอ",
+    "timestamp": 1541617469039
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/NavBar/NavBarBG/NavBarBG@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/NavBar/NavBarBG/NavBarBG@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeNavImage/nav_logo@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeNavImage/nav_logo@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeInfoIcon/InfoIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeInfoIcon/InfoIcon@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeSearchIcon/SearchIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeSearchIcon/SearchIcon@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeWeatherIcon/WeatherIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeWeatherIcon/WeatherIcon@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Weather/WeatherPalmSpringsBG/weather_background@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Weather/WeatherPalmSpringsBG/weather_background@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "black": {
+    "translatedText": "สีดำ",
+    "timestamp": 1541617469039
+  },
+  "Cocktail Shaker": {
+    "translatedText": "ค๊อกเทลปั่น",
+    "timestamp": 1541617469039
+  },
+  "#000000": {
+    "translatedText": "# 000000",
+    "timestamp": 1541617469039
+  },
+  "Social Media": {
+    "translatedText": "สื่อสังคม",
+    "timestamp": 1541617469039
+  },
+  "This free <brand>Palm Springs</brand> app makes locating options for dining, entertainment, accommodations, activities, shopping, and other destination information simple to find through your mobile phone.\n\nPlanning your trip is simplified and interactive, saving precious time and money on your trip.": {
+    "translatedText": "ฟรีนี้ <brand> ปาล์มสปริง </brand> แอปทำให้ตัวเลือกสำหรับการรับประทานอาหารความบันเทิงที่พักกิจกรรมช้อปปิ้งและข้อมูลปลายทางอื่น ๆ ทำได้ง่ายผ่านโทรศัพท์มือถือของคุณ การวางแผนการเดินทางของคุณจะง่ายและโต้ตอบประหยัดเวลาอันมีค่าและเงินในการเดินทางของคุณ",
+    "timestamp": 1541617469039
+  },
+  "Easily learn more about your immediate surroundings.  Choose <colorize>Nearby</colorize> to see what's offered in your location. The image <colorize>Gallery</colorize> shows fun activities around town.\n\nUse <colorize>Maps</colorize> to determine best routes and <colorize>Bookmarks</colorize> to remember destinations in Palm Springs.": {
+    "translatedText": "เรียนรู้เกี่ยวกับสภาพแวดล้อมของคุณได้อย่างง่ายดาย เลือก <colorize> ใกล้เคียง </colorize> เพื่อดูสิ่งที่นำเสนอในตำแหน่งของคุณ รูปภาพ <colorize> เฉลียง </colorize> แสดงกิจกรรมสนุกสนานรอบเมือง ใช้ <colorize> แผนที่ </colorize> เพื่อหาเส้นทางที่ดีที่สุดและ <colorize> ที่คั่น </colorize> เพื่อจดจำจุดหมายในปาล์มสปริงส์",
+    "timestamp": 1541617469039
+  },
+  "Read the buzz in <colorize>social media</colorize> about your current location, including Tweets from fellow travelers, and restaurant reviews and other events.\n\nTake a virtual <colorize>pictorial</colorize> tour through selected resaturants before making an OpenTable reservation at selected locations.": {
+    "translatedText": "อ่านเรื่องปากต่อปากใน <colorize> สื่อสังคม </colorize> เกี่ยวกับตำแหน่งปัจจุบันของคุณรวมทั้ง Tweets จากเพื่อนนักเดินทางและความเห็นจากร้านอาหารและกิจกรรมอื่น ๆ ใช้เวลาเสมือนจริง <colorize> เป็นภาพ </colorize> ทัวร์ชมผ่านการคัดเลือกที่เลือกก่อนทำการจองแบบ OpenTable ในสถานที่ที่เลือก",
+    "timestamp": 1541617469039
+  },
+  "Your <colorize>smartphone camera</colorize> is your interactive viewer to instantly see digital overlays of information about nearby locations & points of interest.\n\nTeleport to a <colorize>Streetview</colorize> destination before you travel to browse the exact location, get compass directions, see social media activity, and plan transportation options.": {
+    "translatedText": "ของคุณ <colorize> กล้องสมาร์ทโฟน </colorize> คือผู้ชมแบบโต้ตอบของคุณเพื่อดูการซ้อนทับแบบดิจิตอลของข้อมูลเกี่ยวกับสถานที่ใกล้เคียงและจุดสนใจ Teleport ไปที่ a <colorize> มุมมองถนน </colorize> ปลายทางก่อนที่คุณจะเดินทางเพื่อเรียกดูตำแหน่งที่แน่นอนรับคำแนะนำเข็มทิศดูกิจกรรมสื่อสังคมออนไลน์และวางแผนการเดินทาง",
+    "timestamp": 1541617469039
+  },
+  "/<colorize>([^<]*)</colorize>/": {
+    "translatedText": "/ <colorize> ([^ <] *) </colorize> /",
+    "timestamp": 1541617469039
+  },
+  "gold": {
+    "translatedText": "ทอง",
+    "timestamp": 1541617469039
+  },
+  "/<brand>([^<]*)</brand>/": {
+    "translatedText": "/ <brand> ([^ <] *) </brand> /",
+    "timestamp": 1541617469039
+  },
+  "#8e8e93": {
+    "translatedText": "# 8e8e93",
+    "timestamp": 1541617469039
+  },
+  "rgba(0, 0, 0, 0.54)": {
+    "translatedText": "rgba (0, 0, 0, 0.54)",
+    "timestamp": 1541617469039
+  },
+  "#f9f9f9": {
+    "translatedText": "# f9f9f9",
+    "timestamp": 1541617469039
+  },
+  "Home": {
+    "translatedText": "บ้าน",
+    "timestamp": 1541617469039
+  },
+  "@media{../app/assets/tab_ar@?x.png}": {
+    "translatedText": "@media {../ app/assets/tab_ar@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "AR": {
+    "translatedText": "AR",
+    "timestamp": 1541617469039
+  },
+  "home.PoiView": {
+    "translatedText": "home.PoiView",
+    "timestamp": 1541617469039
+  },
+  ".setup.constants.mapFilterBar[]": {
+    "translatedText": ".setup.constants.mapFilterBar []",
+    "timestamp": 1541617469039
+  },
+  "streetView": {
+    "translatedText": "มุมมองถนน",
+    "timestamp": 1541617469039
+  },
+  ".config.feature.arTab.enabled": {
+    "translatedText": ".config.feature.arTab.enabled",
+    "timestamp": 1541617469039
+  },
+  "@media{../app/assets/bookmarked@?x.png}": {
+    "translatedText": "@media {../ app/assets/bookmarked@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "bookmarks.Bookmarks": {
+    "translatedText": "bookmarks.Bookmarks",
+    "timestamp": 1541617469039
+  },
+  "linkto": {
+    "translatedText": "linkto",
+    "timestamp": 1541617469039
+  },
+  ".config.feature.bookmarks.enabled": {
+    "translatedText": ".config.feature.bookmarks.enabled",
+    "timestamp": 1541617469039
+  },
+  "@media{../app/assets/tab_gallery@?x.png}": {
+    "translatedText": "@media {../ app/assets/tab_gallery@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "Gallery": {
+    "translatedText": "เฉลียง",
+    "timestamp": 1541617469039
+  },
+  "Palm Springs Style": {
+    "translatedText": "สไตล์ปาล์มสปริงส์",
+    "timestamp": 1541617469039
+  },
+  "demo.LandingScreen": {
+    "translatedText": "demo.LandingScreen",
+    "timestamp": 1541617469039
+  },
+  "News & Alerts": {
+    "translatedText": "ข่าวสารและการแจ้งเตือน",
+    "timestamp": 1541617469039
+  },
+  "newsAlerts.NewsAlerts": {
+    "translatedText": "newsAlerts.NewsAlerts",
+    "timestamp": 1541617469039
+  },
+  ".config.feature.newsAlerts.enabled": {
+    "translatedText": ".config.feature.newsAlerts.enabled",
+    "timestamp": 1541617469039
+  },
+  ".config.build{.SCHEME == \"DEVELOPER\"}": {
+    "translatedText": ".config.build {.SCHEME == \"DEVELOPER\"}",
+    "timestamp": 1541617469039
+  },
+  "demo.Intro": {
+    "translatedText": "demo.Intro",
+    "timestamp": 1541617469039
+  },
+  "@i18n{settings:label}": {
+    "translatedText": "@ i18n {การตั้งค่า: ฉลาก}",
+    "timestamp": 1541617469039
+  },
+  "@i18n{settings:title}": {
+    "translatedText": "@ i18n {การตั้งค่า: ชื่อ}",
+    "timestamp": 1541617469039
+  },
+  "@media{../app/assets/tab_settings@?x.png}": {
+    "translatedText": "@media {../ app/assets/tab_settings@?x.png}",
+    "timestamp": 1541617469039
+  },
+  "settings.Settings": {
+    "translatedText": "settings.Settings",
+    "timestamp": 1541617469039
+  },
+  "@i18n{settings:info.title}": {
+    "translatedText": "@ i18n {การตั้งค่า: info.title}",
+    "timestamp": 1541617469039
+  },
+  "mvSettings": {
+    "translatedText": "mvSettings",
+    "timestamp": 1541617469039
+  },
+  "transparent": {
+    "translatedText": "โปร่งใส",
+    "timestamp": 1541617469132
+  },
+  "center": {
+    "translatedText": "ศูนย์",
+    "timestamp": 1541617469132
+  },
+  "+1": {
+    "translatedText": "+1",
+    "timestamp": 1541617469132
+  },
+  "renderImage": {
+    "translatedText": "renderImage",
+    "timestamp": 1541617469132
+  },
+  "@formula{screenWidth()}": {
+    "translatedText": "@formula {screenWidth ()}",
+    "timestamp": 1541617469132
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/PSBuzz/Buzz-Image/Buzz-Image@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/PSBuzz/Buzz-Image/Buzz-Image@?x.png}",
+    "timestamp": 1541617469132
+  },
+  "@formula{screenWidth() * 0.56}": {
+    "translatedText": "@formula {screenWidth () * 0.56}",
+    "timestamp": 1541617469132
+  },
+  "cover": {
+    "translatedText": "ปก",
+    "timestamp": 1541617469132
+  },
+  "renderText": {
+    "translatedText": "renderText",
+    "timestamp": 1541617469132
+  },
+  "Get Around Town - Free & Fast": {
+    "translatedText": "เดินทางรอบเมือง - ฟรีและรวดเร็ว",
+    "timestamp": 1541617469132
+  },
+  ".constants.loadingScreenLabelStyle": {
+    "translatedText": ".constants.loadingScreenLabelStyle",
+    "timestamp": 1541617469132
+  },
+  "+0": {
+    "translatedText": "0",
+    "timestamp": 1541617469132
+  },
+  "absolute": {
+    "translatedText": "แน่นอน",
+    "timestamp": 1541617469132
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/PSBuzz/Buzz-Sunburst/Buzz-Sunburst@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/PSBuzz/Buzz-Sunburst/Buzz-Sunburst@?x.png}",
+    "timestamp": 1541617469132
+  },
+  "Via Escuela to Smoketree": {
+    "translatedText": "Via Escuela to Smoketree",
+    "timestamp": 1541617469132
+  },
+  "11 AM - 1AM, THU - SUN": {
+    "translatedText": "11.00 น. - 01.00 น. พฤหัส - อาทิตย์",
+    "timestamp": 1541617469132
+  },
+  "Every 15 minutes": {
+    "translatedText": "ทุก 15 นาที",
+    "timestamp": 1541617469132
+  },
+  "Show Trolley Locations": {
+    "translatedText": "แสดงตำแหน่งรถเข็น",
+    "timestamp": 1541617469132
+  },
+  "row": {
+    "translatedText": "แถว",
+    "timestamp": 1541617469132
+  },
+  "http://buzz.visitpalmsprings.com": {
+    "translatedText": "http://buzz.visitpalmsprings.com",
+    "timestamp": 1541617469132
+  },
+  "Contact:": {
+    "translatedText": "ติดต่อ:",
+    "timestamp": 1541617469220
+  },
+  "Messages": {
+    "translatedText": "ข้อความ",
+    "timestamp": 1541617469220
+  },
+  "Email": {
+    "translatedText": "อีเมล์",
+    "timestamp": 1541617469220
+  },
+  "Share": {
+    "translatedText": "หุ้น",
+    "timestamp": 1541617469220
+  },
+  "Send a Report": {
+    "translatedText": "ส่งรายงาน",
+    "timestamp": 1541617469220
+  },
+  "Emergency": {
+    "translatedText": "กรณีฉุกเฉิน",
+    "timestamp": 1541617469220
+  },
+  "Warning": {
+    "translatedText": "การเตือน",
+    "timestamp": 1541617469220
+  },
+  "Traffic": {
+    "translatedText": "การจราจร",
+    "timestamp": 1541617469220
+  },
+  "Emergency Contact:": {
+    "translatedText": "ติดต่อในกรณีฉุกเฉิน:",
+    "timestamp": 1541617469220
+  },
+  "Police": {
+    "translatedText": "ตำรวจ",
+    "timestamp": 1541617469220
+  },
+  "Fire": {
+    "translatedText": "ไฟ",
+    "timestamp": 1541617469220
+  },
+  "Ambulance": {
+    "translatedText": "รถพยาบาล",
+    "timestamp": 1541617469220
+  },
+  "EXAMPLES": {
+    "translatedText": "ตัวอย่าง",
+    "timestamp": 1541617469310
+  },
+  "CONFIGURE DEMO": {
+    "translatedText": "กำหนดค่าการสาธิต",
+    "timestamp": 1541617469310
+  },
+  "TEST TEMPLATE": {
+    "translatedText": "TEST TEMPLATE",
+    "timestamp": 1541617469310
+  },
+  "Media Viewer": {
+    "translatedText": "Media Viewer",
+    "timestamp": 1541617469310
+  },
+  "Check It Out": {
+    "translatedText": "เช็คเอาท์",
+    "timestamp": 1541617469310
+  },
+  "Welcome, {{user.name}}": {
+    "translatedText": "ยินดีต้อนรับ {{user.name}}",
+    "timestamp": 1541617469310
+  },
+  "Welcome, {{user}}": {
+    "translatedText": "ยินดีต้อนรับ {{user}}",
+    "timestamp": 1541617469310
+  },
+  "Welcome, <ccsdk text='user' />": {
+    "translatedText": "ยินดีต้อนรับคุณ, <ccsdk text='user' />",
+    "timestamp": 1541617469310
+  },
+  "Back": {
+    "translatedText": "กลับ",
+    "timestamp": 1541617469433
+  },
+  "Password": {
+    "translatedText": "รหัสผ่าน",
+    "timestamp": 1541617469433
+  },
+  "Forgot Password": {
+    "translatedText": "ลืมรหัสผ่าน",
+    "timestamp": 1541617469433
+  },
+  "Login": {
+    "translatedText": "เข้าสู่ระบบ",
+    "timestamp": 1541617469433
+  },
+  "By using the app, you agree to the": {
+    "translatedText": "เมื่อใช้แอปพลิเคชันคุณยอมรับ",
+    "timestamp": 1541617469433
+  },
+  "Terms of Service": {
+    "translatedText": "เงื่อนไขการให้บริการ",
+    "timestamp": 1541617469433
+  },
+  " and ": {
+    "translatedText": "และ",
+    "timestamp": 1541617469433
+  },
+  "Privacy Policy": {
+    "translatedText": "นโยบายส่วนบุคคล",
+    "timestamp": 1541617469433
+  },
+  "Change Language": {
+    "translatedText": "เปลี่ยนภาษา",
+    "timestamp": 1541617469433
+  },
+  "No Results Found": {
+    "translatedText": "ไม่พบผลลัพธ์",
+    "timestamp": 1541617469508
+  },
+  "Try searching for something different or change your search options": {
+    "translatedText": "ลองค้นหาบางอย่างที่แตกต่างกันหรือเปลี่ยนแปลงตัวเลือกการค้นหาของคุณ",
+    "timestamp": 1541617469508
+  },
+  "Return to Search": {
+    "translatedText": "กลับไปที่ Search",
+    "timestamp": 1541617469508
+  },
+  "Info": {
+    "translatedText": "ข้อมูล",
+    "timestamp": 1541617469604
+  },
+  "About": {
+    "translatedText": "เกี่ยวกับ",
+    "timestamp": 1541617469604
+  },
+  "Disclaimer": {
+    "translatedText": "คำปฏิเสธ",
+    "timestamp": 1541617469604
+  },
+  "FAQ": {
+    "translatedText": "คำถามที่พบบ่อย",
+    "timestamp": 1541617469604
+  },
+  "Terms": {
+    "translatedText": "ข้อตกลงและเงื่อนไข",
+    "timestamp": 1541617469604
+  },
+  "Tutorial": {
+    "translatedText": "เกี่ยวกับการสอน",
+    "timestamp": 1541617469604
+  },
+  "Download latest updates": {
+    "translatedText": "ดาวน์โหลดการอัปเดตล่าสุด",
+    "timestamp": 1541617469604
+  },
+  "Last sync:": {
+    "translatedText": "ซิงค์ล่าสุด:",
+    "timestamp": 1541617469604
+  },
+  "Sync": {
+    "translatedText": "ซิงค์",
+    "timestamp": 1541617469604
+  },
+  "Please wait while we sync the latest updates.": {
+    "translatedText": "โปรดรอขณะที่เราซิงค์การอัปเดตล่าสุด",
+    "timestamp": 1541617469604
+  },
+  "This may take a few moments.": {
+    "translatedText": "ขั้นตอนนี้อาจใช้เวลาสักครู่",
+    "timestamp": 1541617469604
+  },
+  "Downloading...": {
+    "translatedText": "ดาวน์โหลด ...",
+    "timestamp": 1541617469604
+  },
+  "Download complete.": {
+    "translatedText": "ดาวน์โหลดเสร็จสิ้น.",
+    "timestamp": 1541617469604
+  },
+  "Download failed.": {
+    "translatedText": "การดาวน์โหลดล้มเหลว",
+    "timestamp": 1541617469604
+  },
+  "RETRY": {
+    "translatedText": "ลองอีกครั้ง",
+    "timestamp": 1541617469604
+  },
+  "CANCEL": {
+    "translatedText": "ยกเลิก",
+    "timestamp": 1541617469604
+  },
+  "OK": {
+    "translatedText": "ตกลง",
+    "timestamp": 1541617469604
+  },
+  "Software Licences": {
+    "translatedText": "ใบอนุญาตซอฟต์แวร์",
+    "timestamp": 1541617469604
+  },
+  "Licenses": {
+    "translatedText": "ใบอนุญาต",
+    "timestamp": 1541617469604
+  },
+  "Open source libraries": {
+    "translatedText": "ห้องสมุดโอเพ่นซอร์ส",
+    "timestamp": 1541617469604
+  },
+  "Units": {
+    "translatedText": "หน่วย",
+    "timestamp": 1541617469604
+  },
+  "Distance": {
+    "translatedText": "ระยะทาง",
+    "timestamp": 1541617469604
+  },
+  "Miles": {
+    "translatedText": "ไมล์",
+    "timestamp": 1541617469604
+  },
+  "Kilometers": {
+    "translatedText": "กิโลเมตร",
+    "timestamp": 1541617469604
+  },
+  "Temperature": {
+    "translatedText": "อุณหภูมิ",
+    "timestamp": 1541617469604
+  },
+  "Fahrenheit": {
+    "translatedText": "ฟาเรนไฮต์",
+    "timestamp": 1541617469604
+  },
+  "Celsius": {
+    "translatedText": "เซลเซียส",
+    "timestamp": 1541617469604
+  },
+  "Set Your Location": {
+    "translatedText": "ตั้งค่าตำแหน่งของคุณ",
+    "timestamp": 1541617469604
+  },
+  "Language": {
+    "translatedText": "ภาษา",
+    "timestamp": 1541617469604
+  },
+  "The app will automatically restart in the selected language. This will not change your system default language.": {
+    "translatedText": "แอปจะรีสตาร์ทโดยอัตโนมัติในภาษาที่เลือก การดำเนินการนี้จะไม่เปลี่ยนภาษาเริ่มต้นของระบบของคุณ",
+    "timestamp": 1541617469604
+  },
+  "Gauge": {
+    "translatedText": "วัด",
+    "timestamp": 1542307147755
+  },
+  "Add Event": {
+    "translatedText": "เพิ่มกิจกรรม",
+    "timestamp": 1542307147755
+  },
+  "Color": {
+    "translatedText": "สี",
+    "timestamp": 1542309109016
+  },
+  "Blue (Default)": {
+    "translatedText": "สีน้ำเงิน (ค่าเริ่มต้น)",
+    "timestamp": 1542309109016
+  },
+  "Dark Blue": {
+    "translatedText": "น้ำเงิน",
+    "timestamp": 1542309109016
+  },
+  "Light Blue": {
+    "translatedText": "ฟ้าอ่อน",
+    "timestamp": 1542309109016
+  },
+  "Red": {
+    "translatedText": "สีแดง",
+    "timestamp": 1542309109016
+  },
+  "Dark Red": {
+    "translatedText": "ดำแดง",
+    "timestamp": 1542309109016
+  },
+  "Navy": {
+    "translatedText": "กองทัพเรือ",
+    "timestamp": 1542309109016
+  },
+  "Orange": {
+    "translatedText": "ส้ม",
+    "timestamp": 1542309109016
+  },
+  "Purple": {
+    "translatedText": "สีม่วง",
+    "timestamp": 1542309109016
+  },
+  "Brown": {
+    "translatedText": "สีน้ำตาล",
+    "timestamp": 1542309109016
+  },
+  "Torquise": {
+    "translatedText": "Torquise",
+    "timestamp": 1542309109016
+  },
+  "Teal": {
+    "translatedText": "นกเป็ดน้ำ",
+    "timestamp": 1542309109016
+  },
+  "Green": {
+    "translatedText": "สีเขียว",
+    "timestamp": 1542309109016
+  },
+  "Dark Green": {
+    "translatedText": "เขียวเข้ม",
+    "timestamp": 1542309109016
+  },
+  "Pink": {
+    "translatedText": "สีชมพู",
+    "timestamp": 1542309109016
+  },
+  "Yellow": {
+    "translatedText": "สีเหลือง",
+    "timestamp": 1542309109016
+  },
+  "Repeat": {
+    "translatedText": "ทำซ้ำ",
+    "timestamp": 1542309109016
+  },
+  "Never": {
+    "translatedText": "ไม่เคย",
+    "timestamp": 1542309109016
+  },
+  "Every Day": {
+    "translatedText": "ทุกวัน",
+    "timestamp": 1542309109016
+  },
+  "Every Week": {
+    "translatedText": "ทุกสัปดาห์",
+    "timestamp": 1542309109016
+  },
+  "Every 2 Weeks": {
+    "translatedText": "ทุกๆ 2 สัปดาห์",
+    "timestamp": 1542309109016
+  },
+  "Every Month": {
+    "translatedText": "ทุกๆเดือน",
+    "timestamp": 1542309109016
+  },
+  "Every Year": {
+    "translatedText": "ทุกปี",
+    "timestamp": 1542309109016
+  },
+  "Timezone": {
+    "translatedText": "เขตเวลา",
+    "timestamp": 1542309109016
+  },
+  "Name": {
+    "translatedText": "ชื่อ",
+    "timestamp": 1542309109016
+  },
+  "UTC": {
+    "translatedText": "UTC",
+    "timestamp": 1542309109016
+  },
+  "Search by Time Zone": {
+    "translatedText": "ค้นหาตามโซนเวลา",
+    "timestamp": 1542309109016
+  },
+  "Calendar": {
+    "translatedText": "ปฏิทิน",
+    "timestamp": 1542309109016
+  },
+  "iOS": {
+    "translatedText": "iOS",
+    "timestamp": 1542309109016
+  },
+  "Team": {
+    "translatedText": "ทีม",
+    "timestamp": 1542309109016
+  },
+  "Google": {
+    "translatedText": "Google",
+    "timestamp": 1542309109016
+  },
+  "TBD": {
+    "translatedText": "TBD",
+    "timestamp": 1542309109016
+  },
+  "Press to See Map": {
+    "translatedText": "กดเพื่อดูแผนที่",
+    "timestamp": 1542309109105
+  },
+  "County": {
+    "translatedText": "เขต",
+    "timestamp": 1542309109105
+  },
+  "Construction": {
+    "translatedText": "การก่อสร้าง",
+    "timestamp": 1542309109105
+  },
+  "Incident": {
+    "translatedText": "อุบัติการณ์",
+    "timestamp": 1542309109105
+  },
+  "Special Events": {
+    "translatedText": "เหตุการณ์พิเศษ",
+    "timestamp": 1542309109105
+  },
+  "Closures": {
+    "translatedText": "ปิด",
+    "timestamp": 1542309109105
+  },
+  "511 Traffic and Events": {
+    "translatedText": "511 การจราจรและกิจกรรม",
+    "timestamp": 1542309109105
+  },
+  "traffic": {
+    "translatedText": "การจราจร",
+    "timestamp": 1542309109105
+  },
+  "Category": {
+    "translatedText": "ประเภท",
+    "timestamp": 1542309109105
+  },
+  "Description": {
+    "translatedText": "ลักษณะ",
+    "timestamp": 1542309109105
+  },
+  "Event Type": {
+    "translatedText": "ประเภทเหตุการณ์",
+    "timestamp": 1542309109105
+  },
+  "Severity": {
+    "translatedText": "ความรุนแรง",
+    "timestamp": 1542309109105
+  },
+  "Created": {
+    "translatedText": "ที่สร้างไว้",
+    "timestamp": 1542309109105
+  },
+  "Updated": {
+    "translatedText": "Updated",
+    "timestamp": 1542309109105
+  },
+  "Status": {
+    "translatedText": "สถานะ",
+    "timestamp": 1542309109105
+  },
+  "Action": {
+    "translatedText": "การกระทำ",
+    "timestamp": 1542309109105
+  },
+  "Posted": {
+    "translatedText": "โพสต์",
+    "timestamp": 1542309109105
+  },
+  "Phrase": {
+    "translatedText": "วลี",
+    "timestamp": 1542309109105
+  },
+  "Advice": {
+    "translatedText": "คำแนะนำ",
+    "timestamp": 1542309109105
+  },
+  "Lanes Affected": {
+    "translatedText": "ถนนที่ได้รับผลกระทบ",
+    "timestamp": 1542309109105
+  },
+  "Source ID": {
+    "translatedText": "รหัสแหล่งที่มา",
+    "timestamp": 1542309109105
+  },
+  "Source Name": {
+    "translatedText": "ชื่อแหล่งที่มา",
+    "timestamp": 1542309109105
+  },
+  "Event Impact": {
+    "translatedText": "ผลกระทบจากเหตุการณ์",
+    "timestamp": 1542309109105
+  },
+  "Road Closed": {
+    "translatedText": "ถนนปิด",
+    "timestamp": 1542309109105
+  },
+  "Event Status": {
+    "translatedText": "สถานะเหตุการณ์",
+    "timestamp": 1542309109105
+  },
+  "Event Class": {
+    "translatedText": "Class Event",
+    "timestamp": 1542309109105
+  },
+  "Incident Type Impact": {
+    "translatedText": "Impact Type Impact",
+    "timestamp": 1542309109105
+  },
+  "Total Lanes": {
+    "translatedText": "ถนนรวม",
+    "timestamp": 1542309109105
+  },
+  "Event Directions": {
+    "translatedText": "เส้นทางกิจกรรม",
+    "timestamp": 1542309109105
+  },
+  "Last Updated": {
+    "translatedText": "อัปเดตครั้งล่าสุด",
+    "timestamp": 1542309109105
+  },
+  "Article": {
+    "translatedText": "บทความ",
+    "timestamp": 1542309109105
+  },
+  "Lane Status": {
+    "translatedText": "สถานะเลน",
+    "timestamp": 1542309109105
+  },
+  "Other Text": {
+    "translatedText": "ข้อความอื่น ๆ",
+    "timestamp": 1542309109105
+  },
+  "Completed": {
+    "translatedText": "เสร็จ",
+    "timestamp": 1542309109105
+  },
+  "Show Map": {
+    "translatedText": "แสดงแผนที่",
+    "timestamp": 1542309109182
+  },
+  "Show Inline Map": {
+    "translatedText": "แสดงแผนที่แบบอินไลน์",
+    "timestamp": 1542309109182
+  },
+  "Start...": {
+    "translatedText": "เริ่มต้น ...",
+    "timestamp": 1542309109263
+  },
+  "Destination...": {
+    "translatedText": "ปลายทาง ...",
+    "timestamp": 1542309109263
+  },
+  "Your Location": {
+    "translatedText": "ตำแหน่งของคุณ",
+    "timestamp": 1542309109263
+  },
+  "Choose On Map": {
+    "translatedText": "เลือกบนแผนที่",
+    "timestamp": 1542309109263
+  },
+  "My Locations": {
+    "translatedText": "สถานที่ของฉัน",
+    "timestamp": 1542309109263
+  },
+  "Work": {
+    "translatedText": "งาน",
+    "timestamp": 1542309109263
+  },
+  "Recent Searches": {
+    "translatedText": "การค้นหาล่าสุด",
+    "timestamp": 1542309109263
+  },
+  "Leave Now": {
+    "translatedText": "ออกจากเดี๋ยวนี้",
+    "timestamp": 1542309109263
+  },
+  "Depart At": {
+    "translatedText": "ออกเดินทางที่",
+    "timestamp": 1542309109263
+  },
+  "Arrive By": {
+    "translatedText": "มาถึงโดย",
+    "timestamp": 1542309109263
+  },
+  "GAUGE EXAMPLES": {
+    "translatedText": "ตัวอย่างอันน่าตื่นเต้น",
+    "timestamp": 1542748331123
+  },
+  "Tweets": {
+    "translatedText": "ทวีต",
+    "timestamp": 1542836426169
+  },
+  "Twitter Accounts": {
+    "translatedText": "บัญชี Twitter",
+    "timestamp": 1542836426169
+  },
+  "Twitter Hashtags": {
+    "translatedText": "Twitter Hashtags",
+    "timestamp": 1542836426169
+  },
+  "#hashtags": {
+    "translatedText": "hashtags #",
+    "timestamp": 1542836426169
+  },
+  "Foursquare": {
+    "translatedText": "foursquare",
+    "timestamp": 1542836426169
+  },
+  "Eventbrite": {
+    "translatedText": "Eventbrite",
+    "timestamp": 1542836426169
+  },
+  "Cancel": {
+    "translatedText": "ยกเลิก",
+    "timestamp": 1542836426275
+  },
+  "Apply": {
+    "translatedText": "ใช้",
+    "timestamp": 1542836426275
+  },
+  "Other": {
+    "translatedText": "อื่น ๆ",
+    "timestamp": 1542836426275
+  },
+  "Sources": {
+    "translatedText": "แหล่งที่มา",
+    "timestamp": 1542836426275
+  },
+  "Gauge Test": {
+    "translatedText": "การวัด Gauge",
+    "timestamp": 1542840159691
+  }
+}
