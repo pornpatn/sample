@@ -272,7 +272,7 @@
   "white": {
     "translatedText": "branco",
     "timestamp": 1541617468730,
-    "locked": false
+    "locked": true
   },
   "light-content": {
     "translatedText": "conteúdo leve",
