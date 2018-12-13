@@ -324,9 +324,9 @@
     "user": "patCivic"
   },
   "white": {
-    "translatedText": "branco white",
-    "timestamp": 1544733391167,
-    "locked": false,
+    "translatedText": "branco",
+    "timestamp": 1544743400084,
+    "locked": true,
     "user": "patCivic"
   },
   "light-content": {
