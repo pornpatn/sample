@@ -53,18 +53,6 @@
     "locked": false,
     "user": "patCivic"
   },
-  "#FFFFFF": {
-    "translatedText": "#FFFFFF",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "#529c8d": {
-    "translatedText": "# 529c8d",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "rgba(62,151,233, 0.3)": {
     "translatedText": "rgba (62,151,233, 0,3)",
     "timestamp": 1544733391167,
@@ -125,20 +113,8 @@
     "locked": false,
     "user": "patCivic"
   },
-  "@media{../resources/viejo/cities/viejo/Assets/Icon@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/viejo/Assets/Icon@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "https://www.facebook.com/MissionViejoLife/": {
     "translatedText": "https://www.facebook.com/MissionViejoLife/",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/viejo/assets/info/FacebookIcon/FacebookIcon@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/info/FacebookIcon/FacebookIcon@?x.png}",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
@@ -149,62 +125,14 @@
     "locked": false,
     "user": "patCivic"
   },
-  "@media{../resources/viejo/cities/viejo/assets/info/TwitterIcon/TwitterIcon@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/info/TwitterIcon/TwitterIcon@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "https://www.instagram.com/missionviejolife/": {
     "translatedText": "https://www.instagram.com/missionviejolife/",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
   },
-  "@media{../resources/viejo/cities/viejo/assets/info/InstagramIcon/InstagramIcon@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/info/InstagramIcon/InstagramIcon@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "https://youtube.com/user/MissionViejoCA/": {
     "translatedText": "https://youtube.com/user/MissionViejoCA/",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/viejo/assets/info/Youtube/ic_youtube@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/info/Youtube/ic_youtube@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/viejo/assets/navbar/logo/InfoLogo-1@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/navbar/logo/InfoLogo-1@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/viejo/assets/navbar/NavBarBG/NavBarBG@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/navbar/NavBarBG/NavBarBG@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/viejo/assets/navbar/infoIcon/InfoIcon@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/navbar/infoIcon/InfoIcon@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/viejo/assets/navbar/searchIcon/SearchIcon@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/navbar/searchIcon/SearchIcon@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/viejo/assets/navbar/weatherIcon/WeatherIcon@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/navbar/weatherIcon/WeatherIcon@?x.png}",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
@@ -241,12 +169,6 @@
   },
   "sdk": {
     "translatedText": "sdk",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../app/assets/weather/weather_default_bg@?x.png}": {
-    "translatedText": "@media {../ app/assets/weather/weather_default_bg@?x.png}",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
@@ -325,12 +247,6 @@
   },
   "home": {
     "translatedText": "casa",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../app/assets/tripPlanner/GetAroundIconInactive/GetAroundIconInactive@?x.png}": {
-    "translatedText": "@media {../ app/assets/tripPlanner/GetAroundIconInactive/GetAroundIconInactive@?x.png}",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
@@ -419,12 +335,6 @@
     "locked": false,
     "user": "patCivic"
   },
-  "@media{../app/assets/tab_menu@?x.png}": {
-    "translatedText": "@media {../ app/assets/tab_menu@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "Palm Springs": {
     "translatedText": "Palm Springs",
     "timestamp": 1544733391167,
@@ -455,18 +365,6 @@
     "locked": false,
     "user": "patCivic"
   },
-  "#f6844e": {
-    "translatedText": "# f6844e",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "#ffffff": {
-    "translatedText": "#ffffff",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "rgba(246,132,78, 0.3)": {
     "translatedText": "rgba (246,132,78, 0,3)",
     "timestamp": 1544733391167,
@@ -493,12 +391,6 @@
   },
   "asset": {
     "translatedText": "de ativos",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  ".classification": {
-    "translatedText": ".classificação",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
@@ -629,36 +521,6 @@
     "locked": false,
     "user": "patCivic"
   },
-  "@mediaPath{../resources/viejo/cities/palmsprings/Assets/settings/about?i18n.html}": {
-    "translatedText": "@mediaPath {../ resources / viejo / cities / palmsprings / Assets / settings / about? i18n.html}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@mediaPath{../resources/viejo/cities/palmsprings/Assets/settings/privacy.html}": {
-    "translatedText": "@mediaPath {../ resources / viejo / cities / palmsprings / Assets / settings / privacy.html}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@mediaPath{../resources/viejo/cities/palmsprings/Assets/settings/disclaimer.html}": {
-    "translatedText": "@mediaPath {../ resources / viejo / cities / palmsprings / Assets / settings / disclaimer.html}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@mediaPath{../resources/viejo/cities/palmsprings/Assets/settings/faq.html}": {
-    "translatedText": "@mediaPath {../ resources / viejo / cities / palmsprings / Assets / settings / faq.html}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@mediaPath{../resources/viejo/cities/palmsprings/Assets/settings/terms.html}": {
-    "translatedText": "@mediaPath {../ resources / viejo / cities / palmsprings / Assets / settings / terms.html}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "Bureau of Tourism Administrative Office\n277 N. Avenida Caballeros, Palm Springs.\n760-322-8415": {
     "translatedText": "Escritório Administrativo de Turismo 277 N. Avenida Caballeros, Palm Springs. 760-322-8415",
     "timestamp": 1544733391167,
@@ -671,20 +533,8 @@
     "locked": false,
     "user": "patCivic"
   },
-  "@media{../resources/viejo/cities/palmsprings/Assets/Icon@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Icon@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "https://www.facebook.com/VisitPalmSprings/": {
     "translatedText": "https://www.facebook.com/VisitPalmSprings/",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/palmsprings/Assets/Info/FacebookIcon/FacebookIcon@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Info/FacebookIcon/FacebookIcon@?x.png}",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
@@ -695,20 +545,8 @@
     "locked": false,
     "user": "patCivic"
   },
-  "@media{../resources/viejo/cities/palmsprings/Assets/Info/TwitterIcon/TwitterIcon@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Info/TwitterIcon/TwitterIcon@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "https://instagram.com/visitpalmsprings/": {
     "translatedText": "https://instagram.com/visitpalmsprings/",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/palmsprings/Assets/Info/InstagramIcon/InstagramIcon@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Info/InstagramIcon/InstagramIcon@?x.png}",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
@@ -719,50 +557,14 @@
     "locked": false,
     "user": "patCivic"
   },
-  "@media{../resources/viejo/cities/palmsprings/Assets/Info/Youtube/ic_youtube@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Info/Youtube/ic_youtube@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/palmsprings/Assets/Info/info_logo@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Info/info_logo@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "stay": {
     "translatedText": "fique",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
   },
-  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeStayCell/HomeStayCell@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeStayCell/HomeStayCell@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@formula{if(platform('OS') == \"ios\",\"Stay\",\" Stay\")}": {
-    "translatedText": "@formula {if (platform ('OS') == ",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeAttractionsCell/HomeAttractionsCell@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeAttractionsCell/HomeAttractionsCell@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "nearby": {
     "translatedText": "nas proximidades",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeNearbyCell/HomeNearbyCell@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeNearbyCell/HomeNearbyCell@?x.png}",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
@@ -779,20 +581,8 @@
     "locked": false,
     "user": "patCivic"
   },
-  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeShoppingCell/HomeShoppingCell@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeShoppingCell/HomeShoppingCell@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "dining": {
     "translatedText": "jantar",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeDiningCell/HomeDiningCell@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeDiningCell/HomeDiningCell@?x.png}",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
@@ -803,62 +593,14 @@
     "locked": false,
     "user": "patCivic"
   },
-  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeEventsCell/HomeEventsCell@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeEventsCell/HomeEventsCell@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "deals": {
     "translatedText": "ofertas",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
   },
-  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeDealsCell/HomeDealsCell@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeDealsCell/HomeDealsCell@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "Deals": {
     "translatedText": "Ofertas",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/palmsprings/Assets/NavBar/NavBarBG/NavBarBG@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/NavBar/NavBarBG/NavBarBG@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeNavImage/nav_logo@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeNavImage/nav_logo@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeInfoIcon/InfoIcon@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeInfoIcon/InfoIcon@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeSearchIcon/SearchIcon@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeSearchIcon/SearchIcon@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeWeatherIcon/WeatherIcon@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeWeatherIcon/WeatherIcon@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/palmsprings/Assets/Weather/WeatherPalmSpringsBG/weather_background@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Weather/WeatherPalmSpringsBG/weather_background@?x.png}",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
@@ -905,26 +647,8 @@
     "locked": false,
     "user": "patCivic"
   },
-  "/<colorize>([^<]*)</colorize>/": {
-    "translatedText": "/ <colorize> ([^ <] *) </colorize> /",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "gold": {
     "translatedText": "ouro",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "/<brand>([^<]*)</brand>/": {
-    "translatedText": "/ <brand> ([^ <] *) </brand> /",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "#8e8e93": {
-    "translatedText": "# 8e8e93",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
@@ -935,20 +659,8 @@
     "locked": false,
     "user": "patCivic"
   },
-  "#f9f9f9": {
-    "translatedText": "# f9f9f9",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "Home": {
     "translatedText": "Casa",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../app/assets/tab_ar@?x.png}": {
-    "translatedText": "@media {../ app/assets/tab_ar@?x.png}",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
@@ -965,26 +677,8 @@
     "locked": false,
     "user": "patCivic"
   },
-  ".setup.constants.mapFilterBar[]": {
-    "translatedText": ".setup.constants.mapFilterBar []",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "streetView": {
     "translatedText": "vista da rua",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  ".config.feature.arTab.enabled": {
-    "translatedText": ".config.feature.arTab.enabled",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../app/assets/bookmarked@?x.png}": {
-    "translatedText": "@media {../ app/assets/bookmarked@?x.png}",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
@@ -997,18 +691,6 @@
   },
   "linkto": {
     "translatedText": "Link para",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  ".config.feature.bookmarks.enabled": {
-    "translatedText": ".config.feature.bookmarks.enabled",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../app/assets/tab_gallery@?x.png}": {
-    "translatedText": "@media {../ app/assets/tab_gallery@?x.png}",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
@@ -1043,50 +725,14 @@
     "locked": false,
     "user": "patCivic"
   },
-  ".config.feature.newsAlerts.enabled": {
-    "translatedText": ".config.feature.newsAlerts.enabled",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  ".config.build{.SCHEME == \"DEVELOPER\"}": {
-    "translatedText": ".config.build {.SCHEME == ",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "demo.Intro": {
     "translatedText": "demo.Intro",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
   },
-  "@i18n{settings:label}": {
-    "translatedText": "@ i18n {settings: label}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@i18n{settings:title}": {
-    "translatedText": "@ i18n {configurações: título}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../app/assets/tab_settings@?x.png}": {
-    "translatedText": "@media {../ app/assets/tab_settings@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "settings.Settings": {
     "translatedText": "configurações.Settings",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@i18n{settings:info.title}": {
-    "translatedText": "@ i18n {settings: info.title}",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
@@ -1109,32 +755,8 @@
     "locked": false,
     "user": "patCivic"
   },
-  "+1": {
-    "translatedText": "+1",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "renderImage": {
     "translatedText": "renderImage",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@formula{screenWidth()}": {
-    "translatedText": "@formula {screenWidth ()}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/palmsprings/Assets/PSBuzz/Buzz-Image/Buzz-Image@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/PSBuzz/Buzz-Image/Buzz-Image@?x.png}",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@formula{screenWidth() * 0.56}": {
-    "translatedText": "@formula {screenWidth () * 0.56}",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
@@ -1157,26 +779,8 @@
     "locked": false,
     "user": "patCivic"
   },
-  ".constants.loadingScreenLabelStyle": {
-    "translatedText": ".constants.loadingScreenLabelStyle",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "+0": {
-    "translatedText": "+0",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
   "absolute": {
     "translatedText": "absoluto",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "@media{../resources/viejo/cities/palmsprings/Assets/PSBuzz/Buzz-Sunburst/Buzz-Sunburst@?x.png}": {
-    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/PSBuzz/Buzz-Sunburst/Buzz-Sunburst@?x.png}",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
@@ -2089,12 +1693,6 @@
   },
   "Twitter Hashtags": {
     "translatedText": "Hashtags do Twitter",
-    "timestamp": 1544733391167,
-    "locked": false,
-    "user": "patCivic"
-  },
-  "#hashtags": {
-    "translatedText": "#hashtags",
     "timestamp": 1544733391167,
     "locked": false,
     "user": "patCivic"
