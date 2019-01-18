@@ -1,1 +1,4106 @@
-[object Object]
+{
+  "500": {
+    "translatedText": "500",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "600": {
+    "translatedText": "600",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "700": {
+    "translatedText": "700",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Explore the city and its neighboring areas!  Plan your journey, find parking, enjoy city services, get the latest news, watch entertainment, and more!": {
+    "translatedText": "市内とその周辺地域を探索しよう！あなたの旅を計画し、駐車場を見つけ、市内のサービスを楽しんだり、最新のニュースを入手したり、エンターテインメントを見るなど！",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "mv": {
+    "translatedText": "mv",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Mission Viejo": {
+    "translatedText": "ミッションヴィエホ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "true": {
+    "translatedText": "真実",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "mvStyle": {
+    "translatedText": "mvStyle",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Indian Pueblo Cultural Center": {
+    "translatedText": "インドプエブロ文化センター",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "#3e97e9": {
+    "translatedText": "＃3e97e9",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "#FFFFFF": {
+    "translatedText": "#FFFFFF",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "#529c8d": {
+    "translatedText": "＃529c8d",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "rgba(62,151,233, 0.3)": {
+    "translatedText": "rgba（62,151,233,0.3）",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Loading...": {
+    "translatedText": "読み込んでいます...",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Please wait while the latest\ndata is downloaded\n\nThis may take a while and depends on the speed of your connection": {
+    "translatedText": "最新のデータがダウンロードされている間お待ちくださいこれには時間がかかることがあり、接続の速度にもよります",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Just a little bit longer\n\nDownloading new events, restaurants, daily deals, and shopping opportunities": {
+    "translatedText": "新しいイベント、レストラン、日常のお得な情報、ショッピングの機会をダウンロードする",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Almost done downloading\nthe latest data\n\nDownload speed depends on\nthe time since you last synced": {
+    "translatedText": "ほとんどの場合、最新のデータのダウンロードが完了しています。ダウンロード速度は、最後に同期してからの時間によって異なります",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "This is taking longer than expected\nand should be done soon\n\nDownload speed depends on\nthe speed of your connection\nand on the time since you last synced": {
+    "translatedText": "これは予想以上の時間がかかり、すぐに実行する必要がありますダウンロード速度は、接続の速度と最後に同期した後の時間によって異なります",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "mvlifeapp@cityofmissionviejo.org": {
+    "translatedText": "mvlifeapp@cityofmissionviejo.org",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Bureau of Tourism Administrative Office\nMission Viejo.\nxxx-xxx-xxxx": {
+    "translatedText": "観光管理局ミッションヴィエホ。 xxx-xxx-xxxx",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Visit Mission Viejo Website": {
+    "translatedText": "Mission Viejoウェブサイトをご覧ください",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "https://www.visitpalmsprings.com/": {
+    "translatedText": "https://www.visitpalmsprings.com/",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/viejo/Assets/Icon@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/viejo/Assets/Icon@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "https://www.facebook.com/MissionViejoLife/": {
+    "translatedText": "https://www.facebook.com/MissionViejoLife/",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/viejo/assets/info/FacebookIcon/FacebookIcon@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/viejo/assets/info/FacebookIcon/FacebookIcon@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "https://twitter.com/MissionViejoCA/": {
+    "translatedText": "https://twitter.com/MissionViejoCA/",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/viejo/assets/info/TwitterIcon/TwitterIcon@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/viejo/assets/info/TwitterIcon/TwitterIcon@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "https://www.instagram.com/missionviejolife/": {
+    "translatedText": "https://www.instagram.com/missionviejolife/",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/viejo/assets/info/InstagramIcon/InstagramIcon@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/viejo/assets/info/InstagramIcon/InstagramIcon@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "https://youtube.com/user/MissionViejoCA/": {
+    "translatedText": "https://youtube.com/user/MissionViejoCA/",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/viejo/assets/info/Youtube/ic_youtube@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/viejo/assets/info/Youtube/ic_youtube@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/viejo/assets/navbar/logo/InfoLogo-1@?x.png}": {
+    "translatedText": "@media {../ resources / viejo / cities / viejo /assets/navbar/logo/InfoLogo-1@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/viejo/assets/navbar/NavBarBG/NavBarBG@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/viejo/assets/navbar/NavBarBG/NavBarBG@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/viejo/assets/navbar/infoIcon/InfoIcon@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/viejo/assets/navbar/infoIcon/InfoIcon@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/viejo/assets/navbar/searchIcon/SearchIcon@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/viejo/assets/navbar/searchIcon/SearchIcon@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/viejo/assets/navbar/weatherIcon/WeatherIcon@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/viejo/assets/navbar/weatherIcon/WeatherIcon@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Shopping & Dining": {
+    "translatedText": "ショッピング＆ダイニング",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Things to Do": {
+    "translatedText": "やる事",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Events": {
+    "translatedText": "イベント",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "News & Sports": {
+    "translatedText": "ニュース＆スポーツ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Report Issues": {
+    "translatedText": "レポートの問題",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "sdk": {
+    "translatedText": "SDK",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../app/assets/weather/weather_default_bg@?x.png}": {
+    "translatedText": "@media {../ app/assets/weather/weather_default_bg@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Welcome": {
+    "translatedText": "ようこそ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Location": {
+    "translatedText": "ロケーション",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Settings": {
+    "translatedText": "設定",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Bookmarks": {
+    "translatedText": "ブックマーク",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Augmented Reality": {
+    "translatedText": "拡張現実",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "The MV Life app provides you with rich, interactive information about City of Mission Viejo such as shopping and dining, things to do, places to visit, community news and the ability to report issues and stay in communication with the City. ": {
+    "translatedText": "MVライフアプリは、ショッピングや食事、行こうとするもの、訪問する場所、コミュニティのニュース、問題を報告したり、都市とのコミュニケーションを維持するなど、City of Mission Viejoに関する豊かでインタラクティブな情報を提供します。",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "From “Settings,” choose “Auto-Locate” to see what’s offered nearby. You can also select “Choose Location” to explore a specific area of Mission Viejo.": {
+    "translatedText": "[設定]から[自動検索]を選択すると、近くにあるものが表示されます。 「Choose Location」を選択して、Mission Viejoの特定のエリアを探索することもできます。",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "From “Settings,” select “Sync” to get the most up-to-date app data and information. We recommend you do this over a Wi-Fi connection. Under settings you can also select your preferred distance units.": {
+    "translatedText": "[設定]から[同期]を選択すると、最新のアプリデータと情報が表示されます。 Wi-Fi接続でこれを行うことをお勧めします。設定では、希望の距離単位を選択することもできます。",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Bookmark your favorite shops, restaurants, parks, trails, and other locations for quick access in the future. ": {
+    "translatedText": "お気に入りのお店、レストラン、公園、トレイル、その他の場所にブックマークしておくと、すぐにすぐにアクセスできます。",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "This feature allows you to see the location and distance to nearby points of interest overlaid on the real world using your phone’s camera. ": {
+    "translatedText": "この機能を使用すると、携帯電話のカメラを使用して、現実世界にオーバーレイされた近くの地点までの距離と距離を表示できます。",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "#2e6583": {
+    "translatedText": "＃2e6583",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "white": {
+    "translatedText": "白",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "light-content": {
+    "translatedText": "軽量",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "home": {
+    "translatedText": "自宅",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../app/assets/tripPlanner/GetAroundIconInactive/GetAroundIconInactive@?x.png}": {
+    "translatedText": "@media {../ app /assets/tripPlanner/GetAroundIconInactive/GetAroundIconInactive@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "home.TripPlanner": {
+    "translatedText": "home.TripPlanner",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Get Around": {
+    "translatedText": "周りを回る",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Trip Planner": {
+    "translatedText": "旅行プランナー",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "addToRecent": {
+    "translatedText": "addToRecent",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "1 Arrowhead Dr, Kansas City, MO 64129, USA": {
+    "translatedText": "1 Arrowhead Dr、Kansas City、MO 64129、USA",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "30 W Pershing Rd, Kansas City, MO 64129, USA": {
+    "translatedText": "カンザスシティ、MO 64129、USAの30 W Pershing Rd",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "recentLocations": {
+    "translatedText": "recentLocations",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "500 Northwest Richards Road, Kansas City, MO 64116, USA": {
+    "translatedText": "カンザスシティ、ミズーリ州、64116、500 Northwest Richards Road",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "2475 Grand Blvd, Kansas City, MO 64108, USA": {
+    "translatedText": "2475 Grand Blvd、Kansas City、MO 64108、USA",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "transit": {
+    "translatedText": "トランジット",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Transit": {
+    "translatedText": "トランジット",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Transit Trip Departures": {
+    "translatedText": "乗り継ぎ旅行の出発",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "transit.AgencyContainer": {
+    "translatedText": "transit.AgencyContainer",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Menu": {
+    "translatedText": "メニュー",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../app/assets/tab_menu@?x.png}": {
+    "translatedText": "@media {../ app/assets/tab_menu@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Palm Springs": {
+    "translatedText": "パームスプリング",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "ps": {
+    "translatedText": "ps",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "mvTutorial": {
+    "translatedText": "mvチュートリアル",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "login": {
+    "translatedText": "ログイン",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "psStyle": {
+    "translatedText": "psStyle",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "#f6844e": {
+    "translatedText": "＃f6844e",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "#ffffff": {
+    "translatedText": "#ffffff",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "rgba(246,132,78, 0.3)": {
+    "translatedText": "rgba（246,132,78,0.3）",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Stay": {
+    "translatedText": "滞在",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "hotel": {
+    "translatedText": "ホテル",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "psAssets": {
+    "translatedText": "psAssets",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "asset": {
+    "translatedText": "資産",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  ".classification": {
+    "translatedText": "。分類",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Dining": {
+    "translatedText": "ダイニング",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "restaurant": {
+    "translatedText": "レストラン",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Dine": {
+    "translatedText": "Dine",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Shopping": {
+    "translatedText": "ショッピング",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "shop": {
+    "translatedText": "ショップ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Shop": {
+    "translatedText": "ショップ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Play": {
+    "translatedText": "遊びます",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "play": {
+    "translatedText": "遊びます",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "event": {
+    "translatedText": "イベント",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "psEvents": {
+    "translatedText": "psEvents",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Wedding": {
+    "translatedText": "結婚式",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "wedding": {
+    "translatedText": "結婚式",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Wedding Venue": {
+    "translatedText": "結婚式場",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Services": {
+    "translatedText": "サービス",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "services": {
+    "translatedText": "サービス",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Visitor Services": {
+    "translatedText": "ビジターサービス",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "All": {
+    "translatedText": "すべて",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "all": {
+    "translatedText": "すべて",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Amenities": {
+    "translatedText": "アメニティ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "subcategory": {
+    "translatedText": "サブカテゴリ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "setting": {
+    "translatedText": "設定",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@mediaPath{../resources/viejo/cities/palmsprings/Assets/settings/about?i18n.html}": {
+    "translatedText": "@mediaPath {../ resources / viejo / cities / palmsprings / Assets / settings / about？i18n.html}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@mediaPath{../resources/viejo/cities/palmsprings/Assets/settings/privacy.html}": {
+    "translatedText": "@mediaPath {../ resources / viejo / cities / palmsprings / Assets / settings / privacy.html}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@mediaPath{../resources/viejo/cities/palmsprings/Assets/settings/disclaimer.html}": {
+    "translatedText": "@mediaPath {../ resources / viejo / cities / palmsprings / Assets / settings / disclaimer.html}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@mediaPath{../resources/viejo/cities/palmsprings/Assets/settings/faq.html}": {
+    "translatedText": "@mediaPath {../ resources / viejo / cities / palmsprings / Assets / settings / faq.html}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@mediaPath{../resources/viejo/cities/palmsprings/Assets/settings/terms.html}": {
+    "translatedText": "@mediaPath {../ resources / viejo / cities / palmsprings / Assets / settings / terms.html}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Bureau of Tourism Administrative Office\n277 N. Avenida Caballeros, Palm Springs.\n760-322-8415": {
+    "translatedText": "観光行政局277 N. Avenida Caballeros、パームスプリングス。 760-322-8415",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Visit Palm Springs Website": {
+    "translatedText": "パームスプリングスのウェブサイトをご覧ください",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Icon@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/Icon@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "https://www.facebook.com/VisitPalmSprings/": {
+    "translatedText": "https://www.facebook.com/VisitPalmSprings/",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Info/FacebookIcon/FacebookIcon@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/Info/FacebookIcon/FacebookIcon@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "https://twitter.com/palmspringsca/": {
+    "translatedText": "https://twitter.com/palmspringsca/",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Info/TwitterIcon/TwitterIcon@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/Info/TwitterIcon/TwitterIcon@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "https://instagram.com/visitpalmsprings/": {
+    "translatedText": "https://instagram.com/visitpalmsprings/",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Info/InstagramIcon/InstagramIcon@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/Info/InstagramIcon/InstagramIcon@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "https://www.youtube.com/user/visitpalmsprings/": {
+    "translatedText": "https://www.youtube.com/user/visitpalmsprings/",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Info/Youtube/ic_youtube@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/Info/Youtube/ic_youtube@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Info/info_logo@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/Info/info_logo@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "stay": {
+    "translatedText": "滞在",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeStayCell/HomeStayCell@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeStayCell/HomeStayCell@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@formula{if(platform('OS') == \"ios\",\"Stay\",\" Stay\")}": {
+    "translatedText": "@formula {if（platform（ 'OS​​'）== \"ios\"、 \"Stay\"、 \"Stay\"）}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeAttractionsCell/HomeAttractionsCell@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeAttractionsCell/HomeAttractionsCell@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "nearby": {
+    "translatedText": "近所の",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeNearbyCell/HomeNearbyCell@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeNearbyCell/HomeNearbyCell@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Nearby": {
+    "translatedText": "近所の",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "shopping": {
+    "translatedText": "ショッピング",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeShoppingCell/HomeShoppingCell@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeShoppingCell/HomeShoppingCell@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "dining": {
+    "translatedText": "ダイニング",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeDiningCell/HomeDiningCell@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeDiningCell/HomeDiningCell@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "events": {
+    "translatedText": "イベント",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeEventsCell/HomeEventsCell@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeEventsCell/HomeEventsCell@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "deals": {
+    "translatedText": "お得",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeDealsCell/HomeDealsCell@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeDealsCell/HomeDealsCell@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Deals": {
+    "translatedText": "お得な情報",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/NavBar/NavBarBG/NavBarBG@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/NavBar/NavBarBG/NavBarBG@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeNavImage/nav_logo@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeNavImage/nav_logo@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeInfoIcon/InfoIcon@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeInfoIcon/InfoIcon@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeSearchIcon/SearchIcon@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeSearchIcon/SearchIcon@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeWeatherIcon/WeatherIcon@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeWeatherIcon/WeatherIcon@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Weather/WeatherPalmSpringsBG/weather_background@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/Weather/WeatherPalmSpringsBG/weather_background@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "black": {
+    "translatedText": "黒",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Cocktail Shaker": {
+    "translatedText": "カクテルシェーカー",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "#000000": {
+    "translatedText": "＃000000",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Social Media": {
+    "translatedText": "ソーシャルメディア",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "This free <brand>Palm Springs</brand> app makes locating options for dining, entertainment, accommodations, activities, shopping, and other destination information simple to find through your mobile phone.\n\nPlanning your trip is simplified and interactive, saving precious time and money on your trip.": {
+    "translatedText": "この無料<brand>パームスプリング</brand>アプリは、ダイニング、エンターテイメント、宿泊施設、アクティビティ、ショッピング、その他の目的地の情報を簡単に携帯電話で見つけることができます。あなたの旅行を計画することは簡単でインタラクティブなので、貴重な時間とお金を節約できます。",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Easily learn more about your immediate surroundings.  Choose <colorize>Nearby</colorize> to see what's offered in your location. The image <colorize>Gallery</colorize> shows fun activities around town.\n\nUse <colorize>Maps</colorize> to determine best routes and <colorize>Bookmarks</colorize> to remember destinations in Palm Springs.": {
+    "translatedText": "あなたのすぐ近くの環境についてもっと簡単に学ぶことができます。選択する<colorize>近所の</colorize>あなたの地域で何が提供されているかを確認します。画像<colorize>ギャラリー</colorize>町の周りの楽しい活動を示しています。つかいます<colorize>地図</colorize>最適なルートを決定する<colorize>ブックマーク</colorize>パームスプリングスの目的地を覚えています。",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Read the buzz in <colorize>social media</colorize> about your current location, including Tweets from fellow travelers, and restaurant reviews and other events.\n\nTake a virtual <colorize>pictorial</colorize> tour through selected resaturants before making an OpenTable reservation at selected locations.": {
+    "translatedText": "バズを読む<colorize>ソーシャルメディア</colorize>仲間からのつぶやきやレストランレビューなどのあなたの現在の場所についての情報仮想を取る<colorize>絵画</colorize>選択された場所でOpenTable予約を行う前に、選択されたresaturantsを見学してください。",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Your <colorize>smartphone camera</colorize> is your interactive viewer to instantly see digital overlays of information about nearby locations & points of interest.\n\nTeleport to a <colorize>Streetview</colorize> destination before you travel to browse the exact location, get compass directions, see social media activity, and plan transportation options.": {
+    "translatedText": "きみの<colorize>スマートフォンカメラ</colorize>あなたのインタラクティブビューアで、近くの場所と興味のあるポイントに関する情報のデジタルオーバーレイをすぐに見ることができます。テレポートする<colorize>ストリートビュー</colorize>あなたが正確な場所をブラウズしたり、コンパスの指示を取得したり、ソーシャルメディアの活動を見たり、交通手段を計画したりするために移動する前に、",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "/<colorize>([^<]*)</colorize>/": {
+    "translatedText": "/ <colorize> （[^ <] *） </colorize> /",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "gold": {
+    "translatedText": "ゴールド",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "/<brand>([^<]*)</brand>/": {
+    "translatedText": "/ <brand> （[^ <] *） </brand> /",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "#8e8e93": {
+    "translatedText": "＃8e8e93",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "rgba(0, 0, 0, 0.54)": {
+    "translatedText": "rgba（0,0,0,0.54）",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "#f9f9f9": {
+    "translatedText": "＃f9f9f9",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Home": {
+    "translatedText": "ホーム",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../app/assets/tab_ar@?x.png}": {
+    "translatedText": "@media {../ app /assets/tab_ar@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "AR": {
+    "translatedText": "AR",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "home.PoiView": {
+    "translatedText": "home.PoiView",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  ".setup.constants.mapFilterBar[]": {
+    "translatedText": ".setup.constants.mapFilterBar []",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "streetView": {
+    "translatedText": "ストリートビュー",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  ".config.feature.arTab.enabled": {
+    "translatedText": ".config.feature.arTab.enabled",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../app/assets/bookmarked@?x.png}": {
+    "translatedText": "@media {../ app/assets/bookmarked@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "bookmarks.Bookmarks": {
+    "translatedText": "ブックマーク。ブックマーク",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "linkto": {
+    "translatedText": "リンク",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  ".config.feature.bookmarks.enabled": {
+    "translatedText": ".config.feature.bookmarks.enabled",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../app/assets/tab_gallery@?x.png}": {
+    "translatedText": "@media {../ app/assets/tab_gallery@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Gallery": {
+    "translatedText": "ギャラリー",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Palm Springs Style": {
+    "translatedText": "パームスプリングススタイル",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "demo.LandingScreen": {
+    "translatedText": "デモ。ランディングスクリーン",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "News & Alerts": {
+    "translatedText": "ニュース＆アラート",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "newsAlerts.NewsAlerts": {
+    "translatedText": "newsAlerts.NewsAlerts",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  ".config.feature.newsAlerts.enabled": {
+    "translatedText": ".config.feature.newsAlerts.enabled",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  ".config.build{.SCHEME == \"DEVELOPER\"}": {
+    "translatedText": ".config.build {.SCHEME == \"DEVELOPER\"}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "demo.Intro": {
+    "translatedText": "デモ。イントロ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@i18n{settings:label}": {
+    "translatedText": "@ i18n {settings：label}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@i18n{settings:title}": {
+    "translatedText": "@ i18n {settings：title}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../app/assets/tab_settings@?x.png}": {
+    "translatedText": "@media {../ app /assets/tab_settings@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "settings.Settings": {
+    "translatedText": "settings.Settings",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@i18n{settings:info.title}": {
+    "translatedText": "@ i18n {settings：info.title}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "mvSettings": {
+    "translatedText": "mvSettings",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "transparent": {
+    "translatedText": "トランスペアレント",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "center": {
+    "translatedText": "センター",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "+1": {
+    "translatedText": "+1",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "renderImage": {
+    "translatedText": "renderImage",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@formula{screenWidth()}": {
+    "translatedText": "@formula {screenWidth（）}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/PSBuzz/Buzz-Image/Buzz-Image@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/PSBuzz/Buzz-Image/Buzz-Image@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@formula{screenWidth() * 0.56}": {
+    "translatedText": "@formula {screenWidth（）* 0.56}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "cover": {
+    "translatedText": "カバー",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "renderText": {
+    "translatedText": "レンダリングテキスト",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Get Around Town - Free & Fast": {
+    "translatedText": "町を回って - フリー＆ファスト",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  ".constants.loadingScreenLabelStyle": {
+    "translatedText": ".constants.loadingScreenLabelStyle",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "+0": {
+    "translatedText": "+0",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "absolute": {
+    "translatedText": "絶対の",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/PSBuzz/Buzz-Sunburst/Buzz-Sunburst@?x.png}": {
+    "translatedText": "@media {../resources/viejo/cities/palmsprings/Assets/PSBuzz/Buzz-Sunburst/Buzz-Sunburst@?x.png}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Via Escuela to Smoketree": {
+    "translatedText": "EscuelaからSmoketreeへ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "11 AM - 1AM, THU - SUN": {
+    "translatedText": "午前11時〜午後1時、土日",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Every 15 minutes": {
+    "translatedText": "15分ごと",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Show Trolley Locations": {
+    "translatedText": "トロリーの場所を表示する",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "row": {
+    "translatedText": "行",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "http://buzz.visitpalmsprings.com": {
+    "translatedText": "http://buzz.visitpalmsprings.com",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Contact:": {
+    "translatedText": "接触：",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Messages": {
+    "translatedText": "メッセージ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Email": {
+    "translatedText": "Eメール",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Share": {
+    "translatedText": "シェア",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Send a Report": {
+    "translatedText": "レポートを送信する",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Emergency": {
+    "translatedText": "緊急",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Warning": {
+    "translatedText": "警告",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Traffic": {
+    "translatedText": "トラフィック",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Emergency Contact:": {
+    "translatedText": "緊急連絡：",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Police": {
+    "translatedText": "警察",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Fire": {
+    "translatedText": "火災",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Ambulance": {
+    "translatedText": "救急車",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "EXAMPLES": {
+    "translatedText": "使用例",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "CONFIGURE DEMO": {
+    "translatedText": "デモを設定する",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "TEST TEMPLATE": {
+    "translatedText": "テンプレートをテストする",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Media Viewer": {
+    "translatedText": "メディアビューア",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Check It Out": {
+    "translatedText": "見てみな",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Welcome, {{user.name}}": {
+    "translatedText": "ようこそ、{{user.name}}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Welcome, {{user}}": {
+    "translatedText": "ようこそ、{{user}}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Welcome, <ccsdk text='user' />": {
+    "translatedText": "ようこそ、 <ccsdk text='user' />",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Back": {
+    "translatedText": "バック",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Password": {
+    "translatedText": "パスワード",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Forgot Password": {
+    "translatedText": "パスワードをお忘れですか",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Login": {
+    "translatedText": "ログイン",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "By using the app, you agree to the": {
+    "translatedText": "このアプリを使用すると、あなたは",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Terms of Service": {
+    "translatedText": "利用規約",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  " and ": {
+    "translatedText": "そして",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Privacy Policy": {
+    "translatedText": "個人情報保護方針",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Change Language": {
+    "translatedText": "言語を変えてください",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "No Results Found": {
+    "translatedText": "結果が見つかりません",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Try searching for something different or change your search options": {
+    "translatedText": "別のものを検索したり、検索オプションを変更してみてください",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Return to Search": {
+    "translatedText": "検索に戻る",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Info": {
+    "translatedText": "情報",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "About": {
+    "translatedText": "約",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Disclaimer": {
+    "translatedText": "免責事項",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "FAQ": {
+    "translatedText": "よくある質問",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Terms": {
+    "translatedText": "条項",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Tutorial": {
+    "translatedText": "チュートリアル",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Download latest updates": {
+    "translatedText": "最新のアップデートをダウンロードする",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Last sync:": {
+    "translatedText": "最後の同期：",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Sync": {
+    "translatedText": "同期",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Please wait while we sync the latest updates.": {
+    "translatedText": "最新のアップデートを同期している間お待ちください。",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "This may take a few moments.": {
+    "translatedText": "これには数分かかることがあります。",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Downloading...": {
+    "translatedText": "ダウンロード中...",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Download complete.": {
+    "translatedText": "ダウンロード完了。",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Download failed.": {
+    "translatedText": "ダウンロードに失敗しました。",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "RETRY": {
+    "translatedText": "リトライ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "CANCEL": {
+    "translatedText": "キャンセル",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "OK": {
+    "translatedText": "OK",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Software Licences": {
+    "translatedText": "ソフトウェアライセンス",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Licenses": {
+    "translatedText": "ライセンス",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Open source libraries": {
+    "translatedText": "オープンソースライブラリ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Units": {
+    "translatedText": "単位",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Distance": {
+    "translatedText": "距離",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Miles": {
+    "translatedText": "マイル",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Kilometers": {
+    "translatedText": "キロメートル",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Temperature": {
+    "translatedText": "温度",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Fahrenheit": {
+    "translatedText": "華氏",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Celsius": {
+    "translatedText": "摂氏",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Set Your Location": {
+    "translatedText": "あなたの場所を設定する",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Language": {
+    "translatedText": "言語",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "The app will automatically restart in the selected language. This will not change your system default language.": {
+    "translatedText": "アプリは自動的に選択した言語で再起動します。これにより、システムのデフォルト言語は変更されません。",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Gauge": {
+    "translatedText": "ゲージ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Add Event": {
+    "translatedText": "イベントを追加",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Color": {
+    "translatedText": "色",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Blue (Default)": {
+    "translatedText": "青色（デフォルト）",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Dark Blue": {
+    "translatedText": "濃紺",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Light Blue": {
+    "translatedText": "ライトブルー",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Red": {
+    "translatedText": "赤",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Dark Red": {
+    "translatedText": "暗赤色",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Navy": {
+    "translatedText": "海軍",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Orange": {
+    "translatedText": "オレンジ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Purple": {
+    "translatedText": "紫の",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Brown": {
+    "translatedText": "褐色",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Torquise": {
+    "translatedText": "トルキーズ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Teal": {
+    "translatedText": "ティール",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Green": {
+    "translatedText": "緑",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Dark Green": {
+    "translatedText": "濃い緑色",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Pink": {
+    "translatedText": "ピンク",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Yellow": {
+    "translatedText": "黄",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Repeat": {
+    "translatedText": "繰り返す",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Never": {
+    "translatedText": "絶対に",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Every Day": {
+    "translatedText": "毎日",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Every Week": {
+    "translatedText": "毎週",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Every 2 Weeks": {
+    "translatedText": "2週間ごと",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Every Month": {
+    "translatedText": "毎月",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Every Year": {
+    "translatedText": "毎年",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Timezone": {
+    "translatedText": "タイムゾーン",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Name": {
+    "translatedText": "名",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "UTC": {
+    "translatedText": "UTC",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Search by Time Zone": {
+    "translatedText": "タイムゾーンで検索",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Calendar": {
+    "translatedText": "カレンダー",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "iOS": {
+    "translatedText": "iOS",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Team": {
+    "translatedText": "チーム",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Google": {
+    "translatedText": "Google",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "TBD": {
+    "translatedText": "未定",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Press to See Map": {
+    "translatedText": "地図を見るために押す",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "County": {
+    "translatedText": "郡",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Construction": {
+    "translatedText": "建設",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Incident": {
+    "translatedText": "入射",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Special Events": {
+    "translatedText": "特別なイベント",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Closures": {
+    "translatedText": "閉鎖",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "511 Traffic and Events": {
+    "translatedText": "511交通とイベント",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "traffic": {
+    "translatedText": "トラフィック",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Category": {
+    "translatedText": "カテゴリー",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Description": {
+    "translatedText": "説明",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Event Type": {
+    "translatedText": "イベントタイプ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Severity": {
+    "translatedText": "重大度",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Created": {
+    "translatedText": "作成した",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Updated": {
+    "translatedText": "更新しました",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Status": {
+    "translatedText": "状態",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Action": {
+    "translatedText": "アクション",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Posted": {
+    "translatedText": "掲示される",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Phrase": {
+    "translatedText": "フレーズ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Advice": {
+    "translatedText": "助言",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Lanes Affected": {
+    "translatedText": "影響を受ける車線",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Source ID": {
+    "translatedText": "ソースID",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Source Name": {
+    "translatedText": "ソース名",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Event Impact": {
+    "translatedText": "イベントの影響",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Road Closed": {
+    "translatedText": "通行止め",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Event Status": {
+    "translatedText": "イベントステータス",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Event Class": {
+    "translatedText": "イベントクラス",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Incident Type Impact": {
+    "translatedText": "インシデント・タイプの影響",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Total Lanes": {
+    "translatedText": "総レーン",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Event Directions": {
+    "translatedText": "イベントの方向",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Last Updated": {
+    "translatedText": "最終更新",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Article": {
+    "translatedText": "記事",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Lane Status": {
+    "translatedText": "レーンステータス",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Other Text": {
+    "translatedText": "その他のテキスト",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Completed": {
+    "translatedText": "完了しました",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Show Map": {
+    "translatedText": "地図を表示",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Show Inline Map": {
+    "translatedText": "インラインマップを表示",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Start...": {
+    "translatedText": "開始...",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Destination...": {
+    "translatedText": "先...",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Your Location": {
+    "translatedText": "あなたの場所",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Choose On Map": {
+    "translatedText": "地図上で選択",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "My Locations": {
+    "translatedText": "私の所在地",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Work": {
+    "translatedText": "作業",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Recent Searches": {
+    "translatedText": "最近の検索",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Leave Now": {
+    "translatedText": "今すぐ出る",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Depart At": {
+    "translatedText": "出発点",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Arrive By": {
+    "translatedText": "到着",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "GAUGE EXAMPLES": {
+    "translatedText": "ゲージの例",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Tweets": {
+    "translatedText": "ツイート",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Twitter Accounts": {
+    "translatedText": "Twitterアカウント",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Twitter Hashtags": {
+    "translatedText": "Twitterのハッシュタグ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "#hashtags": {
+    "translatedText": "#hashtags",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Foursquare": {
+    "translatedText": "フォースクエア",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Eventbrite": {
+    "translatedText": "イベントブラッド",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Cancel": {
+    "translatedText": "キャンセル",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Apply": {
+    "translatedText": "適用",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Other": {
+    "translatedText": "その他",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Sources": {
+    "translatedText": "ソース",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Gauge Test": {
+    "translatedText": "ゲージテスト",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Allow Access": {
+    "translatedText": "アクセスを許可する",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Add Agenda": {
+    "translatedText": "アジェンダを追加",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Edit Agenda": {
+    "translatedText": "アジェンダを編集",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Add Agenda Item": {
+    "translatedText": "アジェンダ項目を追加",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Select Duration": {
+    "translatedText": "期間の選択",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Duration": {
+    "translatedText": "期間",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "minutes": {
+    "translatedText": "分",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "hours": {
+    "translatedText": "時間",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "days": {
+    "translatedText": "日々",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "weeks": {
+    "translatedText": "週",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "months": {
+    "translatedText": "数ヶ月",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Save": {
+    "translatedText": "保存する",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Starts": {
+    "translatedText": "開始",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Ends": {
+    "translatedText": "終わり",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "All Day": {
+    "translatedText": "一日中",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Alert": {
+    "translatedText": "アラート",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Title": {
+    "translatedText": "タイトル",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Subtitle": {
+    "translatedText": "字幕",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Scroller": {
+    "translatedText": "スクロール",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Test": {
+    "translatedText": "テスト",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Sign-in": {
+    "translatedText": "サインイン",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Select Demo Location": {
+    "translatedText": "デモの場所を選択",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Example Selector": {
+    "translatedText": "サンプルセレクタ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Start Date": {
+    "translatedText": "開始日",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "End Date": {
+    "translatedText": "終了日",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Date Created": {
+    "translatedText": "作成日",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Date Changed": {
+    "translatedText": "日付変更",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Capacity": {
+    "translatedText": "容量",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Currency": {
+    "translatedText": "通貨",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Online": {
+    "translatedText": "オンライン",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Time Limit": {
+    "translatedText": "制限時間",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Subcategory": {
+    "translatedText": "サブカテゴリ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Format": {
+    "translatedText": "フォーマット",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "ID": {
+    "translatedText": "ID",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Address": {
+    "translatedText": "住所",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Area": {
+    "translatedText": "エリア",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Cross Street": {
+    "translatedText": "クロスストリート",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "FormattedAddress": {
+    "translatedText": "書式付きアドレス",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "GroupType": {
+    "translatedText": "グループタイプ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "nearbyLocation": {
+    "translatedText": "近くの場所",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Categories": {
+    "translatedText": "カテゴリー",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Transactions": {
+    "translatedText": "トランザクション",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Phone": {
+    "translatedText": "電話",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "City": {
+    "translatedText": "シティ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "State": {
+    "translatedText": "状態",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Zipcode": {
+    "translatedText": "郵便番号",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Country": {
+    "translatedText": "国",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Rating": {
+    "translatedText": "評価",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Hours": {
+    "translatedText": "時間",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Price": {
+    "translatedText": "価格",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Url": {
+    "translatedText": "URL",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "UserIcon": {
+    "translatedText": "UserIcon",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "UserName": {
+    "translatedText": "ユーザー名",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "ScreenName": {
+    "translatedText": "ハンドルネーム",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Place": {
+    "translatedText": "場所",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "TimeAgo": {
+    "translatedText": "TimeAgo",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Show All": {
+    "translatedText": "すべて表示する",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Start Demo": {
+    "translatedText": "デモを開始する",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Recommended places": {
+    "translatedText": "おすすめの場所",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Address...": {
+    "translatedText": "住所...",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Auto-Locate": {
+    "translatedText": "自動検索",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Search": {
+    "translatedText": "サーチ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Street View": {
+    "translatedText": "ストリートビュー",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Done": {
+    "translatedText": "完了",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Remaining": {
+    "translatedText": "残り",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Elapsed": {
+    "translatedText": "経過",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Training Session": {
+    "translatedText": "トレーニングセッション",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "WORKING TIME": {
+    "translatedText": "労働時間",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Github Templates": {
+    "translatedText": "ギターテンプレート",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Tutorial Examples": {
+    "translatedText": "チュートリアルの例",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Template Overview": {
+    "translatedText": "テンプレートの概要",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Basic Components": {
+    "translatedText": "基本コンポーネント",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Intermediate Components": {
+    "translatedText": "中間コンポーネント",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Advanced Components": {
+    "translatedText": "高度なコンポーネント",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Built-in Screens": {
+    "translatedText": "内蔵スクリーン",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Applications": {
+    "translatedText": "アプリケーション",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Content Library": {
+    "translatedText": "コンテンツライブラリ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "unknown": {
+    "translatedText": "道の",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Invalid URL": {
+    "translatedText": "無効なURL",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Test Template": {
+    "translatedText": "テストテンプレート",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Select URL(s) to Test Templates": {
+    "translatedText": "テンプレートをテストするURLを選択する",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Load @{numSelectedItems} Templates": {
+    "translatedText": "@ {numSelectedItems}テンプレートを読み込む",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "delete": {
+    "translatedText": "削除",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Add Github Branch": {
+    "translatedText": "Githubブランチを追加",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Choose Your Amenities": {
+    "translatedText": "あなたのアメニティを選ぶ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Show @{prediction} Results": {
+    "translatedText": "@ {予測}の結果を表示",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "2 min": {
+    "translatedText": "2分",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "2 min walk - one city block": {
+    "translatedText": "徒歩2分 - 市街地ブロック1つ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "5 min": {
+    "translatedText": "5分",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "5 min walk - 1/4 mile": {
+    "translatedText": "徒歩5分 -  1/4マイル",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "10 min": {
+    "translatedText": "10分",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "10 min walk - 1/2 mile": {
+    "translatedText": "徒歩10分 -  1/2マイル",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "20 min": {
+    "translatedText": "20分",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "20 min walk - 1 mile": {
+    "translatedText": "徒歩20分 -  1マイル",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Map": {
+    "translatedText": "地図",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Find Transportation": {
+    "translatedText": "交通機関を探す",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Under Construction": {
+    "translatedText": "工事中",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "This feature will be available soon!": {
+    "translatedText": "この機能はすぐに利用可能になります！",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Get Directions": {
+    "translatedText": "道順を取得する",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Get Ride With Uber": {
+    "translatedText": "Uberと一緒に乗る",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Get Ride With Lyft": {
+    "translatedText": "Lyftと一緒に乗る",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Make reservation with OpenTable": {
+    "translatedText": "OpenTableで予約する",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Share Place": {
+    "translatedText": "共有場所",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Want to tell others about this place?": {
+    "translatedText": "この場所について他人に伝えたいですか？",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Share with your friends now.": {
+    "translatedText": "今あなたの友人と共有します。",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Directions": {
+    "translatedText": "行き方",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Get directions": {
+    "translatedText": "道順を取得する",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Want directions to this place?": {
+    "translatedText": "この場所への道案内をしたいですか？",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "This will open your default Maps app.": {
+    "translatedText": "これで、デフォルトのマップアプリが開きます。",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Save for later?": {
+    "translatedText": "後で見るように保存？",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Want to be able to quickly access this again?": {
+    "translatedText": "すぐにこれに再びアクセスできるようにしたいですか？",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Save to your Bookmarks list now.": {
+    "translatedText": "今すぐブックマークリストに保存してください。",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Set a reminder?": {
+    "translatedText": "リマインダーを設定しますか？",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Want to receive a notification for this event?": {
+    "translatedText": "このイベントの通知を受け取りたいですか？",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Set a reminder now.": {
+    "translatedText": "今すぐリマインダを設定してください。",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Save to Bookmarks": {
+    "translatedText": "ブックマークに保存",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "View More Info": {
+    "translatedText": "詳細を見る",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Clear": {
+    "translatedText": "クリア",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Submit": {
+    "translatedText": "提出する",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Pick Items": {
+    "translatedText": "アイテムを選ぶ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Search Items...": {
+    "translatedText": "アイテムを検索...",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Search Nearby...": {
+    "translatedText": "近くの検索...",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Looked for": {
+    "translatedText": "探した",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Close": {
+    "translatedText": "閉じる",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "and {{matchCount}} more matches": {
+    "translatedText": "{{matchCount}}件以上の一致",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "{{index}} of {{numItems}}": {
+    "translatedText": "{{numItems}}の{{index}}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Found {{counter}} in: <reason>{{foundAt}}</reason> from {{name}}": {
+    "translatedText": "{{counter}}が見つかりました： <reason> {{foundAt}} </reason>名前から}}",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "RAW SEARCH EXPLANATION DATA": {
+    "translatedText": "RAW SEARCH説明データ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Why am I seeing this?": {
+    "translatedText": "なぜ私はこれを見ているのですか？",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Couldn't find the location. Please Try Again": {
+    "translatedText": "場所を見つけることができませんでした。もう一度お試しください",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Bookmark": {
+    "translatedText": "ブックマーク",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Delete": {
+    "translatedText": "削除",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "There are no stops that match the current search": {
+    "translatedText": "現在の検索と一致するストップはありません",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "fare": {
+    "translatedText": "運賃",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "via": {
+    "translatedText": "経由",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Confirm": {
+    "translatedText": "確認",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Try again": {
+    "translatedText": "再試行する",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "LA Care Family Resource Centers": {
+    "translatedText": "LAケアファミリーリソースセンター",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Weekdays": {
+    "translatedText": "平日",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Thu": {
+    "translatedText": "木",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Sat": {
+    "translatedText": "土",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Free health education classes": {
+    "translatedText": "無料の健康教育授業",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Exercise classes": {
+    "translatedText": "エクササイズクラス",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Free or low-cost health care coverage": {
+    "translatedText": "無料または低コストの医療保険",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Friendly staff who speak your language": {
+    "translatedText": "あなたの言語を話すフレンドリーなスタッフ",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Classes for kids": {
+    "translatedText": "子供のためのクラス",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Classes": {
+    "translatedText": "クラス",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Help finding a doctor": {
+    "translatedText": "医者を見つける手助け",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Health screenings": {
+    "translatedText": "健康診断",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Child care is provided": {
+    "translatedText": "託児サービス",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "San Diego Trains": {
+    "translatedText": "サンディエゴ列車",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Website": {
+    "translatedText": "ウェブサイト",
+    "timestamp": 1544741633098,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Example coming soon...": {
+    "translatedText": "すぐに来る例...",
+    "timestamp": 1545409445888
+  },
+  "Assorted Images": {
+    "translatedText": "さまざまなイメージ",
+    "timestamp": 1545409445888
+  },
+  "Weather": {
+    "translatedText": "天気",
+    "timestamp": 1545409445888
+  },
+  "Weather Images": {
+    "translatedText": "天気画像",
+    "timestamp": 1545409445888
+  },
+  "Transit Images": {
+    "translatedText": "トランジットイメージ",
+    "timestamp": 1545409445888
+  },
+  "Points of Interest Images": {
+    "translatedText": "注目の画像",
+    "timestamp": 1545409445888
+  },
+  "Points of Interest": {
+    "translatedText": "興味がある点",
+    "timestamp": 1545409445888
+  },
+  "Flex Layout": {
+    "translatedText": "フレックスレイアウト",
+    "timestamp": 1545409445888
+  },
+  "Example Full width row": {
+    "translatedText": "例全幅の行",
+    "timestamp": 1545409445888
+  },
+  "Example Two column row": {
+    "translatedText": "例2列の行",
+    "timestamp": 1545409445888
+  },
+  "Example - Three column row with aligned labels": {
+    "translatedText": "例 - ラベルが整列された3列の行",
+    "timestamp": 1545409445888
+  },
+  "Color 1": {
+    "translatedText": "カラー1",
+    "timestamp": 1545409445888
+  },
+  "Color 2": {
+    "translatedText": "カラー2",
+    "timestamp": 1545409445888
+  },
+  "Color 3": {
+    "translatedText": "カラー3",
+    "timestamp": 1545409445888
+  },
+  "Components are automatically arranged into rows based on a specific row number, or '+/-' relative to the current row.  Using '+0' places the component in the same row as the previous component.  Column names can set for any component to overlap components on top of each other.": {
+    "translatedText": "コンポーネントは、特定の行番号に基づいて行に自動的に配置されます。現在の行に対して相対的に「+/-」になります。 '+0'を使用すると、コンポーネントは前のコンポーネントと同じ行に配置されます。列名は、コンポーネントが互いに重なり合うように設定できます。",
+    "timestamp": 1545409445888
+  },
+  "Formulas, Constants, Enabled": {
+    "translatedText": "数式、定数、有効",
+    "timestamp": 1545409445888
+  },
+  "Hello World Example": {
+    "translatedText": "Hello Worldの例",
+    "timestamp": 1545409445888
+  },
+  "Hello World": {
+    "translatedText": "こんにちは世界",
+    "timestamp": 1545409445888
+  },
+  "Linking Actions": {
+    "translatedText": "リンクアクション",
+    "timestamp": 1545409445888
+  },
+  "My Test Email": {
+    "translatedText": "私のテスト電子メール",
+    "timestamp": 1545409445888
+  },
+  "This is my email body": {
+    "translatedText": "これは私のメール本文です",
+    "timestamp": 1545409445888
+  },
+  "Link": {
+    "translatedText": "リンク",
+    "timestamp": 1545409445888
+  },
+  "Selected Screens": {
+    "translatedText": "選択された画面",
+    "timestamp": 1545409445888
+  },
+  "Chooser": {
+    "translatedText": "セレクタ",
+    "timestamp": 1545409445888
+  },
+  "Roster": {
+    "translatedText": "ロスター",
+    "timestamp": 1545409445888
+  },
+  "Player 1": {
+    "translatedText": "プレーヤー1",
+    "timestamp": 1545409445888
+  },
+  "Player 2": {
+    "translatedText": "プレーヤー2",
+    "timestamp": 1545409445888
+  },
+  "Player 3": {
+    "translatedText": "プレーヤー3",
+    "timestamp": 1545409445888
+  },
+  "Coach 1": {
+    "translatedText": "コーチ1",
+    "timestamp": 1545409445888
+  },
+  "Coach 2": {
+    "translatedText": "コーチ2",
+    "timestamp": 1545409445888
+  },
+  "Choose a Person": {
+    "translatedText": "人を選ぶ",
+    "timestamp": 1545409445888
+  },
+  "Charting": {
+    "translatedText": "チャート作成",
+    "timestamp": 1545409445888
+  },
+  "Render Image": {
+    "translatedText": "レンダリングイメージ",
+    "timestamp": 1545409445888
+  },
+  "Render List View": {
+    "translatedText": "レンダリングリストビュー",
+    "timestamp": 1545409445888
+  },
+  "List View": {
+    "translatedText": "リストビュー",
+    "timestamp": 1545409445888
+  },
+  "List View and Detail View\nwith Sorting": {
+    "translatedText": "並べ替えを使用したリストビューと詳細ビュー",
+    "timestamp": 1545409445888
+  },
+  "People": {
+    "translatedText": "人",
+    "timestamp": 1545409445888
+  },
+  "A-Z": {
+    "translatedText": "AZ",
+    "timestamp": 1545409445888
+  },
+  "Custom": {
+    "translatedText": "カスタム",
+    "timestamp": 1545409445888
+  },
+  "List View and Detail View\nwith Filtering and Sorting": {
+    "translatedText": "フィルタリングとソートを使用したリストビューと詳細ビュー",
+    "timestamp": 1545409445888
+  },
+  "Coach": {
+    "translatedText": "コーチ",
+    "timestamp": 1545409445888
+  },
+  "Player": {
+    "translatedText": "プレーヤー",
+    "timestamp": 1545409445888
+  },
+  "List View and Detail View\nwith Date Filter and Sorting": {
+    "translatedText": "日付フィルタと並べ替えを使用したリストビューと詳細ビュー",
+    "timestamp": 1545409445888
+  },
+  "Render ListViewItem": {
+    "translatedText": "レンダリングListViewItem",
+    "timestamp": 1545409445888
+  },
+  "Loading Data...": {
+    "translatedText": "データのロード...",
+    "timestamp": 1545409445888
+  },
+  "List Item using a search for the word '@{searchTerm}'": {
+    "translatedText": "'@ {searchTerm}'という単語の検索を使用してアイテムを一覧表示する",
+    "timestamp": 1545409445888
+  },
+  "RenderMap": {
+    "translatedText": "レンダーマップ",
+    "timestamp": 1545409445888
+  },
+  "Example 1": {
+    "translatedText": "例1",
+    "timestamp": 1545409445888
+  },
+  "Example 2 - Include Lyft data fetcher": {
+    "translatedText": "例2  -  Lyftデータフェッチャーを含む",
+    "timestamp": 1545409445888
+  },
+  "RenderMedia": {
+    "translatedText": "レンダーメディア",
+    "timestamp": 1545409445888
+  },
+  "Swipe through images, video, pdf, youtube, web sites\nPress on content to large version": {
+    "translatedText": "画像、ビデオ、pdf、youtube、ウェブサイトをスワイプする",
+    "timestamp": 1545409445888
+  },
+  "PDF Header": {
+    "translatedText": "PDFヘッダー",
+    "timestamp": 1545409445888
+  },
+  "PDF Footer": {
+    "translatedText": "PDFフッター",
+    "timestamp": 1545409445888
+  },
+  "Youtube Header": {
+    "translatedText": "Youtubeヘッダー",
+    "timestamp": 1545409445888
+  },
+  "Youtube Footer": {
+    "translatedText": "Youtubeフッター",
+    "timestamp": 1545409445888
+  },
+  "Render Menu": {
+    "translatedText": "レンダーメニュー",
+    "timestamp": 1545409445888
+  },
+  "Photosphere 360° Images": {
+    "translatedText": "光球360°イメージ",
+    "timestamp": 1545409445888
+  },
+  "Render Rect": {
+    "translatedText": "Render Rect",
+    "timestamp": 1545409445888
+  },
+  "Example 1 - thin full width line": {
+    "translatedText": "例1  - 細い線幅",
+    "timestamp": 1545409445888
+  },
+  "Example 2 - thicker full width line": {
+    "translatedText": "例2  - 太い幅の線",
+    "timestamp": 1545409445888
+  },
+  "Example 3 - fixed dimension": {
+    "translatedText": "例3  - 固定寸法",
+    "timestamp": 1545409445888
+  },
+  "Render Text": {
+    "translatedText": "レンダリングテキスト",
+    "timestamp": 1545409445888
+  },
+  "Left": {
+    "translatedText": "左",
+    "timestamp": 1545409445888
+  },
+  "Center": {
+    "translatedText": "センター",
+    "timestamp": 1545409445888
+  },
+  "Right": {
+    "translatedText": "右",
+    "timestamp": 1545409445888
+  },
+  "Top": {
+    "translatedText": "上",
+    "timestamp": 1545409445888
+  },
+  "Middle": {
+    "translatedText": "中間",
+    "timestamp": 1545409445888
+  },
+  "Bottom": {
+    "translatedText": "底",
+    "timestamp": 1545409445888
+  },
+  "Text Template BPM @{bpm}, ECG @{ecg}": {
+    "translatedText": "テキストテンプレートBPM @ {bpm}、ECG @ {ecg}",
+    "timestamp": 1545409445888
+  },
+  "Render Highlighted Text": {
+    "translatedText": "強調表示されたテキストをレンダリングする",
+    "timestamp": 1545409445888
+  },
+  "Highlight predefined text deep links:\n      url, phone and email": {
+    "translatedText": "あらかじめ定義されたテキストの深いリンクを強調表示する：URL、電話、電子メール",
+    "timestamp": 1545409445888
+  },
+  "Press on the deep link contact info\n   @{urlKeyword}: http://www.CivicConnect.com\n   @{phoneKeyword}: 888-333-1212\n   @{emailKeyword}: mail@civicconnect.com": {
+    "translatedText": "@ {urlKeyword}：http://www.CivicConnect.com @ {phoneKeyword}：888-333-1212 @ {emailKeyword}：mail@civicconnect.comディープリンクの連絡先情報を押してください",
+    "timestamp": 1545409445888
+  },
+  "Style and colorize text with predefined tags:\n      <bold>, <colorize>": {
+    "translatedText": "事前定義されたタグを使用してテキストのスタイルを設定し、色分けする： <bold> 、 <colorize>",
+    "timestamp": 1545409445888
+  },
+  "This is <bold>bolded text</bold> in this sentence\nThis is <colorize>colored text</colorize> in this sentence": {
+    "translatedText": "これは<bold>太字のテキスト</bold>この文章ではこれは<colorize>色付きテキスト</colorize>この文では",
+    "timestamp": 1545409445888
+  },
+  "Highlight text using custom regex template tags": {
+    "translatedText": "カスタム正規表現テンプレートタグを使用してテキストを強調表示する",
+    "timestamp": 1545409445888
+  },
+  "This is custom <myKeyword>highlighted text</myKeyword> in this sentence": {
+    "translatedText": "これはカスタムです<myKeyword>強調表示されたテキスト</myKeyword>この文では",
+    "timestamp": 1545409445888
+  },
+  "Render Tile": {
+    "translatedText": "レンダリングタイル",
+    "timestamp": 1545409445888
+  },
+  "Render Toolbar": {
+    "translatedText": "レンダリングツールバー",
+    "timestamp": 1545409445888
+  },
+  "Tab 1": {
+    "translatedText": "タブ1",
+    "timestamp": 1545409445888
+  },
+  "Tab 2": {
+    "translatedText": "タブ2",
+    "timestamp": 1545409445888
+  },
+  "Tab 3": {
+    "translatedText": "タブ3",
+    "timestamp": 1545409445888
+  },
+  "Tab 4": {
+    "translatedText": "タブ4",
+    "timestamp": 1545409445888
+  },
+  "Tab 5": {
+    "translatedText": "タブ5",
+    "timestamp": 1545409445888
+  },
+  "Tab 6": {
+    "translatedText": "タブ6",
+    "timestamp": 1545409445888
+  },
+  "Tab 7": {
+    "translatedText": "タブ7",
+    "timestamp": 1545409445888
+  },
+  "Tab 8": {
+    "translatedText": "タブ8",
+    "timestamp": 1545409445888
+  },
+  "Tab 9": {
+    "translatedText": "タブ9",
+    "timestamp": 1545409445888
+  },
+  "Tab 10": {
+    "translatedText": "タブ10",
+    "timestamp": 1545409445888
+  },
+  "Modal Web Screen": {
+    "translatedText": "モーダルウェブ画面",
+    "timestamp": 1545409445888
+  },
+  "Render WebView": {
+    "translatedText": "レンダリングWebView",
+    "timestamp": 1545409445888
+  },
+  "Search Screen": {
+    "translatedText": "検索画面",
+    "timestamp": 1545409445888
+  },
+  "On Search Screen, look for a specific word,\nSearch with wildcards using:\n     *Connect  - ending with\n     Civic*       - begins with\n     Civ*nect  - middle of\nSearch in specfic fields:\n     description=debut": {
+    "translatedText": "検索画面で、特定の単語を検索し、ワイルドカードを使用して次のように検索します。*接続 -  Civicで終わる*  -  Civ * nectで始まり - 特定のフィールドで検索：description = debut",
+    "timestamp": 1545409445888
+  },
+  "Structure": {
+    "translatedText": "構造",
+    "timestamp": 1545409445888
+  },
+  "Map View": {
+    "translatedText": "マップビュー",
+    "timestamp": 1545409445888
+  },
+  "Transit Schedules": {
+    "translatedText": "乗り継ぎスケジュール",
+    "timestamp": 1545409445888
+  },
+  "Public Transit Agencies": {
+    "translatedText": "公共交通機関",
+    "timestamp": 1545409445888
+  },
+  "Rugby Login Screen 1": {
+    "translatedText": "ラグビーログイン画面1",
+    "timestamp": 1545409445888
+  },
+  "By using the app, you agree to the\nTerms of Services and Privacy Policy": {
+    "translatedText": "このアプリを使用すると、利用規約とプライバシーポリシーに同意したことになります",
+    "timestamp": 1545409445888
+  },
+  "Rugby Team Roster": {
+    "translatedText": "ラグビーチームの選手",
+    "timestamp": 1545409445888
+  },
+  "Stock Images": {
+    "translatedText": "ストックイメージ",
+    "timestamp": 1545409445888
+  },
+  "Transit Modes": {
+    "translatedText": "トランジットモード",
+    "timestamp": 1545409445888
+  },
+  "Direction Arrows": {
+    "translatedText": "方向矢印",
+    "timestamp": 1545409445888
+  },
+  "Template Actions": {
+    "translatedText": "テンプレートアクション",
+    "timestamp": 1545409445888
+  },
+  "Live Camera View": {
+    "translatedText": "ライブカメラビュー",
+    "timestamp": 1545409445888
+  },
+  "Can we access your {{permission}}?": {
+    "translatedText": "{{permission}}にアクセスできますか？",
+    "timestamp": 1545409446300
+  },
+  "No": {
+    "translatedText": "いいえ",
+    "timestamp": 1545409446300
+  },
+  "Open Settings": {
+    "translatedText": "設定を開く",
+    "timestamp": 1545409446300
+  },
+  "Can't open settings": {
+    "translatedText": "設定を開くことができません",
+    "timestamp": 1545409446300
+  },
+  "Software Licenses": {
+    "translatedText": "ソフトウェアライセンス",
+    "timestamp": 1545409446843
+  },
+  "Search for Agency or Stop ID": {
+    "translatedText": "代理店または停止IDを検索する",
+    "timestamp": 1545409447225
+  },
+  "There is no agency or stop id that match the current search": {
+    "translatedText": "現在の検索条件と一致する代理店またはストップIDはありません",
+    "timestamp": 1545409447225
+  },
+  "Unexpected error occurred": {
+    "translatedText": "予期しないエラーが発生しました",
+    "timestamp": 1545409447572
+  },
+  "Error": {
+    "translatedText": "エラー",
+    "timestamp": 1545409447572
+  },
+  "Fatal": {
+    "translatedText": "致命的な",
+    "timestamp": 1545409447572
+  },
+  "We will need to restart the app.": {
+    "translatedText": "アプリを再起動する必要があります。",
+    "timestamp": 1545409447572
+  },
+  "Restart": {
+    "translatedText": "再起動",
+    "timestamp": 1545409447572
+  },
+  "Transit Departures": {
+    "translatedText": "乗り継ぎ出発",
+    "timestamp": 1545409447572
+  },
+  "Contact": {
+    "translatedText": "接触",
+    "timestamp": 1545409447572
+  },
+  "Assignments": {
+    "translatedText": "割り当て",
+    "timestamp": 1545409447572
+  },
+  "Restart Application": {
+    "translatedText": "アプリケーションの再起動",
+    "timestamp": 1545409447572
+  },
+  "Are you sure you want to delete these items?": {
+    "translatedText": "これらのアイテムを削除してもよろしいですか？",
+    "timestamp": 1545409447910
+  },
+  "Edit": {
+    "translatedText": "編集",
+    "timestamp": 1545409447910
+  },
+  "Gauges in a Row": {
+    "translatedText": "行のゲージ",
+    "timestamp": 1545409448205
+  },
+  "Gauge from Template": {
+    "translatedText": "テンプレートからゲージ",
+    "timestamp": 1545409448205
+  },
+  "Gauge Workout": {
+    "translatedText": "ゲージワークアウト",
+    "timestamp": 1545409448205
+  },
+  "Gauge With Custom Background": {
+    "translatedText": "カスタム背景のゲージ",
+    "timestamp": 1545409448205
+  },
+  "Gauge with Icons": {
+    "translatedText": "アイコン付きゲージ",
+    "timestamp": 1545409448205
+  },
+  "Icons Above and Below": {
+    "translatedText": "上および下のアイコン",
+    "timestamp": 1545409448205
+  },
+  "Gauge with Stroke Color Gradient": {
+    "translatedText": "ストロークカラーグラデーション付きゲージ",
+    "timestamp": 1545409448205
+  },
+  "Gauge with Linear Gradient Background": {
+    "translatedText": "直線勾配の背景を持つゲージ",
+    "timestamp": 1545409448205
+  },
+  "Gauge with Linear Gradient": {
+    "translatedText": "リニアグラジエントゲージ",
+    "timestamp": 1545409448205
+  },
+  "Gauge with Radial Gradient": {
+    "translatedText": "ラジアルグラジエントゲージ",
+    "timestamp": 1545409448205
+  },
+  "Gauge with Outer Labels": {
+    "translatedText": "アウターラベル付きゲージ",
+    "timestamp": 1545409448205
+  },
+  "Changing Stroke Color and Width": {
+    "translatedText": "ストロークの色と幅の変更",
+    "timestamp": 1545409448205
+  },
+  "Gauge of Different Sizes": {
+    "translatedText": "異なるサイズのゲージ",
+    "timestamp": 1545409448205
+  },
+  "Default Gauge": {
+    "translatedText": "デフォルトゲージ",
+    "timestamp": 1545409448205
+  },
+  "Label 1": {
+    "translatedText": "ラベル1",
+    "timestamp": 1545409448205
+  },
+  "Label 2": {
+    "translatedText": "ラベル2",
+    "timestamp": 1545409448205
+  },
+  "Label 3": {
+    "translatedText": "ラベル3",
+    "timestamp": 1545409448205
+  },
+  "List": {
+    "translatedText": "リスト",
+    "timestamp": 1545409448287
+  },
+  "Enter {{label}}": {
+    "translatedText": "{{label}}を入力してください",
+    "timestamp": 1545409448583
+  },
+  "Type": {
+    "translatedText": "タイプ",
+    "timestamp": 1545409448583
+  },
+  "Transit Departues": {
+    "translatedText": "乗り継ぎ出発",
+    "timestamp": 1545409448973
+  },
+  "Details": {
+    "translatedText": "詳細",
+    "timestamp": 1545409448973
+  },
+  "Select Location": {
+    "translatedText": "ロケーションを選択",
+    "timestamp": 1545409448973
+  },
+  "Add a New Place": {
+    "translatedText": "新しい場所を追加する",
+    "timestamp": 1545409448973
+  },
+  "Your event will start {{timeUntil}} at {{address}}.\n{{time}}": {
+    "translatedText": "あなたのイベントは{{address}}で開始されます。{{timeUntil}} {{時間}}",
+    "timestamp": 1545409449881
+  },
+  "Set reminder on": {
+    "translatedText": "オンにリマインダーを設定",
+    "timestamp": 1545409449881
+  },
+  "There are currently no routes that service this stop from this agency": {
+    "translatedText": "現在、この代理店からこの停留所にサービスを提供するルートはありません",
+    "timestamp": 1545409450384
+  },
+  "A problem has occurred with fetching routes": {
+    "translatedText": "ルートを取得する際に問題が発生しました",
+    "timestamp": 1545409450702
+  },
+  "Search for Routes": {
+    "translatedText": "ルートを検索する",
+    "timestamp": 1545409450702
+  },
+  "There is no route that match the current search": {
+    "translatedText": "現在の検索と一致するルートはありません",
+    "timestamp": 1545409450702
+  },
+  "Are you sure you want to bookmark these items?": {
+    "translatedText": "これらのアイテムをブックマークしてもよろしいですか？",
+    "timestamp": 1545409451315
+  },
+  "found in": {
+    "translatedText": "見つかった",
+    "timestamp": 1545409451315
+  },
+  "Search Results": {
+    "translatedText": "の検索結果",
+    "timestamp": 1545409451396
+  },
+  "ALL": {
+    "translatedText": "すべて",
+    "timestamp": 1545409451396
+  },
+  "Time": {
+    "translatedText": "時間",
+    "timestamp": 1545409451396
+  },
+  "Requires camera permissions for the app to be enabled in phone settings": {
+    "translatedText": "携帯電話の設定でアプリを有効にするためのカメラ権限が必要",
+    "timestamp": 1545409451832
+  },
+  "Data type not supported in this channel": {
+    "translatedText": "このチャネルでサポートされていないデータ型",
+    "timestamp": 1545409452219
+  },
+  "{{name}} is not a known data type for this channel": {
+    "translatedText": "{{name}}はこのチャンネルの既知のデータ型ではありません",
+    "timestamp": 1545409452219
+  },
+  "Can't find directions to that place at that time": {
+    "translatedText": "その時その場所への道案内が見つかりません",
+    "timestamp": 1545409453056
+  },
+  "Bar Chart": {
+    "translatedText": "棒グラフ",
+    "timestamp": 1545409453465
+  },
+  "Scrolling Line Chart": {
+    "translatedText": "スクロールラインチャート",
+    "timestamp": 1545409453465
+  },
+  "Pie Chart": {
+    "translatedText": "円グラフ",
+    "timestamp": 1545409453465
+  },
+  "Unknown Render Type {{type}}": {
+    "translatedText": "未知のレンダリングタイプ{{type}}",
+    "timestamp": 1545409454038
+  },
+  "Tab {{index}}": {
+    "translatedText": "タブ{{インデックス}}",
+    "timestamp": 1545409454388
+  },
+  "Loading": {
+    "translatedText": "読み込み中",
+    "timestamp": 1545409454694
+  },
+  "Selected option: {{option}}": {
+    "translatedText": "選択されたオプション：{{option}}",
+    "timestamp": 1545409455208
+  },
+  "Template not found - Go Back": {
+    "translatedText": "テンプレートが見つかりません -  Go Back",
+    "timestamp": 1545409456128
+  },
+  "Go Back": {
+    "translatedText": "戻る",
+    "timestamp": 1545409456128
+  },
+  "These examples demonstrate product concepts using the Mobile SDK": {
+    "translatedText": "これらの例は、Mobile SDK",
+    "timestamp": 1545409456128
+  },
+  "Select {{name}} examples": {
+    "translatedText": "{{name}}例を選択",
+    "timestamp": 1545409456128
+  },
+  "Today's Deal!\nFree Latte when you sign up to Loyalty Club!": {
+    "translatedText": "今日のディール！ロイヤルティクラブにサインアップすると無料のラッテ！",
+    "timestamp": 1545409456642
+  },
+  "Free Latte from the Loyality Club": {
+    "translatedText": "Loyality Clubからの無料ラテ",
+    "timestamp": 1545409457626
+  },
+  "San Diego Museum Admission": {
+    "translatedText": "サンディエゴ美術館入場料",
+    "timestamp": 1545409457626
+  },
+  "San Diego October is KIDS FREE MONTH": {
+    "translatedText": "サンディエゴ10月はキッズフリー月",
+    "timestamp": 1545409457626
+  },
+  "Summer Movies in the Park": {
+    "translatedText": "公園の夏の映画",
+    "timestamp": 1545409457626
+  },
+  "San Diego Go Pass": {
+    "translatedText": "サンディエゴ・ゴー・パス",
+    "timestamp": 1545409457626
+  },
+  "Enjoy a free latte when you visit your local barrista and sign up for the loyality club": {
+    "translatedText": "地元のバリスタを訪れてラオリティクラブにサインアップするときは、無料のラッテをお楽しみください",
+    "timestamp": 1545409457626
+  },
+  "See which museums are free every tuesday for San Diego residents, active miltary, and their dependents": {
+    "translatedText": "サンディエゴの住民、活発な兵士、およびその扶養家族のために火曜日ごとにどの美術館が無料であるかを見てください",
+    "timestamp": 1545409457626
+  },
+  "San Diego is making October KIDS FREE MONTH to theme parks, zoos, museums...even free meals at restaurants!": {
+    "translatedText": "サンディエゴは、テーマパーク、動物園、博物館、レストランでの無料のお食事など、10月キッズを無料月間にしています！",
+    "timestamp": 1545409457626
+  },
+  "See free Free Family movie events at local parks, pools and on the deck of the Midway": {
+    "translatedText": "地元の公園、プール、ミッドウェイのデッキでの無料の無料家族向け映画イベントを見る",
+    "timestamp": 1545409457626
+  },
+  "Save up to 50% on top San Diego attractions. Pay nothing at the gate!": {
+    "translatedText": "サンディエゴのアトラクションの50％を節約しましょう。ゲートで何も支払う必要はありません！",
+    "timestamp": 1545409457626
+  },
+  "Take advantage of deals at local businesses and free admissions at many venues offered as a public services": {
+    "translatedText": "地元企業の取引や、公共サービスとして提供される多くの会場での無料入場を利用する",
+    "timestamp": 1545409457626
+  },
+  "Transit Services": {
+    "translatedText": "トランジットサービス",
+    "timestamp": 1545409458586
+  },
+  "Destinations": {
+    "translatedText": "目的地",
+    "timestamp": 1545409458586
+  },
+  "Timetables": {
+    "translatedText": "時刻表",
+    "timestamp": 1545409458586
+  },
+  "News": {
+    "translatedText": "ニュース",
+    "timestamp": 1545409458586
+  },
+  "Parking": {
+    "translatedText": "パーキング",
+    "timestamp": 1545409458586
+  },
+  "Enjoy breathtaking scenery, relax with transit services and amenities, watch entertainment from Youtube or NetFlix, plan your journey, and more!": {
+    "translatedText": "息を飲むような景色を楽しんだり、トランジットサービスやアメニティでリラックスしたり、YoutubeやNetFlixのエンターテイメントを観たり、旅を計画したりできます。",
+    "timestamp": 1545409458586
+  },
+  "@{cityName} Augmented Reality": {
+    "translatedText": "@ {cityName}拡張現実",
+    "timestamp": 1545409459305
+  },
+  "Loading Location...": {
+    "translatedText": "ロケーションの読み込み中...",
+    "timestamp": 1545409459305
+  },
+  "Downtown San Francisco": {
+    "translatedText": "ダウンタウンサンフランシスコ",
+    "timestamp": 1545409459305
+  },
+  "Plan the rest of your journey, explore sites and restaurants at your destination, choose transit options, and more...!": {
+    "translatedText": "残りの旅を計画し、目的地のサイトとレストランを探索し、交通機関のオプションなどを選んでください...！",
+    "timestamp": 1545409459305
+  },
+  "Loading Suggestion...": {
+    "translatedText": "提案の読み込み中...",
+    "timestamp": 1545409459305
+  },
+  "Your Town": {
+    "translatedText": "君の街",
+    "timestamp": 1545409459609
+  },
+  "Stay Connected": {
+    "translatedText": "ステイコネクト",
+    "timestamp": 1545409459609
+  },
+  "powered by {{name}}": {
+    "translatedText": "{{name}}によって提供されています",
+    "timestamp": 1545409459609
+  },
+  "SOCIAL": {
+    "translatedText": "ソーシャル",
+    "timestamp": 1545409459916
+  },
+  "Copyright 2017, 2018 Civic Connect. All rights reserved": {
+    "translatedText": "著作権2017,2018 Civic Connect。全著作権所有",
+    "timestamp": 1545409459916
+  },
+  "Version {{ver}}": {
+    "translatedText": "バージョン{{ver}}",
+    "timestamp": 1545409459916
+  },
+  "San Diego Public Wifi": {
+    "translatedText": "サンディエゴ公共WiFi",
+    "timestamp": 1545409460899
+  },
+  "Enjoy a first-of-its-kind communications network offering public internet access throughout the city and in selected Public Libraries": {
+    "translatedText": "市内や一部の公共図書館で公共のインターネットアクセスを提供する最初の種類の通信ネットワークをお楽しみください",
+    "timestamp": 1545409460899
+  },
+  "San Diego Parking": {
+    "translatedText": "サンディエゴ駐車場",
+    "timestamp": 1545409460899
+  },
+  "Find open free, metered and permit on street parking in real time on your phone": {
+    "translatedText": "あなたの携帯電話でリアルタイムで街頭駐車場を無料で開け、計量し、許可する",
+    "timestamp": 1545409460899
+  },
+  "Breeze through San Diego Traffic": {
+    "translatedText": "サンディエゴ交通のブリーズ",
+    "timestamp": 1545409460899
+  },
+  "The city uses a modernized system to monitor traffic and count pedestrians and bicyclists, with congestion information shown in Augmented Reality": {
+    "translatedText": "市は近代化されたシステムを使用して交通量を監視し、歩行者と自転車を数え、遭遇情報はAugmented Reality",
+    "timestamp": 1545409460899
+  },
+  "Visit Neighboring - Chula Vista": {
+    "translatedText": "近隣の訪問 - チュラビスタ",
+    "timestamp": 1545409460899
+  },
+  "Visit the farmers market at the Otay Ranch Town Center, or other in-store demos and classes to a wide variety of entertaining activities": {
+    "translatedText": "Otay Ranch Town Centreの農家市場やその他の店内のデモやクラスを訪れ、多種多様なエンターテイメントを楽しむことができます",
+    "timestamp": 1545409460899
+  },
+  "Visit Neighboring - Oceanside": {
+    "translatedText": "近隣の訪問 - オーシャンサイド",
+    "timestamp": 1545409460899
+  },
+  "Showcases live performances, music, poetry, art education, culinary and pop-up art galleries embedded in their local businesses and public spaces": {
+    "translatedText": "ショーケースライブパフォーマンス、音楽、詩、美術教育、料理、ポップアップアートギャラリー、地元の企業や公共の場に埋め込まれています。",
+    "timestamp": 1545409460899
+  },
+  "Visit Neighboring - Solana Beach": {
+    "translatedText": "近隣の見どころ - ソラナビーチ",
+    "timestamp": 1545409460899
+  },
+  "Cedros Avenue Design District has been drawing residents and visitors for years. Dine, Shine & Rejuvnate in north county, San Diego": {
+    "translatedText": "Cedros Avenue Design Districtは長年住民や訪問者を引き付けています。サンディエゴの北部郡での食事、シャイン＆リユース",
+    "timestamp": 1545409460899
+  },
+  "Read about announcements, services, products, events, advertisements, transit, and neighboring cities in one convenient place.": {
+    "translatedText": "アナウンス、サービス、製品、イベント、広告、交通機関、近隣の都市については、便利な場所で読むことができます。",
+    "timestamp": 1545409460899
+  },
+  "Treating passengers to healthy food and snacks in dining cars, camaraderie with guests around the bar, in glass-walled observation cars, and other personalized services": {
+    "translatedText": "乗客を健康的な食べ物や軽食に乗って食べたり、バーの周りの客と友情を交わしたり、ガラス製の観覧車でパーソナライズされたサービス",
+    "timestamp": 1545409461843
+  },
+  "Luggage": {
+    "translatedText": "荷物",
+    "timestamp": 1545409461843
+  },
+  "Pets on Trains": {
+    "translatedText": "列車のペット",
+    "timestamp": 1545409461843
+  },
+  "Accessibility": {
+    "translatedText": "アクセシビリティ",
+    "timestamp": 1545409461843
+  },
+  "Plan your transit while on the traveling!  Determine the best option with public transit routes, or user ride sharing services.  Check availability and arrival times.": {
+    "translatedText": "旅行中にあなたのトランジットを計画してください！公共交通機関のルートまたはユーザーライドシェアリングサービスで最適なオプションを決定します。空室状況と到着時間を確認してください。",
+    "timestamp": 1545409462374
+  },
+  "Public Transit Options": {
+    "translatedText": "公共交通機関のオプション",
+    "timestamp": 1545409462374
+  },
+  "Login Test": {
+    "translatedText": "ログインテスト",
+    "timestamp": 1545409462789
+  },
+  "Logout": {
+    "translatedText": "ログアウト",
+    "timestamp": 1545409462789
+  },
+  "User 1 Ux Experience": {
+    "translatedText": "ユーザー1 UXエクスペリエンス",
+    "timestamp": 1545409462789
+  },
+  "My User 1 Name...": {
+    "translatedText": "私のユーザー1の名前...",
+    "timestamp": 1545409462789
+  },
+  "My User 1 Acct Info...": {
+    "translatedText": "私のユーザー1アカウント情報...",
+    "timestamp": 1545409462789
+  },
+  "My User 1 Details...": {
+    "translatedText": "マイユーザ1の詳細...",
+    "timestamp": 1545409462789
+  },
+  "User 2 Ux Experience": {
+    "translatedText": "ユーザー2 Uxエクスペリエンス",
+    "timestamp": 1545409462789
+  },
+  "My User 2 Name...": {
+    "translatedText": "私のユーザー2名...",
+    "timestamp": 1545409462789
+  },
+  "My User 2 Acct Info...": {
+    "translatedText": "私のユーザー2アカウント情報...",
+    "timestamp": 1545409462789
+  },
+  "My User 2 Details...": {
+    "translatedText": "マイユーザ2の詳細...",
+    "timestamp": 1545409462789
+  },
+  "User 3 Ux Experience": {
+    "translatedText": "ユーザー3 Uxエクスペリエンス",
+    "timestamp": 1545409462789
+  },
+  "My User 3 Name...": {
+    "translatedText": "私のユーザー3名...",
+    "timestamp": 1545409462789
+  },
+  "My User 3 Acct Info...": {
+    "translatedText": "ユーザー3のAcct情報...",
+    "timestamp": 1545409462789
+  },
+  "My User 3 Details...": {
+    "translatedText": "マイユーザ3の詳細...",
+    "timestamp": 1545409462789
+  },
+  "Auto Locate": {
+    "translatedText": "自動検索",
+    "timestamp": 1545409463194
+  },
+  "USE YOUR CURRENT LOCATION": {
+    "translatedText": "あなたの現在の場所を使用する",
+    "timestamp": 1545409463194
+  },
+  "EXPLORE ANOTHER AREA": {
+    "translatedText": "もう1つのエリアを探検する",
+    "timestamp": 1545409463194
+  },
+  "CHOOSE LOCATION": {
+    "translatedText": "場所を選択してください",
+    "timestamp": 1545409464199
+  },
+  "Choice 1": {
+    "translatedText": "選択肢1",
+    "timestamp": 1545409464627
+  },
+  "Choice 2": {
+    "translatedText": "選択肢2",
+    "timestamp": 1545409464627
+  },
+  "Entertainment": {
+    "translatedText": "エンターテインメント",
+    "timestamp": 1545409464627
+  },
+  "Golf Courses": {
+    "translatedText": "ゴルフコース",
+    "timestamp": 1545409464627
+  },
+  "Parks": {
+    "translatedText": "公園",
+    "timestamp": 1545409464627
+  },
+  "Public Art": {
+    "translatedText": "パブリックアート",
+    "timestamp": 1545409464627
+  },
+  "Recreational Centers": {
+    "translatedText": "レクリエーションセンター",
+    "timestamp": 1545409464627
+  },
+  "Trail Heads": {
+    "translatedText": "トレイルヘッズ",
+    "timestamp": 1545409464627
+  },
+  "Event": {
+    "translatedText": "イベント",
+    "timestamp": 1545409464627
+  },
+  "STAY CONNECTED": {
+    "translatedText": "接続されたまま",
+    "timestamp": 1545409464888
+  },
+  "Location:": {
+    "translatedText": "ロケーション：",
+    "timestamp": 1545409465446
+  },
+  "AUTO LOCATE": {
+    "translatedText": "自動検索",
+    "timestamp": 1545409465446
+  },
+  "Restaurants": {
+    "translatedText": "レストラン",
+    "timestamp": 1545409465856
+  },
+  "Coffee Shops": {
+    "translatedText": "喫茶店",
+    "timestamp": 1545409465856
+  },
+  "Hotels": {
+    "translatedText": "ホテル",
+    "timestamp": 1545409465856
+  },
+  "Guesthouses": {
+    "translatedText": "ゲストハウス",
+    "timestamp": 1545409465856
+  },
+  "Bars": {
+    "translatedText": "バー",
+    "timestamp": 1545409465856
+  },
+  "Gas Stations": {
+    "translatedText": "ガソリンスタンド",
+    "timestamp": 1545409465856
+  },
+  "Notifications": {
+    "translatedText": "通知",
+    "timestamp": 1545409467187
+  },
+  "Read about announcements, services, products, events, and advertisiments related to the transit stops in one convenient place.": {
+    "translatedText": "交通停止に関するアナウンス、サービス、製品、イベント、広告主について、便利な場所で読むことができます。",
+    "timestamp": 1545409467187
+  }
+}

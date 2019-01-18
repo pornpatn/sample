@@ -1,1 +1,4622 @@
-[object Object]
+{
+  "500": {
+    "translatedText": "500",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "600": {
+    "translatedText": "600",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "700": {
+    "translatedText": "700",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Explore the city and its neighboring areas!  Plan your journey, find parking, enjoy city services, get the latest news, watch entertainment, and more!": {
+    "translatedText": "Explore a cidade e as áreas vizinhas! Planeje sua jornada, encontre estacionamento, aproveite os serviços da cidade, receba as últimas notícias, assista ao entretenimento e muito mais!",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "mv": {
+    "translatedText": "mv",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Mission Viejo": {
+    "translatedText": "Mission Viejo",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "true": {
+    "translatedText": "verdade",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "mvStyle": {
+    "translatedText": "mvStyle",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Indian Pueblo Cultural Center": {
+    "translatedText": "Centro Cultural Indian Pueblo",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "#3e97e9": {
+    "translatedText": "# 3e97e9",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "#FFFFFF": {
+    "translatedText": "#FFFFFF",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "#529c8d": {
+    "translatedText": "# 529c8d",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "rgba(62,151,233, 0.3)": {
+    "translatedText": "rgba (62,151,233, 0,3)",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Loading...": {
+    "translatedText": "Carregando...",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Please wait while the latest\ndata is downloaded\n\nThis may take a while and depends on the speed of your connection": {
+    "translatedText": "Aguarde enquanto os dados mais recentes são baixados Isso pode demorar um pouco e depende da velocidade da sua conexão",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Just a little bit longer\n\nDownloading new events, restaurants, daily deals, and shopping opportunities": {
+    "translatedText": "Só um pouquinho mais Baixando novos eventos, restaurantes, ofertas diárias e oportunidades de compras",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Almost done downloading\nthe latest data\n\nDownload speed depends on\nthe time since you last synced": {
+    "translatedText": "Quase pronto baixar os dados mais recentes A velocidade de download depende do tempo desde a última sincronização",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "This is taking longer than expected\nand should be done soon\n\nDownload speed depends on\nthe speed of your connection\nand on the time since you last synced": {
+    "translatedText": "Isso está demorando mais do que o esperado e deve ser feito em breve A velocidade do download depende da velocidade da sua conexão e do tempo desde a última sincronização",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "mvlifeapp@cityofmissionviejo.org": {
+    "translatedText": "mvlifeapp@cityofmissionviejo.org",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Bureau of Tourism Administrative Office\nMission Viejo.\nxxx-xxx-xxxx": {
+    "translatedText": "Gabinete do Gabinete Administrativo de Turismo Mission Viejo. xxx-xxx-xxxx",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Visit Mission Viejo Website": {
+    "translatedText": "Visite o site da Mission Viejo",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "https://www.visitpalmsprings.com/": {
+    "translatedText": "https://www.visitpalmsprings.com/",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/viejo/Assets/Icon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/viejo/Assets/Icon@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "https://www.facebook.com/MissionViejoLife/": {
+    "translatedText": "https://www.facebook.com/MissionViejoLife/",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/viejo/assets/info/FacebookIcon/FacebookIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/info/FacebookIcon/FacebookIcon@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "https://twitter.com/MissionViejoCA/": {
+    "translatedText": "https://twitter.com/MissionViejoCA/",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/viejo/assets/info/TwitterIcon/TwitterIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/info/TwitterIcon/TwitterIcon@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "https://www.instagram.com/missionviejolife/": {
+    "translatedText": "https://www.instagram.com/missionviejolife/",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/viejo/assets/info/InstagramIcon/InstagramIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/info/InstagramIcon/InstagramIcon@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "https://youtube.com/user/MissionViejoCA/": {
+    "translatedText": "https://youtube.com/user/MissionViejoCA/",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/viejo/assets/info/Youtube/ic_youtube@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/info/Youtube/ic_youtube@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/viejo/assets/navbar/logo/InfoLogo-1@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/navbar/logo/InfoLogo-1@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/viejo/assets/navbar/NavBarBG/NavBarBG@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/navbar/NavBarBG/NavBarBG@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/viejo/assets/navbar/infoIcon/InfoIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/navbar/infoIcon/InfoIcon@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/viejo/assets/navbar/searchIcon/SearchIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/navbar/searchIcon/SearchIcon@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/viejo/assets/navbar/weatherIcon/WeatherIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/viejo/assets/navbar/weatherIcon/WeatherIcon@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Shopping & Dining": {
+    "translatedText": "Compras e jantar",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Things to Do": {
+    "translatedText": "Coisas para fazer",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Events": {
+    "translatedText": "Eventos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "News & Sports": {
+    "translatedText": "Notícias e Esportes",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Report Issues": {
+    "translatedText": "Problemas do relatório",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "sdk": {
+    "translatedText": "sdk",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../app/assets/weather/weather_default_bg@?x.png}": {
+    "translatedText": "@media {../ app/assets/weather/weather_default_bg@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Welcome": {
+    "translatedText": "Bem vinda",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Location": {
+    "translatedText": "Localização",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Settings": {
+    "translatedText": "Definições",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Bookmarks": {
+    "translatedText": "Favoritos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Augmented Reality": {
+    "translatedText": "Realidade aumentada",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "The MV Life app provides you with rich, interactive information about City of Mission Viejo such as shopping and dining, things to do, places to visit, community news and the ability to report issues and stay in communication with the City. ": {
+    "translatedText": "O aplicativo MV Life fornece informações ricas e interativas sobre a Cidade de Mission Viejo, como lojas e restaurantes, coisas para fazer, locais a visitar, notícias da comunidade e a capacidade de relatar problemas e manter contato com a cidade.",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "From “Settings,” choose “Auto-Locate” to see what’s offered nearby. You can also select “Choose Location” to explore a specific area of Mission Viejo.": {
+    "translatedText": "Em \"Configurações\", escolha \"Localizar automaticamente\" para ver o que é oferecido nas proximidades. Você também pode selecionar \"Escolher local\" para explorar uma área específica de Mission Viejo.",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "From “Settings,” select “Sync” to get the most up-to-date app data and information. We recommend you do this over a Wi-Fi connection. Under settings you can also select your preferred distance units.": {
+    "translatedText": "Em \"Configurações\", selecione \"Sincronizar\" para obter os dados e informações de aplicativos mais atualizados. Recomendamos que você faça isso por meio de uma conexão Wi-Fi. Em configurações, você também pode selecionar suas unidades de distância preferidas.",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Bookmark your favorite shops, restaurants, parks, trails, and other locations for quick access in the future. ": {
+    "translatedText": "Marque suas lojas favoritas, restaurantes, parques, trilhas e outros locais para acesso rápido no futuro.",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "This feature allows you to see the location and distance to nearby points of interest overlaid on the real world using your phone’s camera. ": {
+    "translatedText": "Esse recurso permite que você veja a localização e a distância de pontos de interesse próximos, sobrepostos no mundo real, usando a câmera do seu telefone.",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "#2e6583": {
+    "translatedText": "# 2e6583",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "white": {
+    "translatedText": "branco",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "light-content": {
+    "translatedText": "conteúdo leve",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "home": {
+    "translatedText": "casa",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../app/assets/tripPlanner/GetAroundIconInactive/GetAroundIconInactive@?x.png}": {
+    "translatedText": "@media {../ app/assets/tripPlanner/GetAroundIconInactive/GetAroundIconInactive@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "home.TripPlanner": {
+    "translatedText": "home.TripPlanner",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Get Around": {
+    "translatedText": "Aproxime-se",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Trip Planner": {
+    "translatedText": "Planejador de viagem",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "addToRecent": {
+    "translatedText": "addToRecent",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "1 Arrowhead Dr, Kansas City, MO 64129, USA": {
+    "translatedText": "1 Arrowhead Dr, Kansas City, MO 64129, EUA",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "30 W Pershing Rd, Kansas City, MO 64129, USA": {
+    "translatedText": "30 W Pershing Rd, Kansas City, MO 64129, EUA",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "recentLocations": {
+    "translatedText": "recentLocations",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "500 Northwest Richards Road, Kansas City, MO 64116, USA": {
+    "translatedText": "500 Northwest Richards Road, Kansas City, MO 64116, EUA",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "2475 Grand Blvd, Kansas City, MO 64108, USA": {
+    "translatedText": "2475 Grand Boulevard, Kansas City, MO 64108, EUA",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "transit": {
+    "translatedText": "transito",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Transit": {
+    "translatedText": "Transito",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Transit Trip Departures": {
+    "translatedText": "Partidas de viagem de trânsito",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "transit.AgencyContainer": {
+    "translatedText": "transit.AgencyContainer",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Menu": {
+    "translatedText": "Cardápio",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../app/assets/tab_menu@?x.png}": {
+    "translatedText": "@media {../ app/assets/tab_menu@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Palm Springs": {
+    "translatedText": "Palm Springs",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "ps": {
+    "translatedText": "ps",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "mvTutorial": {
+    "translatedText": "mvTutorial",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "login": {
+    "translatedText": "entrar",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "psStyle": {
+    "translatedText": "psStyle",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "#f6844e": {
+    "translatedText": "# f6844e",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "#ffffff": {
+    "translatedText": "#ffffff",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "rgba(246,132,78, 0.3)": {
+    "translatedText": "rgba (246,132,78, 0,3)",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Stay": {
+    "translatedText": "Fique",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "hotel": {
+    "translatedText": "hotel",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "psAssets": {
+    "translatedText": "psAssets",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "asset": {
+    "translatedText": "de ativos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  ".classification": {
+    "translatedText": ".classificação",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Dining": {
+    "translatedText": "Jantar",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "restaurant": {
+    "translatedText": "restaurante",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Dine": {
+    "translatedText": "Jantar",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Shopping": {
+    "translatedText": "Compras",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "shop": {
+    "translatedText": "fazer compras",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Shop": {
+    "translatedText": "fazer compras",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Play": {
+    "translatedText": "Toque",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "play": {
+    "translatedText": "Toque",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "event": {
+    "translatedText": "evento",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "psEvents": {
+    "translatedText": "psEvents",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Wedding": {
+    "translatedText": "Casamento",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "wedding": {
+    "translatedText": "Casamento",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Wedding Venue": {
+    "translatedText": "Local de casamento",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Services": {
+    "translatedText": "Serviços",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "services": {
+    "translatedText": "Serviços",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Visitor Services": {
+    "translatedText": "Serviços para visitantes",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "All": {
+    "translatedText": "Todos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "all": {
+    "translatedText": "todos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Amenities": {
+    "translatedText": "Facilidades",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "subcategory": {
+    "translatedText": "subcategoria",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "setting": {
+    "translatedText": "configuração",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@mediaPath{../resources/viejo/cities/palmsprings/Assets/settings/about?i18n.html}": {
+    "translatedText": "@mediaPath {../ resources / viejo / cities / palmsprings / Assets / settings / about? i18n.html}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@mediaPath{../resources/viejo/cities/palmsprings/Assets/settings/privacy.html}": {
+    "translatedText": "@mediaPath {../ resources / viejo / cities / palmsprings / Assets / settings / privacy.html}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@mediaPath{../resources/viejo/cities/palmsprings/Assets/settings/disclaimer.html}": {
+    "translatedText": "@mediaPath {../ resources / viejo / cities / palmsprings / Assets / settings / disclaimer.html}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@mediaPath{../resources/viejo/cities/palmsprings/Assets/settings/faq.html}": {
+    "translatedText": "@mediaPath {../ resources / viejo / cities / palmsprings / Assets / settings / faq.html}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@mediaPath{../resources/viejo/cities/palmsprings/Assets/settings/terms.html}": {
+    "translatedText": "@mediaPath {../ resources / viejo / cities / palmsprings / Assets / settings / terms.html}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Bureau of Tourism Administrative Office\n277 N. Avenida Caballeros, Palm Springs.\n760-322-8415": {
+    "translatedText": "Escritório Administrativo de Turismo 277 N. Avenida Caballeros, Palm Springs. 760-322-8415",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Visit Palm Springs Website": {
+    "translatedText": "Visite o site de Palm Springs",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Icon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Icon@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "https://www.facebook.com/VisitPalmSprings/": {
+    "translatedText": "https://www.facebook.com/VisitPalmSprings/",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Info/FacebookIcon/FacebookIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Info/FacebookIcon/FacebookIcon@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "https://twitter.com/palmspringsca/": {
+    "translatedText": "https://twitter.com/palmspringsca/",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Info/TwitterIcon/TwitterIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Info/TwitterIcon/TwitterIcon@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "https://instagram.com/visitpalmsprings/": {
+    "translatedText": "https://instagram.com/visitpalmsprings/",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Info/InstagramIcon/InstagramIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Info/InstagramIcon/InstagramIcon@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "https://www.youtube.com/user/visitpalmsprings/": {
+    "translatedText": "https://www.youtube.com/user/visitpalmsprings/",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Info/Youtube/ic_youtube@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Info/Youtube/ic_youtube@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Info/info_logo@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Info/info_logo@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "stay": {
+    "translatedText": "fique",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeStayCell/HomeStayCell@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeStayCell/HomeStayCell@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@formula{if(platform('OS') == \"ios\",\"Stay\",\" Stay\")}": {
+    "translatedText": "@formula {if (platform ('OS') == \"ios\", \"Ficar\", \"Ficar\")}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeAttractionsCell/HomeAttractionsCell@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeAttractionsCell/HomeAttractionsCell@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "nearby": {
+    "translatedText": "nas proximidades",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeNearbyCell/HomeNearbyCell@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeNearbyCell/HomeNearbyCell@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Nearby": {
+    "translatedText": "Nas proximidades",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "shopping": {
+    "translatedText": "compras",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeShoppingCell/HomeShoppingCell@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeShoppingCell/HomeShoppingCell@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "dining": {
+    "translatedText": "jantar",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeDiningCell/HomeDiningCell@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeDiningCell/HomeDiningCell@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "events": {
+    "translatedText": "eventos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeEventsCell/HomeEventsCell@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeEventsCell/HomeEventsCell@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "deals": {
+    "translatedText": "ofertas",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeDealsCell/HomeDealsCell@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeDealsCell/HomeDealsCell@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Deals": {
+    "translatedText": "Ofertas",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/NavBar/NavBarBG/NavBarBG@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/NavBar/NavBarBG/NavBarBG@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeNavImage/nav_logo@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeNavImage/nav_logo@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeInfoIcon/InfoIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeInfoIcon/InfoIcon@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeSearchIcon/SearchIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeSearchIcon/SearchIcon@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeWeatherIcon/WeatherIcon@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/HomeScreen/HomeWeatherIcon/WeatherIcon@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/Weather/WeatherPalmSpringsBG/weather_background@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/Weather/WeatherPalmSpringsBG/weather_background@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "black": {
+    "translatedText": "Preto",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Cocktail Shaker": {
+    "translatedText": "Coqueteleira",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "#000000": {
+    "translatedText": "# 000000",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Social Media": {
+    "translatedText": "Mídia social",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "This free <brand>Palm Springs</brand> app makes locating options for dining, entertainment, accommodations, activities, shopping, and other destination information simple to find through your mobile phone.\n\nPlanning your trip is simplified and interactive, saving precious time and money on your trip.": {
+    "translatedText": "Esta livre <brand> Palm Springs </brand> app faz opções de localização para restaurantes, entretenimento, acomodações, atividades, compras e outras informações de destino simples de encontrar através do seu telefone celular. Planejar sua viagem é simplificado e interativo, economizando tempo e dinheiro preciosos em sua viagem.",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Easily learn more about your immediate surroundings.  Choose <colorize>Nearby</colorize> to see what's offered in your location. The image <colorize>Gallery</colorize> shows fun activities around town.\n\nUse <colorize>Maps</colorize> to determine best routes and <colorize>Bookmarks</colorize> to remember destinations in Palm Springs.": {
+    "translatedText": "Aprenda facilmente mais sobre o seu entorno imediato. Escolher <colorize> Nas proximidades </colorize> para ver o que é oferecido em sua localização. A imagem <colorize> Galeria </colorize> mostra divertidas atividades pela cidade. Usar <colorize> Mapas </colorize> para determinar as melhores rotas e <colorize> Favoritos </colorize> para lembrar destinos em Palm Springs.",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Read the buzz in <colorize>social media</colorize> about your current location, including Tweets from fellow travelers, and restaurant reviews and other events.\n\nTake a virtual <colorize>pictorial</colorize> tour through selected resaturants before making an OpenTable reservation at selected locations.": {
+    "translatedText": "Leia o burburinho em <colorize> mídia social </colorize> sobre a sua localização atual, incluindo Tweets de outros viajantes, e resenhas de restaurantes e outros eventos. Tome um virtual <colorize> pictórico </colorize> faça um tour pelos resaturants selecionados antes de fazer uma reserva OpenTable em locais selecionados.",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Your <colorize>smartphone camera</colorize> is your interactive viewer to instantly see digital overlays of information about nearby locations & points of interest.\n\nTeleport to a <colorize>Streetview</colorize> destination before you travel to browse the exact location, get compass directions, see social media activity, and plan transportation options.": {
+    "translatedText": "Seu <colorize> câmera do smartphone </colorize> é o seu visualizador interativo para ver imediatamente sobreposições digitais de informações sobre locais próximos e pontos de interesse. Teleportar para um <colorize> Vista da rua </colorize> destino antes de viajar para navegar pelo local exato, obter direções da bússola, ver atividades de mídia social e planejar opções de transporte.",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "/<colorize>([^<]*)</colorize>/": {
+    "translatedText": "/ <colorize> ([^ <] *) </colorize> /",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "gold": {
+    "translatedText": "ouro",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "/<brand>([^<]*)</brand>/": {
+    "translatedText": "/ <brand> ([^ <] *) </brand> /",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "#8e8e93": {
+    "translatedText": "# 8e8e93",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "rgba(0, 0, 0, 0.54)": {
+    "translatedText": "rgba (0, 0, 0, 0,54)",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "#f9f9f9": {
+    "translatedText": "# f9f9f9",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Home": {
+    "translatedText": "Casa",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../app/assets/tab_ar@?x.png}": {
+    "translatedText": "@media {../ app/assets/tab_ar@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "AR": {
+    "translatedText": "AR",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "home.PoiView": {
+    "translatedText": "home.PoiView",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  ".setup.constants.mapFilterBar[]": {
+    "translatedText": ".setup.constants.mapFilterBar []",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "streetView": {
+    "translatedText": "vista da rua",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  ".config.feature.arTab.enabled": {
+    "translatedText": ".config.feature.arTab.enabled",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../app/assets/bookmarked@?x.png}": {
+    "translatedText": "@media {../ app/assets/bookmarked@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "bookmarks.Bookmarks": {
+    "translatedText": "bookmarks.Bookmarks",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "linkto": {
+    "translatedText": "Link para",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  ".config.feature.bookmarks.enabled": {
+    "translatedText": ".config.feature.bookmarks.enabled",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../app/assets/tab_gallery@?x.png}": {
+    "translatedText": "@media {../ app/assets/tab_gallery@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Gallery": {
+    "translatedText": "Galeria",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Palm Springs Style": {
+    "translatedText": "Estilo Palm Springs",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "demo.LandingScreen": {
+    "translatedText": "demo.LandingScreen",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "News & Alerts": {
+    "translatedText": "Notícias e alertas",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "newsAlerts.NewsAlerts": {
+    "translatedText": "newsAlerts.NewsAlerts",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  ".config.feature.newsAlerts.enabled": {
+    "translatedText": ".config.feature.newsAlerts.enabled",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  ".config.build{.SCHEME == \"DEVELOPER\"}": {
+    "translatedText": ".config.build {.SCHEME == \"DEVELOPER\"}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "demo.Intro": {
+    "translatedText": "demo.Intro",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@i18n{settings:label}": {
+    "translatedText": "@ i18n {settings: label}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@i18n{settings:title}": {
+    "translatedText": "@ i18n {configurações: título}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../app/assets/tab_settings@?x.png}": {
+    "translatedText": "@media {../ app/assets/tab_settings@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "settings.Settings": {
+    "translatedText": "configurações.Settings",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@i18n{settings:info.title}": {
+    "translatedText": "@ i18n {settings: info.title}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "mvSettings": {
+    "translatedText": "mvSettings",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "transparent": {
+    "translatedText": "transparente",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "center": {
+    "translatedText": "Centro",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "+1": {
+    "translatedText": "+1",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "renderImage": {
+    "translatedText": "renderImage",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@formula{screenWidth()}": {
+    "translatedText": "@formula {screenWidth ()}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/PSBuzz/Buzz-Image/Buzz-Image@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/PSBuzz/Buzz-Image/Buzz-Image@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@formula{screenWidth() * 0.56}": {
+    "translatedText": "@formula {screenWidth () * 0.56}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "cover": {
+    "translatedText": "tampa",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "renderText": {
+    "translatedText": "renderText",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Get Around Town - Free & Fast": {
+    "translatedText": "Conheça a cidade - grátis e rápido",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  ".constants.loadingScreenLabelStyle": {
+    "translatedText": ".constants.loadingScreenLabelStyle",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "+0": {
+    "translatedText": "+0",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "absolute": {
+    "translatedText": "absoluto",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@media{../resources/viejo/cities/palmsprings/Assets/PSBuzz/Buzz-Sunburst/Buzz-Sunburst@?x.png}": {
+    "translatedText": "@media {../ resources/viejo/cities/palmsprings/Assets/PSBuzz/Buzz-Sunburst/Buzz-Sunburst@?x.png}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Via Escuela to Smoketree": {
+    "translatedText": "Via Escuela para Smoketree",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "11 AM - 1AM, THU - SUN": {
+    "translatedText": "11:00 - 1:00, THU - SUN",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Every 15 minutes": {
+    "translatedText": "A cada 15 minutos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Show Trolley Locations": {
+    "translatedText": "Mostrar locais do carrinho",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "row": {
+    "translatedText": "linha",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "http://buzz.visitpalmsprings.com": {
+    "translatedText": "http://buzz.visitpalmsprings.com",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Contact:": {
+    "translatedText": "Contato:",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Messages": {
+    "translatedText": "Mensagens",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Email": {
+    "translatedText": "O email",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Share": {
+    "translatedText": "Compartilhar",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Send a Report": {
+    "translatedText": "Envie um relatório",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Emergency": {
+    "translatedText": "Emergência",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Warning": {
+    "translatedText": "Aviso",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Traffic": {
+    "translatedText": "Tráfego",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Emergency Contact:": {
+    "translatedText": "Contato de emergência:",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Police": {
+    "translatedText": "Polícia",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Fire": {
+    "translatedText": "Fogo",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Ambulance": {
+    "translatedText": "Ambulância",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "EXAMPLES": {
+    "translatedText": "EXEMPLOS",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "CONFIGURE DEMO": {
+    "translatedText": "CONFIGURAR DEMO",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "TEST TEMPLATE": {
+    "translatedText": "MODELO DE TESTE",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Media Viewer": {
+    "translatedText": "Visualizador de Mídia",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Check It Out": {
+    "translatedText": "Confira",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Welcome, {{user.name}}": {
+    "translatedText": "Bem-vindo, {{user.name}}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Welcome, {{user}}": {
+    "translatedText": "Bem-vindo, {{user}}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Welcome, <ccsdk text='user' />": {
+    "translatedText": "Bem vinda, <ccsdk text='user' />",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Back": {
+    "translatedText": "De volta",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Password": {
+    "translatedText": "Senha",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Forgot Password": {
+    "translatedText": "Esqueceu a senha",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Login": {
+    "translatedText": "Entrar",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "By using the app, you agree to the": {
+    "translatedText": "Ao usar o aplicativo, você concorda com o",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Terms of Service": {
+    "translatedText": "Termos de serviço",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  " and ": {
+    "translatedText": "e",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Privacy Policy": {
+    "translatedText": "Política de Privacidade",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Change Language": {
+    "translatedText": "Mudar idioma",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "No Results Found": {
+    "translatedText": "Nenhum resultado encontrado",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Try searching for something different or change your search options": {
+    "translatedText": "Tente pesquisar algo diferente ou alterar suas opções de pesquisa",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Return to Search": {
+    "translatedText": "Retornar para a Pesquisa",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Info": {
+    "translatedText": "Info",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "About": {
+    "translatedText": "Sobre",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Disclaimer": {
+    "translatedText": "aviso Legal",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "FAQ": {
+    "translatedText": "Perguntas frequentes",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Terms": {
+    "translatedText": "Termos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Tutorial": {
+    "translatedText": "Tutorial",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Download latest updates": {
+    "translatedText": "Baixe as atualizações mais recentes",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Last sync:": {
+    "translatedText": "Última sincronização:",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Sync": {
+    "translatedText": "Sincronizar",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Please wait while we sync the latest updates.": {
+    "translatedText": "Por favor aguarde enquanto sincronizamos as últimas atualizações.",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "This may take a few moments.": {
+    "translatedText": "Isso pode levar algum tempo.",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Downloading...": {
+    "translatedText": "Baixando ...",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Download complete.": {
+    "translatedText": "Download completo.",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Download failed.": {
+    "translatedText": "Falha no Download.",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "RETRY": {
+    "translatedText": "RETRIBUIÇÃO",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "CANCEL": {
+    "translatedText": "CANCELAR",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "OK": {
+    "translatedText": "Está bem",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Software Licences": {
+    "translatedText": "Licenças de Software",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Licenses": {
+    "translatedText": "Licenças",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Open source libraries": {
+    "translatedText": "Bibliotecas de código aberto",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Units": {
+    "translatedText": "Unidades",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Distance": {
+    "translatedText": "Distância",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Miles": {
+    "translatedText": "Milhas",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Kilometers": {
+    "translatedText": "Quilômetros",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Temperature": {
+    "translatedText": "Temperatura",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Fahrenheit": {
+    "translatedText": "Fahrenheit",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Celsius": {
+    "translatedText": "Celsius",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Set Your Location": {
+    "translatedText": "Defina sua localização",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Language": {
+    "translatedText": "Língua",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "The app will automatically restart in the selected language. This will not change your system default language.": {
+    "translatedText": "O aplicativo será reiniciado automaticamente no idioma selecionado. Isso não alterará o idioma padrão do seu sistema.",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Gauge": {
+    "translatedText": "Calibre",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Add Event": {
+    "translatedText": "Adicionar Evento",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Color": {
+    "translatedText": "Cor",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Blue (Default)": {
+    "translatedText": "Azul (padrão)",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Dark Blue": {
+    "translatedText": "Azul escuro",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Light Blue": {
+    "translatedText": "Azul claro",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Red": {
+    "translatedText": "Vermelho",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Dark Red": {
+    "translatedText": "Vermelho escuro",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Navy": {
+    "translatedText": "Marinha",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Orange": {
+    "translatedText": "laranja",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Purple": {
+    "translatedText": "Roxa",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Brown": {
+    "translatedText": "Castanho",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Torquise": {
+    "translatedText": "Torquise",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Teal": {
+    "translatedText": "Cerceta",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Green": {
+    "translatedText": "Verde",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Dark Green": {
+    "translatedText": "Verde escuro",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Pink": {
+    "translatedText": "Rosa",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Yellow": {
+    "translatedText": "Amarelo",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Repeat": {
+    "translatedText": "Repetir",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Never": {
+    "translatedText": "Nunca",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Every Day": {
+    "translatedText": "Todo dia",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Every Week": {
+    "translatedText": "Toda semana",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Every 2 Weeks": {
+    "translatedText": "A cada 2 semanas",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Every Month": {
+    "translatedText": "Todo mês",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Every Year": {
+    "translatedText": "Todo ano",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Timezone": {
+    "translatedText": "Fuso horário",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Name": {
+    "translatedText": "Nome",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "UTC": {
+    "translatedText": "UTC",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Search by Time Zone": {
+    "translatedText": "Pesquisar por fuso horário",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Calendar": {
+    "translatedText": "Calendário",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "iOS": {
+    "translatedText": "iOS",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Team": {
+    "translatedText": "Equipe",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Google": {
+    "translatedText": "Google",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "TBD": {
+    "translatedText": "TBD",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Press to See Map": {
+    "translatedText": "Pressione para ver o mapa",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "County": {
+    "translatedText": "município",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Construction": {
+    "translatedText": "Construção",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Incident": {
+    "translatedText": "Incidente",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Special Events": {
+    "translatedText": "Eventos especiais",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Closures": {
+    "translatedText": "Fechamentos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "511 Traffic and Events": {
+    "translatedText": "511 Tráfego e Eventos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "traffic": {
+    "translatedText": "tráfego",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Category": {
+    "translatedText": "Categoria",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Description": {
+    "translatedText": "Descrição",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Event Type": {
+    "translatedText": "Tipo de evento",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Severity": {
+    "translatedText": "Gravidade",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Created": {
+    "translatedText": "Criado",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Updated": {
+    "translatedText": "Atualizada",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Status": {
+    "translatedText": "Status",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Action": {
+    "translatedText": "Açao",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Posted": {
+    "translatedText": "Postou",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Phrase": {
+    "translatedText": "Frase",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Advice": {
+    "translatedText": "Conselho",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Lanes Affected": {
+    "translatedText": "Pistas afetadas",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Source ID": {
+    "translatedText": "ID da fonte",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Source Name": {
+    "translatedText": "Nome da fonte",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Event Impact": {
+    "translatedText": "Impacto do Evento",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Road Closed": {
+    "translatedText": "Estrada fechada",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Event Status": {
+    "translatedText": "Status do Evento",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Event Class": {
+    "translatedText": "Classe de Eventos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Incident Type Impact": {
+    "translatedText": "Impacto do tipo de incidente",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Total Lanes": {
+    "translatedText": "Total de Lanes",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Event Directions": {
+    "translatedText": "Instruções do evento",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Last Updated": {
+    "translatedText": "Ultima atualização",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Article": {
+    "translatedText": "Artigo",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Lane Status": {
+    "translatedText": "Status da pista",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Other Text": {
+    "translatedText": "Outro texto",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Completed": {
+    "translatedText": "Concluído",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Show Map": {
+    "translatedText": "Mostrar mapa",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Show Inline Map": {
+    "translatedText": "Mostrar mapa inline",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Start...": {
+    "translatedText": "Começar...",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Destination...": {
+    "translatedText": "Destino...",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Your Location": {
+    "translatedText": "Sua localização",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Choose On Map": {
+    "translatedText": "Escolha no mapa",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "My Locations": {
+    "translatedText": "Meus locais",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Work": {
+    "translatedText": "Trabalhos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Recent Searches": {
+    "translatedText": "pesquisas recentes",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Leave Now": {
+    "translatedText": "Saia agora",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Depart At": {
+    "translatedText": "Partida em",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Arrive By": {
+    "translatedText": "Chegue por",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "GAUGE EXAMPLES": {
+    "translatedText": "EXEMPLOS DE CALIBRAGEM",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Tweets": {
+    "translatedText": "Tweets",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Twitter Accounts": {
+    "translatedText": "Contas do Twitter",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Twitter Hashtags": {
+    "translatedText": "Hashtags do Twitter",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "#hashtags": {
+    "translatedText": "#hashtags",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Foursquare": {
+    "translatedText": "Quadrangular",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Eventbrite": {
+    "translatedText": "Eventbrite",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Cancel": {
+    "translatedText": "Cancelar",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Apply": {
+    "translatedText": "Aplique",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Other": {
+    "translatedText": "De outros",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Sources": {
+    "translatedText": "Fontes",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Gauge Test": {
+    "translatedText": "Teste de calibre",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Allow Access": {
+    "translatedText": "Permitir acesso",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Add Agenda": {
+    "translatedText": "Adicionar Agenda",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Edit Agenda": {
+    "translatedText": "Editar agenda",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Add Agenda Item": {
+    "translatedText": "Adicionar item da agenda",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Select Duration": {
+    "translatedText": "Selecione a duração",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Duration": {
+    "translatedText": "Duração",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "minutes": {
+    "translatedText": "minutos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "hours": {
+    "translatedText": "horas",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "days": {
+    "translatedText": "dias",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "weeks": {
+    "translatedText": "semanas",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "months": {
+    "translatedText": "meses",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Save": {
+    "translatedText": "Salve ",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Starts": {
+    "translatedText": "Começa",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Ends": {
+    "translatedText": "Termina",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "All Day": {
+    "translatedText": "Dia todo",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Alert": {
+    "translatedText": "Alerta",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Title": {
+    "translatedText": "Título",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Subtitle": {
+    "translatedText": "Subtítulo",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Scroller": {
+    "translatedText": "Rolador",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Test": {
+    "translatedText": "Teste",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Sign-in": {
+    "translatedText": "Assinar em",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Select Demo Location": {
+    "translatedText": "Selecione o local de demonstração",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Example Selector": {
+    "translatedText": "Exemplo de Seletor",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Start Date": {
+    "translatedText": "Data de início",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "End Date": {
+    "translatedText": "Data final",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Date Created": {
+    "translatedText": "Data Criada",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Date Changed": {
+    "translatedText": "Data alterada",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Capacity": {
+    "translatedText": "Capacidade",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Currency": {
+    "translatedText": "Moeda",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Online": {
+    "translatedText": "Conectados",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Time Limit": {
+    "translatedText": "Limite de tempo",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Subcategory": {
+    "translatedText": "Subcategoria",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Format": {
+    "translatedText": "Formato",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "ID": {
+    "translatedText": "identidade",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Address": {
+    "translatedText": "Endereço",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Area": {
+    "translatedText": "Área",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Cross Street": {
+    "translatedText": "Cross Street",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "FormattedAddress": {
+    "translatedText": "FormattedAddress",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "GroupType": {
+    "translatedText": "GroupType",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "nearbyLocation": {
+    "translatedText": "nas proximidadesLocalização",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Categories": {
+    "translatedText": "Categorias",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Transactions": {
+    "translatedText": "Transações",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Phone": {
+    "translatedText": "telefone",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "City": {
+    "translatedText": "Cidade",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "State": {
+    "translatedText": "Estado",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Zipcode": {
+    "translatedText": "Código postal",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Country": {
+    "translatedText": "País",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Rating": {
+    "translatedText": "Avaliação",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Hours": {
+    "translatedText": "Horas",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Price": {
+    "translatedText": "Preço",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Url": {
+    "translatedText": "URL",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "UserIcon": {
+    "translatedText": "UserIcon",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "UserName": {
+    "translatedText": "UserName",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "ScreenName": {
+    "translatedText": "Nome do ecrã",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Place": {
+    "translatedText": "Lugar, colocar",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "TimeAgo": {
+    "translatedText": "Tempo atrás",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Show All": {
+    "translatedText": "Mostre tudo",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Start Demo": {
+    "translatedText": "Iniciar demonstração",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Recommended places": {
+    "translatedText": "Lugares recomendados",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Address...": {
+    "translatedText": "Endereço...",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Auto-Locate": {
+    "translatedText": "Localizar automaticamente",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Search": {
+    "translatedText": "Procurar",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Street View": {
+    "translatedText": "vista da rua",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Done": {
+    "translatedText": "Feito",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Remaining": {
+    "translatedText": "Restante",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Elapsed": {
+    "translatedText": "Transcorrido",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Training Session": {
+    "translatedText": "Sessão de treinamento",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "WORKING TIME": {
+    "translatedText": "EXPEDIENTE",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Github Templates": {
+    "translatedText": "Templates do Github",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Tutorial Examples": {
+    "translatedText": "Exemplos de Tutorial",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Template Overview": {
+    "translatedText": "Visão geral do modelo",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Basic Components": {
+    "translatedText": "Componentes básicos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Intermediate Components": {
+    "translatedText": "Componentes Intermediários",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Advanced Components": {
+    "translatedText": "Componentes Avançados",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Built-in Screens": {
+    "translatedText": "Telas embutidas",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Applications": {
+    "translatedText": "Aplicações",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Content Library": {
+    "translatedText": "Biblioteca de Conteúdos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "unknown": {
+    "translatedText": "desconhecido",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Invalid URL": {
+    "translatedText": "URL inválida",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Test Template": {
+    "translatedText": "Modelo de teste",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Select URL(s) to Test Templates": {
+    "translatedText": "Selecione URL (s) para testar modelos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Load @{numSelectedItems} Templates": {
+    "translatedText": "Carregar @ {numSelectedItems} modelos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "delete": {
+    "translatedText": "excluir",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Add Github Branch": {
+    "translatedText": "Adicionar Ramo Github",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Choose Your Amenities": {
+    "translatedText": "Escolha suas comodidades",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Show @{prediction} Results": {
+    "translatedText": "Mostrar resultados de @ {prediction}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "2 min": {
+    "translatedText": "2 minutos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "2 min walk - one city block": {
+    "translatedText": "2 min a pé - um quarteirão",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "5 min": {
+    "translatedText": "5 min",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "5 min walk - 1/4 mile": {
+    "translatedText": "5 min a pé - 1/4 de milha",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "10 min": {
+    "translatedText": "10 min",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "10 min walk - 1/2 mile": {
+    "translatedText": "10 min a pé - meia milha",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "20 min": {
+    "translatedText": "20 minutos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "20 min walk - 1 mile": {
+    "translatedText": "20 min a pé - 1 milha",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Map": {
+    "translatedText": "Mapa",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Find Transportation": {
+    "translatedText": "Encontrar transporte",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Under Construction": {
+    "translatedText": "Em construção",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "This feature will be available soon!": {
+    "translatedText": "Este recurso estará disponível em breve!",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Get Directions": {
+    "translatedText": "Obter direções",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Get Ride With Uber": {
+    "translatedText": "Get Ride Com Uber",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Get Ride With Lyft": {
+    "translatedText": "Obtenha o passeio com Lyft",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Make reservation with OpenTable": {
+    "translatedText": "Faça reserva com OpenTable",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Share Place": {
+    "translatedText": "Compartilhar lugar",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Want to tell others about this place?": {
+    "translatedText": "Quer falar a outras pessoas sobre este lugar?",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Share with your friends now.": {
+    "translatedText": "Compartilhe com seus amigos agora.",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Directions": {
+    "translatedText": "instruções",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Get directions": {
+    "translatedText": "Obter direções",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Want directions to this place?": {
+    "translatedText": "Quer direções para este lugar?",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "This will open your default Maps app.": {
+    "translatedText": "Isso abrirá seu aplicativo do Maps padrão.",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Save for later?": {
+    "translatedText": "Guardar para depois?",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Want to be able to quickly access this again?": {
+    "translatedText": "Quer ser capaz de acessar rapidamente isso de novo?",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Save to your Bookmarks list now.": {
+    "translatedText": "Salvar na sua lista de favoritos agora.",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Set a reminder?": {
+    "translatedText": "Definir um lembrete?",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Want to receive a notification for this event?": {
+    "translatedText": "Deseja receber uma notificação para este evento?",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Set a reminder now.": {
+    "translatedText": "Defina um lembrete agora.",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Save to Bookmarks": {
+    "translatedText": "Salvar em favoritos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "View More Info": {
+    "translatedText": "Ver mais informações",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Clear": {
+    "translatedText": "Claro",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Submit": {
+    "translatedText": "Enviar",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Pick Items": {
+    "translatedText": "Escolha itens",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Search Items...": {
+    "translatedText": "Pesquisar itens ...",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Search Nearby...": {
+    "translatedText": "Procure próximo...",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Looked for": {
+    "translatedText": "Procurou",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Close": {
+    "translatedText": "Perto",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "and {{matchCount}} more matches": {
+    "translatedText": "e {{matchCount}} mais jogos",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "{{index}} of {{numItems}}": {
+    "translatedText": "{{index}} de {{numItems}}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Found {{counter}} in: <reason>{{foundAt}}</reason> from {{name}}": {
+    "translatedText": "Encontrado {{counter}} em: <reason> {{Encontrado em}} </reason> de nome}}",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "RAW SEARCH EXPLANATION DATA": {
+    "translatedText": "DADOS DE EXPLICAÇÃO DE PESQUISA BRUTA",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Why am I seeing this?": {
+    "translatedText": "Porque estou vendo isso?",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Couldn't find the location. Please Try Again": {
+    "translatedText": "Não foi possível encontrar o local. Por favor, tente novamente",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Bookmark": {
+    "translatedText": "marca páginas",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Delete": {
+    "translatedText": "Excluir",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "There are no stops that match the current search": {
+    "translatedText": "Não há paradas que correspondam à pesquisa atual",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "fare": {
+    "translatedText": "tarifa",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "via": {
+    "translatedText": "através da",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Confirm": {
+    "translatedText": "confirme",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Try again": {
+    "translatedText": "Tente novamente",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "LA Care Family Resource Centers": {
+    "translatedText": "Centros de Recursos da Família LA Care",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Weekdays": {
+    "translatedText": "Dias úteis",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Thu": {
+    "translatedText": "qui",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Sat": {
+    "translatedText": "Sentou",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Free health education classes": {
+    "translatedText": "Aulas gratuitas de educação em saúde",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Exercise classes": {
+    "translatedText": "Aulas de ginástica",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Free or low-cost health care coverage": {
+    "translatedText": "Cobertura de saúde gratuita ou de baixo custo",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Friendly staff who speak your language": {
+    "translatedText": "Friendly staff que fala a sua língua",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Classes for kids": {
+    "translatedText": "Classes para crianças",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Classes": {
+    "translatedText": "Classes",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Help finding a doctor": {
+    "translatedText": "Ajude a encontrar um médico",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Health screenings": {
+    "translatedText": "Exames de saúde",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Child care is provided": {
+    "translatedText": "O cuidado da criança é fornecido",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "San Diego Trains": {
+    "translatedText": "Trens de San Diego",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Website": {
+    "translatedText": "Local na rede Internet",
+    "timestamp": 1544739825262,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Example coming soon...": {
+    "translatedText": "Exemplo em breve ...",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Assorted Images": {
+    "translatedText": "Imagens sortidas",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Weather": {
+    "translatedText": "Clima",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Weather Images": {
+    "translatedText": "Imagens meteorológicas",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Transit Images": {
+    "translatedText": "Imagens de trânsito",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Points of Interest Images": {
+    "translatedText": "Imagens de pontos de interesse",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Points of Interest": {
+    "translatedText": "Pontos de interesse",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Flex Layout": {
+    "translatedText": "Layout flexível",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Example Full width row": {
+    "translatedText": "Exemplo de linha de largura total",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Example Two column row": {
+    "translatedText": "Exemplo de duas colunas",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Example - Three column row with aligned labels": {
+    "translatedText": "Exemplo - três linhas de coluna com rótulos alinhados",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Color 1": {
+    "translatedText": "Cor 1",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Color 2": {
+    "translatedText": "Cor 2",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Color 3": {
+    "translatedText": "Cor 3",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Components are automatically arranged into rows based on a specific row number, or '+/-' relative to the current row.  Using '+0' places the component in the same row as the previous component.  Column names can set for any component to overlap components on top of each other.": {
+    "translatedText": "Os componentes são organizados automaticamente em linhas com base em um número de linha específico ou '+/-' em relação à linha atual. Usando '+0' coloca o componente na mesma linha do componente anterior. Os nomes das colunas podem ser definidos para qualquer componente para sobrepor componentes uns sobre os outros.",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Formulas, Constants, Enabled": {
+    "translatedText": "Fórmulas, constantes, ativadas",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Hello World Example": {
+    "translatedText": "Exemplo Hello World",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Hello World": {
+    "translatedText": "Olá Mundo",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Linking Actions": {
+    "translatedText": "Vinculando Ações",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "My Test Email": {
+    "translatedText": "Meu email de teste",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "This is my email body": {
+    "translatedText": "Este é o meu corpo de e-mail",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Link": {
+    "translatedText": "Ligação",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Selected Screens": {
+    "translatedText": "Telas Selecionadas",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Chooser": {
+    "translatedText": "Seletor",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Roster": {
+    "translatedText": "Lista",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Player 1": {
+    "translatedText": "Jogador 1",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Player 2": {
+    "translatedText": "Jogador 2",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Player 3": {
+    "translatedText": "Jogador 3",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Coach 1": {
+    "translatedText": "Treinador 1",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Coach 2": {
+    "translatedText": "Treinador 2",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Choose a Person": {
+    "translatedText": "Escolha uma pessoa",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Charting": {
+    "translatedText": "Gráficos",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Render Image": {
+    "translatedText": "Renderizar Imagem",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Render List View": {
+    "translatedText": "Exibir lista de renderização",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "List View": {
+    "translatedText": "Exibição de lista",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "List View and Detail View\nwith Sorting": {
+    "translatedText": "Exibição de lista e exibição de detalhes com classificação",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "People": {
+    "translatedText": "Pessoas",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "A-Z": {
+    "translatedText": "AZ",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Custom": {
+    "translatedText": "personalizadas",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "List View and Detail View\nwith Filtering and Sorting": {
+    "translatedText": "Exibição de lista e exibição de detalhes com filtragem e classificação",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Coach": {
+    "translatedText": "Treinador",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Player": {
+    "translatedText": "Jogador",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "List View and Detail View\nwith Date Filter and Sorting": {
+    "translatedText": "Exibição de lista e exibição de detalhes com filtro de data e classificação",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Render ListViewItem": {
+    "translatedText": "Renderizar ListViewItem",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Loading Data...": {
+    "translatedText": "Carregando dados...",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "List Item using a search for the word '@{searchTerm}'": {
+    "translatedText": "Listar Item usando uma pesquisa pela palavra '@ {searchTerm}'",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "RenderMap": {
+    "translatedText": "RenderMap",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Example 1": {
+    "translatedText": "Exemplo 1",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Example 2 - Include Lyft data fetcher": {
+    "translatedText": "Exemplo 2 - Incluir o buscador de dados do Lyft",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "RenderMedia": {
+    "translatedText": "RenderMedia",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Swipe through images, video, pdf, youtube, web sites\nPress on content to large version": {
+    "translatedText": "Passe pelas imagens, vídeo, pdf, youtube, sites da Web. Carregue no conteúdo para a versão grande",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "PDF Header": {
+    "translatedText": "Cabeçalho PDF",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "PDF Footer": {
+    "translatedText": "Rodapé do PDF",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Youtube Header": {
+    "translatedText": "Cabeçalho do Youtube",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Youtube Footer": {
+    "translatedText": "Rodapé do Youtube",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Render Menu": {
+    "translatedText": "Menu Render",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Photosphere 360° Images": {
+    "translatedText": "Imagens 360 ° Photosphere",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Render Rect": {
+    "translatedText": "Render Rect",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Example 1 - thin full width line": {
+    "translatedText": "Exemplo 1 - linha de largura total fina",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Example 2 - thicker full width line": {
+    "translatedText": "Exemplo 2 - linha de largura total mais espessa",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Example 3 - fixed dimension": {
+    "translatedText": "Exemplo 3 - dimensão fixa",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Render Text": {
+    "translatedText": "Renderizar texto",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Left": {
+    "translatedText": "Esquerda",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Center": {
+    "translatedText": "Centro",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Right": {
+    "translatedText": "Certo",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Top": {
+    "translatedText": "Topo",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Middle": {
+    "translatedText": "Meio",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Bottom": {
+    "translatedText": "Inferior",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Text Template BPM @{bpm}, ECG @{ecg}": {
+    "translatedText": "Modelo de texto BPM @ {bpm}, ECG @ {ecg}",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Render Highlighted Text": {
+    "translatedText": "Renderizar texto realçado",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Highlight predefined text deep links:\n      url, phone and email": {
+    "translatedText": "Realce links profundos de texto predefinido: url, telefone e email",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Press on the deep link contact info\n   @{urlKeyword}: http://www.CivicConnect.com\n   @{phoneKeyword}: 888-333-1212\n   @{emailKeyword}: mail@civicconnect.com": {
+    "translatedText": "Pressione as informações de contato do link direto @ {urlKeyword}: http://www.CivicConnect.com @ {phoneKeyword}: 888-333-1212 @ {emailKeyword}: mail@civicconnect.com",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Style and colorize text with predefined tags:\n      <bold>, <colorize>": {
+    "translatedText": "Estilize e colora o texto com tags predefinidas: <bold> , <colorize>",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "This is <bold>bolded text</bold> in this sentence\nThis is <colorize>colored text</colorize> in this sentence": {
+    "translatedText": "Isto é <bold> texto em negrito </bold> nesta frase Esta é <colorize> texto colorido </colorize> nesta frase",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Highlight text using custom regex template tags": {
+    "translatedText": "Realce o texto usando tags de modelo regex personalizadas",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "This is custom <myKeyword>highlighted text</myKeyword> in this sentence": {
+    "translatedText": "Isso é costume <myKeyword> texto destacado </myKeyword> nesta frase",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Render Tile": {
+    "translatedText": "Render Tile",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Render Toolbar": {
+    "translatedText": "Render Toolbar",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Tab 1": {
+    "translatedText": "Tab 1",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Tab 2": {
+    "translatedText": "Tab 2",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Tab 3": {
+    "translatedText": "Tab 3",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Tab 4": {
+    "translatedText": "Tab 4",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Tab 5": {
+    "translatedText": "Tab 5",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Tab 6": {
+    "translatedText": "Tab 6",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Tab 7": {
+    "translatedText": "Tab 7",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Tab 8": {
+    "translatedText": "Tab 8",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Tab 9": {
+    "translatedText": "Tab 9",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Tab 10": {
+    "translatedText": "Tab 10",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Modal Web Screen": {
+    "translatedText": "Tela Web Modal",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Render WebView": {
+    "translatedText": "Renderizar WebView",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Search Screen": {
+    "translatedText": "Tela de pesquisa",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "On Search Screen, look for a specific word,\nSearch with wildcards using:\n     *Connect  - ending with\n     Civic*       - begins with\n     Civ*nect  - middle of\nSearch in specfic fields:\n     description=debut": {
+    "translatedText": "Na tela de pesquisa, procure por uma palavra específica, pesquisa com curingas usando: * Conectar - terminando com Civic * - começa com Civ * nect - meio de pesquisa em campos específicos: description = debut",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Structure": {
+    "translatedText": "Estrutura",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Map View": {
+    "translatedText": "Visão do mapa",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Transit Schedules": {
+    "translatedText": "Horários de Trânsito",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Public Transit Agencies": {
+    "translatedText": "Agências de Trânsito Público",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Rugby Login Screen 1": {
+    "translatedText": "Tela de Login do Rugby 1",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "By using the app, you agree to the\nTerms of Services and Privacy Policy": {
+    "translatedText": "Ao usar o aplicativo, você concorda com os Termos de Serviços e a Política de Privacidade",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Rugby Team Roster": {
+    "translatedText": "Time de Rugby",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Stock Images": {
+    "translatedText": "Imagens de Stock",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Transit Modes": {
+    "translatedText": "Modos de Trânsito",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Direction Arrows": {
+    "translatedText": "Setas de direção",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Template Actions": {
+    "translatedText": "Ações de modelo",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Live Camera View": {
+    "translatedText": "Visualização da câmera ao vivo",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Can we access your {{permission}}?": {
+    "translatedText": "Podemos acessar sua {{permission}}?",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "No": {
+    "translatedText": "Não",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Open Settings": {
+    "translatedText": "Abrir configurações",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Can't open settings": {
+    "translatedText": "Não é possível abrir configurações",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Software Licenses": {
+    "translatedText": "Licenças de Software",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Search for Agency or Stop ID": {
+    "translatedText": "Pesquisar agência ou ID de parada",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "There is no agency or stop id that match the current search": {
+    "translatedText": "Não há agência ou ID de parada que correspondam à pesquisa atual",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Unexpected error occurred": {
+    "translatedText": "Ocorreu um erro inesperado",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Error": {
+    "translatedText": "Erro",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Fatal": {
+    "translatedText": "Fatal",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "We will need to restart the app.": {
+    "translatedText": "Precisamos reiniciar o aplicativo.",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Restart": {
+    "translatedText": "Reiniciar",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Transit Departures": {
+    "translatedText": "Partidas de trânsito",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Contact": {
+    "translatedText": "Contato",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Assignments": {
+    "translatedText": "atribuições",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Restart Application": {
+    "translatedText": "Reinicie o aplicativo",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Are you sure you want to delete these items?": {
+    "translatedText": "Tem certeza de que deseja excluir esses itens?",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Edit": {
+    "translatedText": "Editar",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Gauges in a Row": {
+    "translatedText": "Medidores seguidos",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Gauge from Template": {
+    "translatedText": "Medidor do modelo",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Gauge Workout": {
+    "translatedText": "Treino de calibre",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Gauge With Custom Background": {
+    "translatedText": "Calibre com fundo personalizado",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Gauge with Icons": {
+    "translatedText": "Medidor com ícones",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Icons Above and Below": {
+    "translatedText": "Ícones acima e abaixo",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Gauge with Stroke Color Gradient": {
+    "translatedText": "Medidor com gradiente de cor do curso",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Gauge with Linear Gradient Background": {
+    "translatedText": "Medidor com fundo gradiente linear",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Gauge with Linear Gradient": {
+    "translatedText": "Medidor com Gradiente Linear",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Gauge with Radial Gradient": {
+    "translatedText": "Medidor com gradiente radial",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Gauge with Outer Labels": {
+    "translatedText": "Medidor com rótulos externos",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Changing Stroke Color and Width": {
+    "translatedText": "Alterando a cor e a largura do traço",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Gauge of Different Sizes": {
+    "translatedText": "Medidor de Tamanhos Diferentes",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Default Gauge": {
+    "translatedText": "Medidor padrão",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Label 1": {
+    "translatedText": "Rótulo 1",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Label 2": {
+    "translatedText": "Rótulo 2",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Label 3": {
+    "translatedText": "Rótulo 3",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "List": {
+    "translatedText": "Lista",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Enter {{label}}": {
+    "translatedText": "Digite {{label}}",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Type": {
+    "translatedText": "Tipo",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Transit Departues": {
+    "translatedText": "Departamentos de Trânsito",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Details": {
+    "translatedText": "Detalhes",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Select Location": {
+    "translatedText": "Selecione o local",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Add a New Place": {
+    "translatedText": "Adicione um novo local",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Your event will start {{timeUntil}} at {{address}}.\n{{time}}": {
+    "translatedText": "Seu evento começará em {{timeUntil}} em {{address}}. {{Tempo}}",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Set reminder on": {
+    "translatedText": "Definir lembrete em",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "There are currently no routes that service this stop from this agency": {
+    "translatedText": "Atualmente, não há rotas que atendam a essa parada nesta agência",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "A problem has occurred with fetching routes": {
+    "translatedText": "Ocorreu um problema ao buscar rotas",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Search for Routes": {
+    "translatedText": "Procurar por rotas",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "There is no route that match the current search": {
+    "translatedText": "Não há rota que corresponda à pesquisa atual",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Are you sure you want to bookmark these items?": {
+    "translatedText": "Tem certeza de que deseja marcar esses itens?",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "found in": {
+    "translatedText": "encontrado em",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Search Results": {
+    "translatedText": "Procurar Resultados",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "ALL": {
+    "translatedText": "TODOS",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Time": {
+    "translatedText": "Tempo",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Requires camera permissions for the app to be enabled in phone settings": {
+    "translatedText": "Requer permissões de câmera para que o aplicativo seja ativado nas configurações do telefone",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Data type not supported in this channel": {
+    "translatedText": "Tipo de dados não suportado neste canal",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "{{name}} is not a known data type for this channel": {
+    "translatedText": "{{name}} não é um tipo de dados conhecido para este canal",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Can't find directions to that place at that time": {
+    "translatedText": "Não é possível encontrar rotas para esse local naquele horário",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Bar Chart": {
+    "translatedText": "Gráfico de barras",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Scrolling Line Chart": {
+    "translatedText": "Gráfico de linhas de rolagem",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Pie Chart": {
+    "translatedText": "Gráfico de pizza",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Unknown Render Type {{type}}": {
+    "translatedText": "Tipo de renderização desconhecido {{type}}",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Tab {{index}}": {
+    "translatedText": "Tabulação {{index}}",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Loading": {
+    "translatedText": "Carregando",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Selected option: {{option}}": {
+    "translatedText": "Opção selecionada: {{option}}",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Template not found - Go Back": {
+    "translatedText": "Modelo não encontrado - Voltar",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Go Back": {
+    "translatedText": "Volte",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "These examples demonstrate product concepts using the Mobile SDK": {
+    "translatedText": "Estes exemplos demonstram conceitos de produtos usando o SDK para dispositivos móveis",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Select {{name}} examples": {
+    "translatedText": "Selecione exemplos de {{name}}",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Today's Deal!\nFree Latte when you sign up to Loyalty Club!": {
+    "translatedText": "O negócio de hoje! Latte grátis quando você se inscrever no Loyalty Club!",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Free Latte from the Loyality Club": {
+    "translatedText": "Café com leite grátis do Loyality Club",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "San Diego Museum Admission": {
+    "translatedText": "Entrada do Museu de San Diego",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "San Diego October is KIDS FREE MONTH": {
+    "translatedText": "San Diego outubro é mês livre de crianças",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Summer Movies in the Park": {
+    "translatedText": "Filmes de verão no parque",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "San Diego Go Pass": {
+    "translatedText": "San Diego Go Pass",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Enjoy a free latte when you visit your local barrista and sign up for the loyality club": {
+    "translatedText": "Desfrute de um café com leite grátis quando visitar o barrista local e se inscrever no clube de lealdade",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "See which museums are free every tuesday for San Diego residents, active miltary, and their dependents": {
+    "translatedText": "Veja quais museus são gratuitos todas as terças-feiras para os moradores de San Diego, miltários ativos e seus dependentes",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "San Diego is making October KIDS FREE MONTH to theme parks, zoos, museums...even free meals at restaurants!": {
+    "translatedText": "San Diego está fazendo outubro KIDS FREE MÊS para parques temáticos, zoológicos, museus ... até mesmo refeições gratuitas em restaurantes!",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "See free Free Family movie events at local parks, pools and on the deck of the Midway": {
+    "translatedText": "Veja eventos gratuitos para filmes gratuitos em parques, piscinas e no deck do Midway",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Save up to 50% on top San Diego attractions. Pay nothing at the gate!": {
+    "translatedText": "Economize até 50% nas principais atrações de San Diego. Não pague nada no portão!",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Take advantage of deals at local businesses and free admissions at many venues offered as a public services": {
+    "translatedText": "Aproveite as ofertas em empresas locais e admissões gratuitas em muitos locais oferecidos como serviços públicos",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Transit Services": {
+    "translatedText": "Serviços de trânsito",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Destinations": {
+    "translatedText": "Destinos",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Timetables": {
+    "translatedText": "Horários",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "News": {
+    "translatedText": "Notícia",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Parking": {
+    "translatedText": "Estacionamento",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Enjoy breathtaking scenery, relax with transit services and amenities, watch entertainment from Youtube or NetFlix, plan your journey, and more!": {
+    "translatedText": "Desfrute de paisagens de tirar o fôlego, relaxe com os serviços e comodidades de trânsito, assista ao entretenimento do Youtube ou NetFlix, planeje sua viagem e muito mais!",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "@{cityName} Augmented Reality": {
+    "translatedText": "@ {cityName} Realidade Aumentada",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Loading Location...": {
+    "translatedText": "Carregando localização ...",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Downtown San Francisco": {
+    "translatedText": "Centro cidade, são francisco",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Plan the rest of your journey, explore sites and restaurants at your destination, choose transit options, and more...!": {
+    "translatedText": "Planeje o restante de sua jornada, explore locais e restaurantes no seu destino, escolha opções de transporte público e muito mais ...!",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Loading Suggestion...": {
+    "translatedText": "Carregando sugestão ...",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Your Town": {
+    "translatedText": "Sua cidade",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Stay Connected": {
+    "translatedText": "Permaneça conectado",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "powered by {{name}}": {
+    "translatedText": "powered by {{name}}",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "SOCIAL": {
+    "translatedText": "SOCIAL",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Copyright 2017, 2018 Civic Connect. All rights reserved": {
+    "translatedText": "Direitos autorais 2017, 2018 Civic Connect. Todos os direitos reservados",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Version {{ver}}": {
+    "translatedText": "Versão {{ver)}",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "San Diego Public Wifi": {
+    "translatedText": "San Diego Public Wifi",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Enjoy a first-of-its-kind communications network offering public internet access throughout the city and in selected Public Libraries": {
+    "translatedText": "Desfrute de uma rede de comunicações inédita que oferece acesso público à Internet em toda a cidade e em bibliotecas públicas selecionadas",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "San Diego Parking": {
+    "translatedText": "San Diego Estacionamento",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Find open free, metered and permit on street parking in real time on your phone": {
+    "translatedText": "Encontre aberto, com medidores e permissão para estacionar na rua em tempo real no seu telefone",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Breeze through San Diego Traffic": {
+    "translatedText": "Brisa através do tráfego de San Diego",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "The city uses a modernized system to monitor traffic and count pedestrians and bicyclists, with congestion information shown in Augmented Reality": {
+    "translatedText": "A cidade usa um sistema modernizado para monitorar o tráfego e contar pedestres e ciclistas, com informações de congestionamento mostradas na Realidade Aumentada",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Visit Neighboring - Chula Vista": {
+    "translatedText": "Visite vizinho - Chula Vista",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Visit the farmers market at the Otay Ranch Town Center, or other in-store demos and classes to a wide variety of entertaining activities": {
+    "translatedText": "Visite o mercado de agricultores no Otay Ranch Town Center, ou outras demonstrações e aulas na loja para uma ampla variedade de atividades de entretenimento",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Visit Neighboring - Oceanside": {
+    "translatedText": "Visite a vizinha - Oceanside",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Showcases live performances, music, poetry, art education, culinary and pop-up art galleries embedded in their local businesses and public spaces": {
+    "translatedText": "Apresenta performances ao vivo, música, poesia, educação artística, galerias de arte culinária e pop-up incorporadas em seus negócios locais e espaços públicos",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Visit Neighboring - Solana Beach": {
+    "translatedText": "Visite a vizinha - Solana Beach",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Cedros Avenue Design District has been drawing residents and visitors for years. Dine, Shine & Rejuvnate in north county, San Diego": {
+    "translatedText": "A Cedros Avenue Design District atrai moradores e visitantes há anos. Jantar, Shine & Rejuvnate no norte do condado, San Diego",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Read about announcements, services, products, events, advertisements, transit, and neighboring cities in one convenient place.": {
+    "translatedText": "Leia sobre anúncios, serviços, produtos, eventos, anúncios, trânsito e cidades vizinhas em um local conveniente.",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Treating passengers to healthy food and snacks in dining cars, camaraderie with guests around the bar, in glass-walled observation cars, and other personalized services": {
+    "translatedText": "Tratar os passageiros com alimentos saudáveis e lanches nos vagões-restaurante, camaradagem com os hóspedes do bar, carros de observação com paredes de vidro e outros serviços personalizados",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Luggage": {
+    "translatedText": "Bagagem",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Pets on Trains": {
+    "translatedText": "Animais de Estimação em Trens",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Accessibility": {
+    "translatedText": "Acessibilidade",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Plan your transit while on the traveling!  Determine the best option with public transit routes, or user ride sharing services.  Check availability and arrival times.": {
+    "translatedText": "Planeje seu trânsito enquanto viaja! Determine a melhor opção com rotas de transporte público ou serviços de compartilhamento de passeio do usuário. Verifique a disponibilidade e horários de chegada.",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Public Transit Options": {
+    "translatedText": "Opções de transporte público",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Login Test": {
+    "translatedText": "Teste de Login",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Logout": {
+    "translatedText": "Sair",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "User 1 Ux Experience": {
+    "translatedText": "Usuário 1 Experiência Ux",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "My User 1 Name...": {
+    "translatedText": "Meu usuário 1 nome ...",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "My User 1 Acct Info...": {
+    "translatedText": "Meu usuário 1 Info Acct ...",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "My User 1 Details...": {
+    "translatedText": "Meu usuário 1 Detalhes ...",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "User 2 Ux Experience": {
+    "translatedText": "Usuário 2 Experiência Ux",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "My User 2 Name...": {
+    "translatedText": "Meu nome do usuário 2 ...",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "My User 2 Acct Info...": {
+    "translatedText": "My User 2 Acct Info ...",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "My User 2 Details...": {
+    "translatedText": "Meu usuário 2 detalhes ...",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "User 3 Ux Experience": {
+    "translatedText": "Usuário 3 Experiência Ux",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "My User 3 Name...": {
+    "translatedText": "Meu nome do usuário 3 ...",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "My User 3 Acct Info...": {
+    "translatedText": "My User 3 Acct Info ...",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "My User 3 Details...": {
+    "translatedText": "Meus detalhes do usuário 3 ...",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Auto Locate": {
+    "translatedText": "Auto Localizar",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "USE YOUR CURRENT LOCATION": {
+    "translatedText": "USE SUA LOCALIZAÇÃO ATUAL",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "EXPLORE ANOTHER AREA": {
+    "translatedText": "EXPLORE OUTRA ÁREA",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "CHOOSE LOCATION": {
+    "translatedText": "ESCOLHA A LOCALIZAÇÃO",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Choice 1": {
+    "translatedText": "Escolha 1",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Choice 2": {
+    "translatedText": "Escolha 2",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Entertainment": {
+    "translatedText": "Entretenimento",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Golf Courses": {
+    "translatedText": "Campos de golfe",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Parks": {
+    "translatedText": "Parks",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Public Art": {
+    "translatedText": "Arte pública",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Recreational Centers": {
+    "translatedText": "Centros Recreativos",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Trail Heads": {
+    "translatedText": "Cabeças de trilha",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Event": {
+    "translatedText": "Evento",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "STAY CONNECTED": {
+    "translatedText": "PERMANEÇA CONECTADO",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Location:": {
+    "translatedText": "Localização:",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "AUTO LOCATE": {
+    "translatedText": "LOCALIZAÇÃO AUTOMÁTICA",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Restaurants": {
+    "translatedText": "Restaurantes",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Coffee Shops": {
+    "translatedText": "Lojas de Café",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Hotels": {
+    "translatedText": "Hotéis",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Guesthouses": {
+    "translatedText": "Pousadas",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Bars": {
+    "translatedText": "Barras",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Gas Stations": {
+    "translatedText": "Posto de gasolina",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Notifications": {
+    "translatedText": "Notificações",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  },
+  "Read about announcements, services, products, events, and advertisiments related to the transit stops in one convenient place.": {
+    "translatedText": "Leia sobre anúncios, serviços, produtos, eventos e anúncios relacionados às paradas de trânsito em um local conveniente.",
+    "timestamp": 1545410665178,
+    "locked": false,
+    "user": "pornpatn"
+  }
+}
