@@ -1356,9 +1356,8 @@
     "user": "pornpatn"
   },
   "Back": {
-    "translatedText": "バック",
-    "timestamp": 1544741633098,
-    "locked": false,
+    "translatedText": "バックb",
+    "timestamp": 1548177750735,
     "user": "pornpatn"
   },
   "Password": {
@@ -3220,8 +3219,9 @@
     "timestamp": 1545409445888
   },
   "A-Z": {
-    "translatedText": "AZ",
-    "timestamp": 1545409445888
+    "translatedText": "AZa",
+    "timestamp": 1548177747592,
+    "user": "pornpatn"
   },
   "Custom": {
     "translatedText": "カスタム",
