@@ -4103,5 +4103,10 @@
   "Read about announcements, services, products, events, and advertisiments related to the transit stops in one convenient place.": {
     "translatedText": "交通停止に関するアナウンス、サービス、製品、イベント、広告主について、便利な場所で読むことができます。",
     "timestamp": 1545409467187
+  },
+  "Test summary file": {
+    "translatedText": "Japanese test summary file",
+    "timestamp": 1548180669329,
+    "user": "pornpatn"
   }
 }
