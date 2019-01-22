@@ -4108,5 +4108,15 @@
     "translatedText": "Japanese test summary file",
     "timestamp": 1548180669329,
     "user": "pornpatn"
+  },
+  "Test add 1": {
+    "translatedText": "ja 1",
+    "timestamp": 1548181034171,
+    "user": "pornpatn"
+  },
+  "Test add 2": {
+    "translatedText": "ja 2",
+    "timestamp": 1548181036566,
+    "user": "pornpatn"
   }
 }
