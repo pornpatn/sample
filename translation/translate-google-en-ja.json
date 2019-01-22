@@ -1356,8 +1356,8 @@
     "user": "pornpatn"
   },
   "Back": {
-    "translatedText": "バックb",
-    "timestamp": 1548177750735,
+    "translatedText": "バック",
+    "timestamp": 1548178523416,
     "user": "pornpatn"
   },
   "Password": {
@@ -3219,8 +3219,8 @@
     "timestamp": 1545409445888
   },
   "A-Z": {
-    "translatedText": "AZa",
-    "timestamp": 1548177747592,
+    "translatedText": "AZ",
+    "timestamp": 1548178519550,
     "user": "pornpatn"
   },
   "Custom": {
@@ -3668,8 +3668,8 @@
     "timestamp": 1545409450384
   },
   "A problem has occurred with fetching routes": {
-    "translatedText": "ルートを取得する際に問題が発生しましたabc",
-    "timestamp": 1547773326025,
+    "translatedText": "ルートを取得する際に問題が発生しました",
+    "timestamp": 1548178517036,
     "user": "pornpatn"
   },
   "Search for Routes": {
