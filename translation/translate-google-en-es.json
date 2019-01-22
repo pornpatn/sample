@@ -1440,5 +1440,10 @@
   "Gauge Test": {
     "translatedText": "Prueba de calibre",
     "timestamp": 1542840159641
+  },
+  "Test summary file": {
+    "translatedText": "Spanish test summary file",
+    "timestamp": 1548180678445,
+    "user": "pornpatn"
   }
 }
