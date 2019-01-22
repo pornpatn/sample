@@ -1445,5 +1445,15 @@
     "translatedText": "Spanish test summary file",
     "timestamp": 1548180678445,
     "user": "pornpatn"
+  },
+  "Test add 1": {
+    "translatedText": "es 1",
+    "timestamp": 1548181040069,
+    "user": "pornpatn"
+  },
+  "Test add 2": {
+    "translatedText": "es 2",
+    "timestamp": 1548181041547,
+    "user": "pornpatn"
   }
 }
