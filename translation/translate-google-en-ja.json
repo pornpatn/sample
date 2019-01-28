@@ -2644,12 +2644,6 @@
     "locked": false,
     "user": "pornpatn"
   },
-  "Load @{numSelectedItems} Templates": {
-    "translatedText": "@ {numSelectedItems}テンプレートを読み込む",
-    "timestamp": 1544741633098,
-    "locked": false,
-    "user": "pornpatn"
-  },
   "delete": {
     "translatedText": "削除",
     "timestamp": 1544741633098,
