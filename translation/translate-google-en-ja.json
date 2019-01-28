@@ -4112,9 +4112,5 @@
     "translatedText": "ja 2",
     "timestamp": 1548181036566,
     "user": "pornpatn"
-  },
-  "Load @{numSelectedItems} Templates": {
-    "translatedText": "@ {numSelectedItems}テンプレートを読み込む",
-    "timestamp": 1548716384897
   }
 }
