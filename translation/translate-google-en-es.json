@@ -1516,10 +1516,6 @@
     "translatedText": "Seleccione URL (s) para probar plantillas",
     "timestamp": 1548718059866
   },
-  "Load @{numSelectedItems} Templates": {
-    "translatedText": "Cargar @ {numSelectedItems} Plantillas",
-    "timestamp": 1548718059866
-  },
   "delete": {
     "translatedText": "borrar",
     "timestamp": 1548718059866
