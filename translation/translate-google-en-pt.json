@@ -4060,12 +4060,6 @@
     "locked": false,
     "user": "pornpatn"
   },
-  "Tab {{index}}": {
-    "translatedText": "Tabulação {{index}}",
-    "timestamp": 1545410665178,
-    "locked": false,
-    "user": "pornpatn"
-  },
   "Loading": {
     "translatedText": "Carregando",
     "timestamp": 1545410665178,
@@ -4617,9 +4611,5 @@
     "timestamp": 1545410665178,
     "locked": false,
     "user": "pornpatn"
-  },
-  "Tab <ccDblBr value=\"index\">": {
-    "translatedText": "Aba {{index}}",
-    "timestamp": 1548707566943
   }
 }
