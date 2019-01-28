@@ -1446,5 +1446,69 @@
   "": {
     "translatedText": "",
     "timestamp": 1548717429611
+  },
+  "Github Templates": {
+    "translatedText": "เทมเพลต Github",
+    "timestamp": 1548718059824
+  },
+  "Tutorial Examples": {
+    "translatedText": "ตัวอย่างการสอน",
+    "timestamp": 1548718059824
+  },
+  "Template Overview": {
+    "translatedText": "ภาพรวมเทมเพลต",
+    "timestamp": 1548718059824
+  },
+  "Basic Components": {
+    "translatedText": "องค์ประกอบพื้นฐาน",
+    "timestamp": 1548718059824
+  },
+  "Intermediate Components": {
+    "translatedText": "ส่วนประกอบกลาง",
+    "timestamp": 1548718059824
+  },
+  "Advanced Components": {
+    "translatedText": "ส่วนประกอบขั้นสูง",
+    "timestamp": 1548718059824
+  },
+  "Built-in Screens": {
+    "translatedText": "หน้าจอในตัว",
+    "timestamp": 1548718059824
+  },
+  "Applications": {
+    "translatedText": "การประยุกต์ใช้งาน",
+    "timestamp": 1548718059824
+  },
+  "Content Library": {
+    "translatedText": "ไลบรารีเนื้อหา",
+    "timestamp": 1548718059824
+  },
+  "unknown": {
+    "translatedText": "ไม่ทราบ",
+    "timestamp": 1548718059824
+  },
+  "Invalid URL": {
+    "translatedText": "URL ไม่ถูกต้อง",
+    "timestamp": 1548718059824
+  },
+  "Test Template": {
+    "translatedText": "เทมเพลตการทดสอบ",
+    "timestamp": 1548718059824
+  },
+  "Select URL(s) to Test Templates": {
+    "translatedText": "เลือก URL เพื่อทดสอบเทมเพลต",
+    "timestamp": 1548718059824
+  },
+  "Load @{numSelectedItems} Templates": {
+    "translatedText": "โหลดเทมเพลต @ {numSelectedItems}",
+    "timestamp": 1548718059824
+  },
+  "delete": {
+    "translatedText": "ลบ",
+    "timestamp": 1548718059824
+  },
+  "Add Github Branch": {
+    "translatedText": "เพิ่มสาขา Github",
+    "timestamp": 1548718059824
   }
 }
