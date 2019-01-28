@@ -2645,12 +2645,6 @@
     "locked": false,
     "user": "pornpatn"
   },
-  "Load @{numSelectedItems} Templates": {
-    "translatedText": "Carregar @ {numSelectedItems} modelos",
-    "timestamp": 1544739825262,
-    "locked": false,
-    "user": "pornpatn"
-  },
   "delete": {
     "translatedText": "excluir",
     "timestamp": 1544739825262,
