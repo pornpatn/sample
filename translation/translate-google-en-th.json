@@ -1506,9 +1506,5 @@
   "Add Github Branch": {
     "translatedText": "เพิ่มสาขา Github",
     "timestamp": 1548718059824
-  },
-  "Load @{numSelectedItems} Templates": {
-    "translatedText": "โหลดเทมเพลต @ {numSelectedItems}",
-    "timestamp": 1548718876020
   }
 }
