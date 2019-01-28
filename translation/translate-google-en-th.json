@@ -1438,5 +1438,9 @@
   "Gauge Test": {
     "translatedText": "การวัด Gauge",
     "timestamp": 1542840159691
+  },
+  "Tab {{index}}": {
+    "translatedText": "แถบ {{index}}",
+    "timestamp": 1548709816031
   }
 }
