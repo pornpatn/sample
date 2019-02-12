@@ -1,0 +1,154 @@
+{
+  "Github Templates": {
+    "translatedText": "เทมเพลต Github",
+    "timestamp": 1548720371209
+  },
+  "Tutorial Examples": {
+    "translatedText": "ตัวอย่างการสอน",
+    "timestamp": 1548720371209
+  },
+  "Template Overview": {
+    "translatedText": "ภาพรวมเทมเพลต",
+    "timestamp": 1548720371209
+  },
+  "Basic Components": {
+    "translatedText": "องค์ประกอบพื้นฐาน",
+    "timestamp": 1548720371209
+  },
+  "Intermediate Components": {
+    "translatedText": "ส่วนประกอบกลาง",
+    "timestamp": 1548720371209
+  },
+  "Advanced Components": {
+    "translatedText": "ส่วนประกอบขั้นสูง",
+    "timestamp": 1548720371209
+  },
+  "Built-in Screens": {
+    "translatedText": "หน้าจอในตัว",
+    "timestamp": 1548720371209
+  },
+  "Applications": {
+    "translatedText": "การประยุกต์ใช้งาน",
+    "timestamp": 1548720371209
+  },
+  "Content Library": {
+    "translatedText": "ไลบรารีเนื้อหา",
+    "timestamp": 1548720371209
+  },
+  "unknown": {
+    "translatedText": "ไม่ทราบ",
+    "timestamp": 1548720371209
+  },
+  "Invalid URL": {
+    "translatedText": "URL ไม่ถูกต้อง",
+    "timestamp": 1548720371209
+  },
+  "Test Template": {
+    "translatedText": "เทมเพลตการทดสอบ",
+    "timestamp": 1548720371209
+  },
+  "Select URL(s) to Test Templates": {
+    "translatedText": "เลือก URL เพื่อทดสอบเทมเพลต",
+    "timestamp": 1548720371209
+  },
+  "Load @{numSelectedItems} Templates": {
+    "translatedText": "ภาระ @{numSelectedItems} แม่แบบ",
+    "timestamp": 1548720371209
+  },
+  "Cancel": {
+    "translatedText": "ยกเลิก",
+    "timestamp": 1548720371209
+  },
+  "delete": {
+    "translatedText": "ลบ",
+    "timestamp": 1548720371209
+  },
+  "Add Github Branch": {
+    "translatedText": "เพิ่มสาขา Github",
+    "timestamp": 1548720371209
+  },
+  "Amenities": {
+    "translatedText": "สิ่งอำนวยความสะดวก",
+    "timestamp": 1548720444220
+  },
+  "Choose Your Amenities": {
+    "translatedText": "เลือกสิ่งอำนวยความสะดวกของคุณ",
+    "timestamp": 1548720444220
+  },
+  "Show @{prediction} Results": {
+    "translatedText": "แสดง @{prediction} ผล",
+    "timestamp": 1548720444220
+  },
+  "2 min": {
+    "translatedText": "2 นาที",
+    "timestamp": 1548720444220
+  },
+  "2 min walk - one city block": {
+    "translatedText": "เดิน 2 นาที - หนึ่งช่วงตึก",
+    "timestamp": 1548720444220
+  },
+  "5 min": {
+    "translatedText": "5 นาที",
+    "timestamp": 1548720444220
+  },
+  "5 min walk - 1/4 mile": {
+    "translatedText": "เดิน 5 นาที - 1/4 ไมล์",
+    "timestamp": 1548720444220
+  },
+  "10 min": {
+    "translatedText": "10 นาที",
+    "timestamp": 1548720444220
+  },
+  "10 min walk - 1/2 mile": {
+    "translatedText": "เดิน 10 นาที - 1/2 ไมล์",
+    "timestamp": 1548720444220
+  },
+  "20 min": {
+    "translatedText": "20 นาที",
+    "timestamp": 1548720444220
+  },
+  "20 min walk - 1 mile": {
+    "translatedText": "เดิน 20 นาที - 1 ไมล์",
+    "timestamp": 1548720444220
+  },
+  "Map": {
+    "translatedText": "แผนที่",
+    "timestamp": 1548720444220
+  },
+  "Find Transportation": {
+    "translatedText": "ค้นหาการขนส่ง",
+    "timestamp": 1548720444220
+  },
+  "Under Construction": {
+    "translatedText": "อยู่ระหว่างการก่อสร้าง",
+    "timestamp": 1548720444220
+  },
+  "This feature will be available soon!": {
+    "translatedText": "คุณสมบัตินี้จะเปิดให้บริการเร็ว ๆ นี้!",
+    "timestamp": 1548720444220
+  },
+  "Tab {{index}}": {
+    "translatedText": "แถบ {{index}}",
+    "timestamp": 1548720493286
+  },
+  "Enter {{label}}": {
+    "translatedText": "เข้าสู่ {{label}}",
+    "timestamp": 1548720547725
+  },
+  "Name": {
+    "translatedText": "ชื่อ",
+    "timestamp": 1548720547725
+  },
+  "Address": {
+    "translatedText": "ที่อยู่",
+    "timestamp": 1548720547725
+  },
+  "Type": {
+    "translatedText": "ชนิด",
+    "timestamp": 1548720547725
+  },
+  "Submit": {
+    "translatedText": "เสนอ",
+    "timestamp": 1548720547725
+  }
+}

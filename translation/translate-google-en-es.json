@@ -1,0 +1,154 @@
+{
+  "Github Templates": {
+    "translatedText": "Plantillas Github",
+    "timestamp": 1548720371211
+  },
+  "Tutorial Examples": {
+    "translatedText": "Ejemplos de tutoriales",
+    "timestamp": 1548720371211
+  },
+  "Template Overview": {
+    "translatedText": "Resumen de plantillas",
+    "timestamp": 1548720371211
+  },
+  "Basic Components": {
+    "translatedText": "Componentes básicos",
+    "timestamp": 1548720371211
+  },
+  "Intermediate Components": {
+    "translatedText": "Componentes intermedios",
+    "timestamp": 1548720371211
+  },
+  "Advanced Components": {
+    "translatedText": "Componentes Avanzados",
+    "timestamp": 1548720371211
+  },
+  "Built-in Screens": {
+    "translatedText": "Pantallas incorporadas",
+    "timestamp": 1548720371211
+  },
+  "Applications": {
+    "translatedText": "Aplicaciones",
+    "timestamp": 1548720371211
+  },
+  "Content Library": {
+    "translatedText": "Biblioteca de contenido",
+    "timestamp": 1548720371211
+  },
+  "unknown": {
+    "translatedText": "desconocido",
+    "timestamp": 1548720371211
+  },
+  "Invalid URL": {
+    "translatedText": "URL invalida",
+    "timestamp": 1548720371211
+  },
+  "Test Template": {
+    "translatedText": "Plantilla de prueba",
+    "timestamp": 1548720371211
+  },
+  "Select URL(s) to Test Templates": {
+    "translatedText": "Seleccione URL (s) para probar plantillas",
+    "timestamp": 1548720371211
+  },
+  "Load @{numSelectedItems} Templates": {
+    "translatedText": "Carga @{numSelectedItems} Plantillas",
+    "timestamp": 1548720371211
+  },
+  "Cancel": {
+    "translatedText": "Cancelar",
+    "timestamp": 1548720371211
+  },
+  "delete": {
+    "translatedText": "borrar",
+    "timestamp": 1548720371211
+  },
+  "Add Github Branch": {
+    "translatedText": "Añadir rama de Github",
+    "timestamp": 1548720371211
+  },
+  "Amenities": {
+    "translatedText": "Comodidades",
+    "timestamp": 1548720444214
+  },
+  "Choose Your Amenities": {
+    "translatedText": "Elija sus servicios",
+    "timestamp": 1548720444214
+  },
+  "Show @{prediction} Results": {
+    "translatedText": "Show @{prediction} Resultados",
+    "timestamp": 1548720444214
+  },
+  "2 min": {
+    "translatedText": "2 minutos",
+    "timestamp": 1548720444214
+  },
+  "2 min walk - one city block": {
+    "translatedText": "2 minutos a pie - una cuadra de la ciudad",
+    "timestamp": 1548720444214
+  },
+  "5 min": {
+    "translatedText": "5 minutos",
+    "timestamp": 1548720444214
+  },
+  "5 min walk - 1/4 mile": {
+    "translatedText": "5 minutos a pie - 1/4 milla",
+    "timestamp": 1548720444214
+  },
+  "10 min": {
+    "translatedText": "10 minutos",
+    "timestamp": 1548720444214
+  },
+  "10 min walk - 1/2 mile": {
+    "translatedText": "10 minutos a pie - 1/2 milla",
+    "timestamp": 1548720444214
+  },
+  "20 min": {
+    "translatedText": "20 minutos",
+    "timestamp": 1548720444214
+  },
+  "20 min walk - 1 mile": {
+    "translatedText": "20 minutos a pie - 1 milla",
+    "timestamp": 1548720444214
+  },
+  "Map": {
+    "translatedText": "Mapa",
+    "timestamp": 1548720444214
+  },
+  "Find Transportation": {
+    "translatedText": "Encontrar transporte",
+    "timestamp": 1548720444214
+  },
+  "Under Construction": {
+    "translatedText": "En construcción",
+    "timestamp": 1548720444214
+  },
+  "This feature will be available soon!": {
+    "translatedText": "¡Esta característica estará disponible pronto!",
+    "timestamp": 1548720444214
+  },
+  "Tab {{index}}": {
+    "translatedText": "Lengüeta {{index}}",
+    "timestamp": 1548720493266
+  },
+  "Enter {{label}}": {
+    "translatedText": "Entrar {{label}}",
+    "timestamp": 1548720547721
+  },
+  "Name": {
+    "translatedText": "Nombre",
+    "timestamp": 1548720547721
+  },
+  "Address": {
+    "translatedText": "Dirección",
+    "timestamp": 1548720547721
+  },
+  "Type": {
+    "translatedText": "Tipo",
+    "timestamp": 1548720547721
+  },
+  "Submit": {
+    "translatedText": "Enviar",
+    "timestamp": 1548720547721
+  }
+}

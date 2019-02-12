@@ -1,0 +1,154 @@
+{
+  "Github Templates": {
+    "translatedText": "Templates do Github",
+    "timestamp": 1548720371772
+  },
+  "Tutorial Examples": {
+    "translatedText": "Exemplos de Tutorial",
+    "timestamp": 1548720371772
+  },
+  "Template Overview": {
+    "translatedText": "Visão geral do modelo",
+    "timestamp": 1548720371772
+  },
+  "Basic Components": {
+    "translatedText": "Componentes básicos",
+    "timestamp": 1548720371772
+  },
+  "Intermediate Components": {
+    "translatedText": "Componentes Intermediários",
+    "timestamp": 1548720371772
+  },
+  "Advanced Components": {
+    "translatedText": "Componentes Avançados",
+    "timestamp": 1548720371772
+  },
+  "Built-in Screens": {
+    "translatedText": "Telas embutidas",
+    "timestamp": 1548720371772
+  },
+  "Applications": {
+    "translatedText": "Aplicações",
+    "timestamp": 1548720371772
+  },
+  "Content Library": {
+    "translatedText": "Biblioteca de Conteúdos",
+    "timestamp": 1548720371772
+  },
+  "unknown": {
+    "translatedText": "desconhecido",
+    "timestamp": 1548720371772
+  },
+  "Invalid URL": {
+    "translatedText": "URL inválida",
+    "timestamp": 1548720371772
+  },
+  "Test Template": {
+    "translatedText": "Modelo de teste",
+    "timestamp": 1548720371772
+  },
+  "Select URL(s) to Test Templates": {
+    "translatedText": "Selecione URL (s) para testar modelos",
+    "timestamp": 1548720371772
+  },
+  "Load @{numSelectedItems} Templates": {
+    "translatedText": "Carga @{numSelectedItems} Modelos",
+    "timestamp": 1548720371772
+  },
+  "Cancel": {
+    "translatedText": "Cancelar",
+    "timestamp": 1548720371772
+  },
+  "delete": {
+    "translatedText": "excluir",
+    "timestamp": 1548720371772
+  },
+  "Add Github Branch": {
+    "translatedText": "Adicionar Ramo Github",
+    "timestamp": 1548720371772
+  },
+  "Amenities": {
+    "translatedText": "Facilidades",
+    "timestamp": 1548720444298
+  },
+  "Choose Your Amenities": {
+    "translatedText": "Escolha suas comodidades",
+    "timestamp": 1548720444298
+  },
+  "Show @{prediction} Results": {
+    "translatedText": "exposição @{prediction} Resultados",
+    "timestamp": 1548720444298
+  },
+  "2 min": {
+    "translatedText": "2 minutos",
+    "timestamp": 1548720444298
+  },
+  "2 min walk - one city block": {
+    "translatedText": "2 min a pé - um quarteirão",
+    "timestamp": 1548720444298
+  },
+  "5 min": {
+    "translatedText": "5 min",
+    "timestamp": 1548720444298
+  },
+  "5 min walk - 1/4 mile": {
+    "translatedText": "5 minutos a pé - 1/4 de milha",
+    "timestamp": 1548720444298
+  },
+  "10 min": {
+    "translatedText": "10 min",
+    "timestamp": 1548720444298
+  },
+  "10 min walk - 1/2 mile": {
+    "translatedText": "10 min a pé - meia milha",
+    "timestamp": 1548720444298
+  },
+  "20 min": {
+    "translatedText": "20 minutos",
+    "timestamp": 1548720444298
+  },
+  "20 min walk - 1 mile": {
+    "translatedText": "20 min a pé - 1 milha",
+    "timestamp": 1548720444298
+  },
+  "Map": {
+    "translatedText": "Mapa",
+    "timestamp": 1548720444298
+  },
+  "Find Transportation": {
+    "translatedText": "Encontrar transporte",
+    "timestamp": 1548720444298
+  },
+  "Under Construction": {
+    "translatedText": "Em construção",
+    "timestamp": 1548720444298
+  },
+  "This feature will be available soon!": {
+    "translatedText": "Este recurso estará disponível em breve!",
+    "timestamp": 1548720444298
+  },
+  "Tab {{index}}": {
+    "translatedText": "Aba {{index}}",
+    "timestamp": 1548720493269
+  },
+  "Enter {{label}}": {
+    "translatedText": "Entrar {{label}}",
+    "timestamp": 1548720547715
+  },
+  "Name": {
+    "translatedText": "Nome",
+    "timestamp": 1548720547715
+  },
+  "Address": {
+    "translatedText": "Endereço",
+    "timestamp": 1548720547715
+  },
+  "Type": {
+    "translatedText": "Tipo",
+    "timestamp": 1548720547715
+  },
+  "Submit": {
+    "translatedText": "Enviar",
+    "timestamp": 1548720547715
+  }
+}

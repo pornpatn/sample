@@ -1,0 +1,154 @@
+{
+  "Github Templates": {
+    "translatedText": "Githubのテンプレート",
+    "timestamp": 1548720371299
+  },
+  "Tutorial Examples": {
+    "translatedText": "チュートリアル例",
+    "timestamp": 1548720371299
+  },
+  "Template Overview": {
+    "translatedText": "テンプレートの概要",
+    "timestamp": 1548720371299
+  },
+  "Basic Components": {
+    "translatedText": "基本コンポーネント",
+    "timestamp": 1548720371299
+  },
+  "Intermediate Components": {
+    "translatedText": "中間コンポーネント",
+    "timestamp": 1548720371299
+  },
+  "Advanced Components": {
+    "translatedText": "高度なコンポーネント",
+    "timestamp": 1548720371299
+  },
+  "Built-in Screens": {
+    "translatedText": "内蔵スクリーン",
+    "timestamp": 1548720371299
+  },
+  "Applications": {
+    "translatedText": "アプリケーション",
+    "timestamp": 1548720371299
+  },
+  "Content Library": {
+    "translatedText": "コンテンツライブラリ",
+    "timestamp": 1548720371299
+  },
+  "unknown": {
+    "translatedText": "道の",
+    "timestamp": 1548720371299
+  },
+  "Invalid URL": {
+    "translatedText": "無効なURL",
+    "timestamp": 1548720371299
+  },
+  "Test Template": {
+    "translatedText": "テストテンプレート",
+    "timestamp": 1548720371299
+  },
+  "Select URL(s) to Test Templates": {
+    "translatedText": "テンプレートをテストするためのURLを選択",
+    "timestamp": 1548720371299
+  },
+  "Load @{numSelectedItems} Templates": {
+    "translatedText": "負荷@{numSelectedItems}テンプレート",
+    "timestamp": 1548720371299
+  },
+  "Cancel": {
+    "translatedText": "キャンセル",
+    "timestamp": 1548720371299
+  },
+  "delete": {
+    "translatedText": "削除する",
+    "timestamp": 1548720371299
+  },
+  "Add Github Branch": {
+    "translatedText": "Githubブランチを追加",
+    "timestamp": 1548720371299
+  },
+  "Amenities": {
+    "translatedText": "アメニティ",
+    "timestamp": 1548720444224
+  },
+  "Choose Your Amenities": {
+    "translatedText": "あなたのアメニティを選択してください",
+    "timestamp": 1548720444224
+  },
+  "Show @{prediction} Results": {
+    "translatedText": "見せる@{prediction}結果",
+    "timestamp": 1548720444224
+  },
+  "2 min": {
+    "translatedText": "2分",
+    "timestamp": 1548720444224
+  },
+  "2 min walk - one city block": {
+    "translatedText": "徒歩2分 -  1シティブロック",
+    "timestamp": 1548720444224
+  },
+  "5 min": {
+    "translatedText": "5分",
+    "timestamp": 1548720444224
+  },
+  "5 min walk - 1/4 mile": {
+    "translatedText": "徒歩5分 -  1/4マイル",
+    "timestamp": 1548720444224
+  },
+  "10 min": {
+    "translatedText": "10分",
+    "timestamp": 1548720444224
+  },
+  "10 min walk - 1/2 mile": {
+    "translatedText": "徒歩10分 -  1/2マイル",
+    "timestamp": 1548720444224
+  },
+  "20 min": {
+    "translatedText": "20分",
+    "timestamp": 1548720444224
+  },
+  "20 min walk - 1 mile": {
+    "translatedText": "20分徒歩 -  1マイル",
+    "timestamp": 1548720444224
+  },
+  "Map": {
+    "translatedText": "地図",
+    "timestamp": 1548720444224
+  },
+  "Find Transportation": {
+    "translatedText": "交通機関を探す",
+    "timestamp": 1548720444224
+  },
+  "Under Construction": {
+    "translatedText": "工事中",
+    "timestamp": 1548720444224
+  },
+  "This feature will be available soon!": {
+    "translatedText": "この機能はすぐに利用可能になります！",
+    "timestamp": 1548720444224
+  },
+  "Tab {{index}}": {
+    "translatedText": "タブ{{index}}",
+    "timestamp": 1548720493271
+  },
+  "Enter {{label}}": {
+    "translatedText": "入る{{label}}",
+    "timestamp": 1548720547718
+  },
+  "Name": {
+    "translatedText": "名",
+    "timestamp": 1548720547718
+  },
+  "Address": {
+    "translatedText": "住所",
+    "timestamp": 1548720547718
+  },
+  "Type": {
+    "translatedText": "タイプ",
+    "timestamp": 1548720547718
+  },
+  "Submit": {
+    "translatedText": "提出する",
+    "timestamp": 1548720547718
+  }
+}
