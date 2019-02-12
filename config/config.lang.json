@@ -1,0 +1,46 @@
+{
+  "availableLocales": [
+    {
+      "name": "English (US)",
+      "locale": "en",
+      "shortFormatRelativeTime": {
+        "future": "in %s",
+        "past": "%s",
+        "s": "s",
+        "m": "%d min",
+        "mm": "%d mins",
+        "h": "%d hr",
+        "hh": "%d hrs",
+        "d": "%d day",
+        "dd": "%d days",
+        "M": "%d month",
+        "MM": "%d months",
+        "y": "%d year",
+        "yy": "%d years"
+      }
+    },
+    {
+      "name": "Portugês (BR)",
+      "locale": "pt",
+      "shortFormatRelativeTime": {
+        "future": "em %s",
+        "mm": "%d min",
+        "h": "%d h",
+        "hh": "%d h",
+        "d": "%d dia",
+        "dd": "%d dias",
+        "M": "%d mês",
+        "MM": "%d meses",
+        "y": "%d ano",
+        "yy": "%d anos"
+      }
+    },
+    {
+      "name": "日本語",
+      "locale": "ja"
+    }
+  ],
+  "locale": {
+    "origin": "eng"
+  }
+}
