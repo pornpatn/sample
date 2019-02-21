@@ -38,6 +38,14 @@
     {
       "name": "日本語",
       "locale": "ja"
+    },
+    {
+      "name": "Thai",
+      "locale": "th"
+    },
+    {
+      "name": "Spanish",
+      "locale": "es"
     }
   ],
   "locale": {
