@@ -98,7 +98,8 @@
   "10 min": {
     "translatedText": "10分 b",
     "timestamp": 1550869888626,
-    "user": "pornpatn"
+    "user": "pornpatn",
+    "locked": true
   },
   "10 min walk - 1/2 mile": {
     "translatedText": "徒歩10分 -  1/2マイル",
