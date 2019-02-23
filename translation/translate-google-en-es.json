@@ -98,7 +98,8 @@
   "10 min": {
     "translatedText": "10 minutos bcdef",
     "timestamp": 1550869878679,
-    "user": "pornpatn"
+    "user": "pornpatn",
+    "locked": true
   },
   "10 min walk - 1/2 mile": {
     "translatedText": "10 minutos a pie - 1/2 milla",
