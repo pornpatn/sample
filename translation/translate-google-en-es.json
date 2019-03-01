@@ -80,15 +80,11 @@
     "timestamp": 1548720444214
   },
   "2 min": {
-    "translatedText": "2 minutos",
+    "translatedText": "2 minutos S",
     "timestamp": 1548720444214
   },
   "2 min walk - one city block": {
     "translatedText": "2 minutos a pie - una cuadra de la ciudad",
-    "timestamp": 1548720444214
-  },
-  "5 min": {
-    "translatedText": "5 minutos",
     "timestamp": 1548720444214
   },
   "5 min walk - 1/4 mile": {
@@ -96,9 +92,13 @@
     "timestamp": 1548720444214
   },
   "10 min": {
-    "translatedText": "10 minutos",
+    "translatedText": "10 minutos S",
     "timestamp": 1551459627891,
     "user": "pornpatn"
+  },
+  "15 min": {
+    "translatedText": "15 minutos S",
+    "timestamp": 1548720444214
   },
   "20 min": {
     "translatedText": "20 minutos",
