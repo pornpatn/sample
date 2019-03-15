@@ -151,5 +151,15 @@
   "Submit": {
     "translatedText": "เสนอ",
     "timestamp": 1548720547725
+  },
+  "Yes": {
+    "translatedText": "ใช่",
+    "timestamp": 1552689287481,
+    "user": "pornpatn"
+  },
+  "Ok": {
+    "translatedText": "ตกลง",
+    "timestamp": 1552689290762,
+    "user": "pornpatn"
   }
 }
