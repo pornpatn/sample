@@ -98,7 +98,8 @@
   "10 min": {
     "translatedText": "10 min abc",
     "timestamp": 1553290947943,
-    "user": "pornpatn"
+    "user": "pornpatn",
+    "locked": true
   },
   "10 min walk - 1/2 mile xx": {
     "translatedText": "10 min a pé - meia milha",
