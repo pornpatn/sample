@@ -98,7 +98,8 @@
   "10 min": {
     "translatedText": "",
     "timestamp": 1553637416770,
-    "user": "pornpatn"
+    "user": "pornpatn",
+    "locked": true
   },
   "20 min": {
     "translatedText": "20 minutos",
